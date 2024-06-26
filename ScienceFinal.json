@@ -844,8 +844,8 @@
         "Weight": 60
       },
       {
-        "Name": "SummativeAssessment",
-        "Type": "Coursework",
+        "Name": "Theory Examination",
+        "Type": "Exam",
         "Weight": 40
       }
     ],
@@ -897,7 +897,7 @@
   },
   {
     "Code": "MZOB032",
-    "Name": "Conservation Genetics  Applied Biology",
+    "Name": "Conservation Genetics",
     "Description": "Part of this course deals with the fundamental principles of evolution and evolutionary analysis. The accent in \nthis part is on an introduction to basic evolutionary concepts, mechanisms of evolutionary change, Mendelian \ngenetics in populations, adaptation, mechanisms of speciation, continental drift,  palaeo -environment, \nstratigraphy, geological timetable, human and animal evolution. The last part of the course includes Laboratory \n& research techniques and Scientific reporting (biostatistics)  \nLearning Outcomes:  After successfully completing the module, the student should be able to:  \n-Understand the forces that shaped the palaeo -environment of southern Africa over the past 3.2 billion years  \n-Apply palaeontology knowledge of the major steps in plant and animal evolution in understanding the \npresent day flora of southern Africa  \n-Discuss human anatomical evolution in the light o f information of the hominins out of Africa  \n-Apply evolution as the underlying principle  of Biological Science  \n-Integrate knowledge of Genetics with the mechanism of evolution  \n-Know how to defend Neo -Darwanism  \n-Know the procedure to calibrate a microscope  \n-Describe the procedure of a microscopic and macroscopic examination of material  \n-Perform and describe a sedimentation technique  \n-Describe and illustrate fixation techniques  \n-Perform and describe staining with haematoxylin and silver nitrate  \n-Describe the various techniques to isolate eggs in urine  \n-Perform and describe thin and thick blood films and the staining process  \n-Describe the technique to isolate microfilariae and pinworm eggs  \nModule Information:  SAQA Credits  ITS Course Level Code  CESM Code (3rd Order)  \n32 3 130701  \nPeriods per Week:  Classes  Practicals  Tutorial  Seminars  Independent Learning  \n4 x 40 min.  1 x 3 h  Per arrangement  0 10 h",
     "Prerequisite": {
       "$and": [
@@ -954,6 +954,8 @@
         "Weight": 40
       }
     ],
+    "DP": 40,
+    "Credit": 24,
     "Institution": "Sefako Makgatho Health Sciences University"
   },
   {
@@ -978,6 +980,7 @@
         "Weight": 40
       }
     ],
+    "Credit": 24,
     "DP": 40,
     "Institution": "Sefako Makgatho Health Sciences University"
   },
@@ -1206,37 +1209,7 @@
   {
     "Code": "MCHA031",
     "Name": "Physical Chemistry 3",
-    "Description": "-Transport phenomena in gases and  liquids.  \n-Chemical  kinetics/theories  of chemical  collisions.  \n-Chemical  bonding.  \n-Quantum  mechanics  (properties  of light,  photoelectric  effect),  wave -particle  nature  of matter.  \n-Molecular structure and  symmetry.  \n-Vibrational and rotational  spectra.  69",
-    "Prerequisite": {
-      "Code": "MCHAB022"
-    },
-    "Corequisite": {
-      "Comment": "None"
-    },
-    "Assessments": [
-      {
-        "Name": "Summative Assessment",
-        "Type": "Coursework",
-        "Weight": 60
-      },
-      {
-        "Name": "Theory Examination",
-        "Type": "Exam",
-        "Weight": 40
-      }
-    ],
-    "DP": 40,
-    "Duration": "Term",
-    "Period": [
-      1
-    ],
-    "Credit": 16,
-    "Institution": "Sefako Makgatho Health Sciences University"
-  },
-  {
-    "Code": "MCHA031",
-    "Name": "Physical Chemistry 3",
-    "Description": "-Electronic transitions and magnetic  resonance.  \n-Miscellaneous Topics: Molecules in motion: viscosity, diffusion, mobility. Surface chemistry:  Processes  \nat solid surfaces  (Physisorption  and chemisorption,  adsorption  isotherms,  surface  tension),  \nHeterogeneous catalytic rate reactions, capillarity  \nLearning Outcomes:  Students should be able to demonstrate knowledge of electro -analytical methods, spectrometric methods  \nand separation methods  \nModule Information:  SAQA Credits  ITS Course Level Code  CESM Code (3rd Order)  \n16 3 140405  \nPeriods per Week:  Classes  Practicals  Tutorial  Seminars  Independent  \nLearning  \n4 \u00d7 45 min  1 \u00d7 6 hrs  1 \u00d7 45 min  N/A 11.8 hrs",
+    "Description": "-Transport phenomena in gases and  liquids.  \n-Chemical  kinetics/theories  of chemical  collisions.  \n-Chemical  bonding.  \n-Quantum  mechanics  (properties  of light,  photoelectric  effect),  wave -particle  nature  of matter.  \n-Molecular structure and  symmetry.  \n-Vibrational and rotational  spectra.\n-Electronic transitions and magnetic  resonance.  \n-Miscellaneous Topics: Molecules in motion: viscosity, diffusion, mobility. Surface chemistry:  Processes  \nat solid surfaces  (Physisorption  and chemisorption,  adsorption  isotherms,  surface  tension),  \nHeterogeneous catalytic rate reactions, capillarity  \nLearning Outcomes:  Students should be able to demonstrate knowledge of electro -analytical methods, spectrometric methods  \nand separation methods  \nModule Information:  SAQA Credits  ITS Course Level Code  CESM Code (3rd Order)  \n16 3 140405  \nPeriods per Week:  Classes  Practicals  Tutorial  Seminars  Independent  \nLearning  \n4 \u00d7 45 min  1 \u00d7 6 hrs  1 \u00d7 45 min  N/A 11.8 hrs",
     "Prerequisite": {
       "Code": "MCHAB022"
     },
@@ -1275,13 +1248,13 @@
     },
     "Assessments": [
       {
-        "Name": "SummativeAssessMark",
+        "Name": "Formative Assessments",
         "Type": "Coursework",
         "Weight": 60
       },
       {
-        "Name": "SummativeAssessMark",
-        "Type": "Coursework",
+        "Name": "Theory Examination",
+        "Type": "Exam",
         "Weight": 40
       }
     ],
@@ -1326,7 +1299,7 @@
   {
     "Code": "MCHB032",
     "Name": "Organic Chemistry 3",
-    "Description": "-Substitution  and elimination  reactions:  SN1, SN2, E1, E2. \n-Carbonyl  chemistry:  reactions  at the \u03b1 position  (Aldol  condensation  and related  reactions).  \n-Carboxylkic  acids  and their derivatives:  acyl compounds,  enolate  chemistry  of esters.  \n-Organic  spectroscopy:  systematic  identification  of organic  compounds  (mass  spectrometry,  infrared \nand UV/VIS  spectroscopy,  nuclear  magnetic  resonance).  \n-Organometallics:  Introduction  to organometallic  compounds.  \nLearning Outcomes:  A successful student in this module will gain proficiency in:  \n-Reactions and mechanisms of organic  molecules  \n-Identification  of organic  substances  using  spectroscopic  techniques  \n-Solving  problems  that involve  organic  molecules,  their reactions,  mechanisms  and identification  \n-Laboratory  techniques  used  to synthesize,  purify,  and identify  organic  substances  \nModule Information:  SAQA Credits  ITS Course Level Code  CESM Code (3rd Order)  \n16 3 140404  \nPeriods per Week:  Classes  Practicals  Tutorial  Seminars  Independent Learning  \n4 \u00d7 45 min  1 \u00d7 6 hrs  1 \u00d7 45 min  N/A 11.8 hrs",
+    "Description": "-Substitution  and elimination  reactions:  SN1, SN2, E1, E2. \n-Carbonyl  chemistry:  reactions  at the position  (Aldol  condensation  and related  reactions).  \n-Carboxylkic  acids  and their derivatives:  acyl compounds,  enolate  chemistry  of esters.  \n-Organic  spectroscopy:  systematic  identification  of organic  compounds  (mass  spectrometry,  infrared \nand UV/VIS  spectroscopy,  nuclear  magnetic  resonance).  \n-Organometallics:  Introduction  to organometallic  compounds.  \nLearning Outcomes:  A successful student in this module will gain proficiency in:  \n-Reactions and mechanisms of organic  molecules  \n-Identification  of organic  substances  using  spectroscopic  techniques  \n-Solving  problems  that involve  organic  molecules,  their reactions,  mechanisms  and identification  \n-Laboratory  techniques  used  to synthesize,  purify,  and identify  organic  substances  \nModule Information:  SAQA Credits  ITS Course Level Code  CESM Code (3rd Order)  \n16 3 140404  \nPeriods per Week:  Classes  Practicals  Tutorial  Seminars  Independent Learning  \n4 \u00d7 45 min  1 \u00d7 6 hrs  1 \u00d7 45 min  N/A 11.8 hrs",
     "Prerequisite": {
       "Code": "MCHA021"
     },
@@ -1376,6 +1349,7 @@
       }
     ],
     "DP": 40,
+    "Credit": 24,
     "Institution": "Sefako Makgatho Health Sciences University"
   },
   {
