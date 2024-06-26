@@ -1,0 +1,1570 @@
+[
+  {
+    "Code": "MBIO011",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MZOO012",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MCHM011",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MCHM102",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MPHS011",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MPHS012",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MMTH011",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MMTH022",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MHEL011",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MHEL012",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MBIA021",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 20
+  },
+  {
+    "Code": "MBIA022",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 20
+  },
+  {
+    "Code": "BTEC301",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 30
+  },
+  {
+    "Code": "BTEC302",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 30
+  },
+  {
+    "Code": "BTEC201",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 20
+  },
+  {
+    "Code": "BTEC303",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 30
+  },
+  {
+    "Code": "BTEC202",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 20
+  },
+  {
+    "Code": "BTEC304",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 30
+  },
+  {
+    "Code": "BTEC203",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 20
+  },
+  {
+    "Code": "BTEC204",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 20
+  },
+  {
+    "Code": "MBIO011",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "EMT201",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 20
+  },
+  {
+    "Code": "MZOO012",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "EMT202",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 20
+  },
+  {
+    "Code": "MCHM011",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "EHS201",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 20
+  },
+  {
+    "Code": "MCHM012",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "EHS202",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 20
+  },
+  {
+    "Code": "MPHS011",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MICB201",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 20
+  },
+  {
+    "Code": "MPHS012",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MICB202",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 20
+  },
+  {
+    "Code": "MMTH011",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MMTH012",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MHEL011",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MHEL012",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "EMT301",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 30
+  },
+  {
+    "Code": "EMT302",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 30
+  },
+  {
+    "Code": "EMT303",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 30
+  },
+  {
+    "Code": "EMT304",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 30
+  },
+  {
+    "Code": "MBIO011",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "EMT201",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 20
+  },
+  {
+    "Code": "MZOO012",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "EMT202",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 20
+  },
+  {
+    "Code": "MCHM011",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "EHS201",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 20
+  },
+  {
+    "Code": "MCHM012",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "EHS202",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 20
+  },
+  {
+    "Code": "MPHS011",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MICB201",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 20
+  },
+  {
+    "Code": "MPHS012",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MICB202",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 20
+  },
+  {
+    "Code": "MMTH011",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MMTH012",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MHEL011",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MHEL012",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "EHS301",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 30
+  },
+  {
+    "Code": "EHS302",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 30
+  },
+  {
+    "Code": "EPS301",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 30
+  },
+  {
+    "Code": "EPS302",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 30
+  },
+  {
+    "Code": "MBIO011",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MCHM012",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MCHM011",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MHEL012",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MHEL011",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MZOO012",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MMTH011",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MMTH012",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MPCL011",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MPCL012",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MPHS011",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MPHS012",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MBIA021",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 20
+  },
+  {
+    "Code": "MBIA022",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 20
+  },
+  {
+    "Code": "MCHA021",
+    "Duration": "Term",
+    "Period": [
+      1
+    ],
+    "Credit": 10
+  },
+  {
+    "Code": "MCHB021",
+    "Duration": "Term",
+    "Period": [
+      2
+    ],
+    "Credit": 10
+  },
+  {
+    "Code": "MCHA022",
+    "Duration": "Term",
+    "Period": [
+      3
+    ],
+    "Credit": 10
+  },
+  {
+    "Code": "MCHB022",
+    "Duration": "Term",
+    "Period": [
+      4
+    ],
+    "Credit": 10
+  },
+  {
+    "Code": "MPLA021",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 20
+  },
+  {
+    "Code": "MPLA022",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 20
+  },
+  {
+    "Code": "MZOA021",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 20
+  },
+  {
+    "Code": "MZOB022",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 20
+  },
+  {
+    "Code": "MPSA021",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 20
+  },
+  {
+    "Code": "MPSA022",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 20
+  },
+  {
+    "Code": "MBIA031",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 32
+  },
+  {
+    "Code": "MBIA032",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 32
+  },
+  {
+    "Code": "MCHA031",
+    "Duration": "Term",
+    "Period": [
+      1
+    ],
+    "Credit": 16
+  },
+  {
+    "Code": "MCHA032",
+    "Duration": "Term",
+    "Period": [
+      2
+    ],
+    "Credit": 16
+  },
+  {
+    "Code": "MCHB031",
+    "Duration": "Term",
+    "Period": [
+      3
+    ],
+    "Credit": 16
+  },
+  {
+    "Code": "MCHB032",
+    "Duration": "Term",
+    "Period": [
+      4
+    ],
+    "Credit": 16
+  },
+  {
+    "Code": "MPLB031",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 32
+  },
+  {
+    "Code": "MPLB032",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 32
+  },
+  {
+    "Code": "MZOA031",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 32
+  },
+  {
+    "Code": "MZOB032",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 32
+  },
+  {
+    "Code": "MPSA031",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 32
+  },
+  {
+    "Code": "MPSA032",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 32
+  },
+  {
+    "Code": "MMTH011",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MMTH012",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MHEL011",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MHEL012",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MAPM011",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MAPM012",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MCOA011",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MCOA012",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MSTS011",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MSTS012",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MPHS011",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MPHS012",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MMTA021",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 20
+  },
+  {
+    "Code": "MMTA022",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 20
+  },
+  {
+    "Code": "MAPA021",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 20
+  },
+  {
+    "Code": "MAPA022",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 20
+  },
+  {
+    "Code": "MCOA021",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 20
+  },
+  {
+    "Code": "MCOA022",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 20
+  },
+  {
+    "Code": "MSTA021",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 20
+  },
+  {
+    "Code": "MSTA022",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 20
+  },
+  {
+    "Code": "MPHA021",
+    "Duration": "Term",
+    "Period": [
+      1
+    ],
+    "Credit": 10
+  },
+  {
+    "Code": "MPHB021",
+    "Duration": "Term",
+    "Period": [
+      2
+    ],
+    "Credit": 10
+  },
+  {
+    "Code": "MPHA022",
+    "Duration": "Term",
+    "Period": [
+      3
+    ],
+    "Credit": 10
+  },
+  {
+    "Code": "MPHB022",
+    "Duration": "Term",
+    "Period": [
+      4
+    ],
+    "Credit": 10
+  },
+  {
+    "Code": "MAPA031",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 32
+  },
+  {
+    "Code": "MAPA032",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 32
+  },
+  {
+    "Code": "MMTA031",
+    "Duration": "Term",
+    "Period": [
+      1
+    ],
+    "Credit": 16
+  },
+  {
+    "Code": "MMTB031",
+    "Duration": "Term",
+    "Period": [
+      2
+    ],
+    "Credit": 16
+  },
+  {
+    "Code": "MMTA032",
+    "Duration": "Term",
+    "Period": [
+      3
+    ],
+    "Credit": 16
+  },
+  {
+    "Code": "MMTB032",
+    "Duration": "Term",
+    "Period": [
+      4
+    ],
+    "Credit": 16
+  },
+  {
+    "Code": "MCOA031",
+    "Duration": "Term",
+    "Period": [
+      1
+    ],
+    "Credit": 16
+  },
+  {
+    "Code": "MCOB031",
+    "Duration": "Term",
+    "Period": [
+      2
+    ],
+    "Credit": 16
+  },
+  {
+    "Code": "MCOA032",
+    "Duration": "Term",
+    "Period": [
+      3
+    ],
+    "Credit": 16
+  },
+  {
+    "Code": "MCOB032",
+    "Duration": "Term",
+    "Period": [
+      4
+    ],
+    "Credit": 16
+  },
+  {
+    "Code": "MSTA031",
+    "Duration": "Term",
+    "Period": [
+      1
+    ],
+    "Credit": 16
+  },
+  {
+    "Code": "MSTB031",
+    "Duration": "Term",
+    "Period": [
+      2
+    ],
+    "Credit": 16
+  },
+  {
+    "Code": "MPHA032",
+    "Duration": "Term",
+    "Period": [
+      3
+    ],
+    "Credit": 16
+  },
+  {
+    "Code": "MPHB032",
+    "Duration": "Term",
+    "Period": [
+      4
+    ],
+    "Credit": 16
+  },
+  {
+    "Code": "MPHA031",
+    "Duration": "Term",
+    "Period": [
+      1
+    ],
+    "Credit": 16
+  },
+  {
+    "Code": "MPHB031",
+    "Duration": "Term",
+    "Period": [
+      2
+    ],
+    "Credit": 16
+  },
+  {
+    "Code": "MSTA032",
+    "Duration": "Term",
+    "Period": [
+      3
+    ],
+    "Credit": 16
+  },
+  {
+    "Code": "MSTB032",
+    "Duration": "Term",
+    "Period": [
+      4
+    ],
+    "Credit": 16
+  },
+  {
+    "Code": "MSTC032",
+    "Duration": "Term",
+    "Period": [
+      4
+    ],
+    "Credit": 16
+  },
+  {
+    "Code": "MCHM011",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MCHM012",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MPHS011",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MPHS012",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MMTH011",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MMTH012",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MHEL011",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MHEL012",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MSTS011",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MSTS012",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MAPM011",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MAPM012",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MCOA011",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MCOB011",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MBIO011",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MZOO012",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MCHA021",
+    "Duration": "Term",
+    "Period": [
+      1
+    ],
+    "Credit": 10
+  },
+  {
+    "Code": "MCHA022",
+    "Duration": "Term",
+    "Period": [
+      3
+    ],
+    "Credit": 10
+  },
+  {
+    "Code": "MCHB021",
+    "Duration": "Term",
+    "Period": [
+      2
+    ],
+    "Credit": 10
+  },
+  {
+    "Code": "MCHB022",
+    "Duration": "Term",
+    "Period": [
+      4
+    ],
+    "Credit": 10
+  },
+  {
+    "Code": "MPHA021",
+    "Duration": "Term",
+    "Period": [
+      1
+    ],
+    "Credit": 10
+  },
+  {
+    "Code": "MPHA022",
+    "Duration": "Term",
+    "Period": [
+      3
+    ],
+    "Credit": 10
+  },
+  {
+    "Code": "MPHB021",
+    "Duration": "Term",
+    "Period": [
+      2
+    ],
+    "Credit": 10
+  },
+  {
+    "Code": "MPHB022",
+    "Duration": "Term",
+    "Period": [
+      4
+    ],
+    "Credit": 10
+  },
+  {
+    "Code": "MMTA021",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 20
+  },
+  {
+    "Code": "MMTA022",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 20
+  },
+  {
+    "Code": "MBIA021",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 20
+  },
+  {
+    "Code": "MBIA022",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 20
+  },
+  {
+    "Code": "MCHA031",
+    "Duration": "Term",
+    "Period": [
+      1
+    ],
+    "Credit": 16
+  },
+  {
+    "Code": "MCHB031",
+    "Duration": "Term",
+    "Period": [
+      2
+    ],
+    "Credit": 16
+  },
+  {
+    "Code": "MCHA032",
+    "Duration": "Term",
+    "Period": [
+      3
+    ],
+    "Credit": 16
+  },
+  {
+    "Code": "MCHB032",
+    "Duration": "Term",
+    "Period": [
+      4
+    ],
+    "Credit": 16
+  },
+  {
+    "Code": "MPHA031",
+    "Duration": "Term",
+    "Period": [
+      1
+    ],
+    "Credit": 16
+  },
+  {
+    "Code": "MPHB031",
+    "Duration": "Term",
+    "Period": [
+      2
+    ],
+    "Credit": 16
+  },
+  {
+    "Code": "MPHA032",
+    "Duration": "Term",
+    "Period": [
+      3
+    ],
+    "Credit": 16
+  },
+  {
+    "Code": "MPHB032",
+    "Duration": "Term",
+    "Period": [
+      4
+    ],
+    "Credit": 16
+  },
+  {
+    "Code": "MBIA031",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 32
+  },
+  {
+    "Code": "MBIA032",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 32
+  },
+  {
+    "Code": "MBIO011",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MCHM012",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MCHM011",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MHEL012",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MHEL011",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MPCL012",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MPCL011",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MMTH012",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MMTH011",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MZOO012",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 12
+  },
+  {
+    "Code": "MBIA021",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 20
+  },
+  {
+    "Code": "MPSB022",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 20
+  },
+  {
+    "Code": "MPLA021",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 20
+  },
+  {
+    "Code": "MPLA022",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 20
+  },
+  {
+    "Code": "MPSA021",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 20
+  },
+  {
+    "Code": "MPSA022",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 20
+  },
+  {
+    "Code": "MPLC031",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 32
+  },
+  {
+    "Code": "MPLC031",
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 32
+  },
+  {
+    "Code": "MPSA031",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 32
+  }
+]
