@@ -1,0 +1,714 @@
+[
+  {
+    "Code": "MBIA021",
+    "Prerequisite": "MCHM011 & MCHM012",
+    "Corequisite": "None",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()    50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MBIA022",
+    "Prerequisite": "MCHM011 & MCHM012",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()    50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MBIA031",
+    "Prerequisite": "MBIA021 and MBIA022",
+    "Corequisite": "None",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()    50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MBIA032",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()     50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MBIA021",
+    "Prerequisite": "MCHM011 & MCHM012",
+    "Corequisite": "None",
+    "Assessments": "Formative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()  50 \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "BTEC201",
+    "Prerequisite": "MBIO011, MZOO012, MCHM011, MCHM012",
+    "Corequisite": "BTEC202. BTEC 203 and BTEC 204",
+    "Assessments": "Formative Assessment Mark  60 \nSummative \nAssessment Mark  40 \nMinimum final mark to pass ()  50 \nSummative \nAssessment",
+    "DP": 40
+  },
+  {
+    "Code": "BTEC202",
+    "Prerequisite": "MBIO011, MZOO012, MCHM011, MCHM012",
+    "Corequisite": "BTEC201. BTEC 203 and BTEC 204",
+    "Assessments": "Formative Assessment Mark  60 \nSummative \nAssessment Mark  40 \nMinimum final mark to pass ()  50 \nSummative \nAssessment",
+    "DP": 40
+  },
+  {
+    "Code": "BTEC203",
+    "Prerequisite": "MBIO011, MZOO012, MCHM011, MCHM012",
+    "Corequisite": "BTEC202. BTEC 202 and BTEC 204",
+    "Assessments": "Formative Assessment Mark  60 \nSummative \nAssessment Mark  40 \nMinimum final mark to pass ()  50 \nSummative \nAssessment",
+    "DP": 40
+  },
+  {
+    "Code": "BTEC204",
+    "Prerequisite": "MBIO011, MZOO012, MCHM011, MCHM012",
+    "Corequisite": "BTEC201. BTEC 202 and BTEC 203",
+    "Assessments": "Formative Assessment Mark  60 \nSummative \nAssessment Mark  40 \nMinimum final mark to pass ()  50 \nSummative \nAssessment",
+    "DP": 40
+  },
+  {
+    "Code": "BTEC301",
+    "Prerequisite": "BTEC 201; BTEC 202, BTEC 203, BTEC 204, MBIA021 & MBIA022",
+    "Corequisite": "BTEC 302, BTEC 303 and BTEC 304",
+    "Assessments": "Formative Assessment Mark  60 \nSummative \nAssessment Mark  40 \nMinimum final mark to pass ()  50 \nSummative \nAssessment",
+    "DP": 40
+  },
+  {
+    "Code": "BTEC302",
+    "Prerequisite": "BTEC 201 2,  BTEC 203, BTEC 204, MBIA021 and MBIA022",
+    "Corequisite": "BTEC 301, BTEC 302 and BTEC 304",
+    "Assessments": "Formative Assessment Mark  60 \nSummative \nAssessment Mark  40 \nMinimum final mark to pass ()  50 \nSummative \nAssessment",
+    "DP": 40
+  },
+  {
+    "Code": "BTEC303",
+    "Prerequisite": "BTEC 201 and BTEC 202,  BTEC 203, BTEC 204, MBIA 021 & MBIA 022",
+    "Corequisite": "BTEC 301, BTEC 302 and BTEC 304",
+    "Assessments": "Formative Assessment Mark  60 \nSummative \nAssessment Mark  40 \nMinimum final mark to pass ()  50 \nSummative \nAssessment",
+    "DP": 40
+  },
+  {
+    "Code": "BTEC304",
+    "Prerequisite": "BTEC 201 and BTEC 202,  BTEC 203, BTEC 204, MBIA 021 & MBIA 022",
+    "Corequisite": "BTEC 301, BTEC 302 and BTEC 303  50 Assessment  Formative assessment:",
+    "Assessments": "Formative Assessment Mark  60 \nSummative \nAssessment Mark  40 \nMinimum final mark to pass ()  50 \nSummative \nAssessment",
+    "DP": 40
+  },
+  {
+    "Code": "MBIO000",
+    "Prerequisite": "None",
+    "Corequisite": "None",
+    "Assessments": "  Formative Assessments Mark  60 \nSummative Assessments Mark  40 \nMin Final Assessment mark to pass ()  50 \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MBIB000",
+    "Prerequisite": "None",
+    "Corequisite": "None",
+    "Assessments": "Formative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()  50 \nSummative \nAssessment",
+    "DP": 40
+  },
+  {
+    "Code": "MBIO011",
+    "Prerequisite": "None",
+    "Corequisite": "None",
+    "Assessments": "Formative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()  50 \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MZOO012",
+    "Prerequisite": "Compulsory registration of  BIO010M and/or MBIO011",
+    "Corequisite": "None",
+    "Assessments": "Formative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()  50 \nSummative \nAssessment  Paper:   Paper 1  Paper 2  Paper 3  Paper 4  \nTheory / Practical  Theory     \nDuration  3 hrs     \nSub minimum  40    CURRICULUM INFORMATION",
+    "DP": 40
+  },
+  {
+    "Code": "MZOA021",
+    "Prerequisite": "MBIO011 & MZOO012",
+    "Corequisite": "None",
+    "Assessments": "Formative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()  50 \nSummative Paper:   Paper 1  Paper 2  Paper 3  Paper 4  \nTheory / \nPractical  Theory     \nDuration  3 hrs     \nSub minimum  40    CURRICULUM INFORMATION",
+    "DP": 40
+  },
+  {
+    "Code": "MZOB022",
+    "Prerequisite": "MBIO011 & MZOO012",
+    "Corequisite": "None",
+    "Assessments": "Formative Assessment Mark  60 \nSummative Assessment \nMark  40 \nMin Final Assessment mark to pass ()  50 \nSummative \nAssessment  Paper:   Paper 1  Paper 2  Paper 3  Paper 4  \nTheory / Practical  Theory     \nDuration  3 hrs     \nSub minimum  40    CURRICULUM INFORMATION",
+    "DP": 40
+  },
+  {
+    "Code": "MZOA031",
+    "Prerequisite": "ZLY201M (final code not available yet)  and MCHM011",
+    "Corequisite": "None",
+    "Assessments": "Formative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()  50 \nSummative \nAssessment  Paper:   Paper 1  Paper 2  Paper 3  Paper 4  \nTheory / Practical  Theory     \nDuration  3 hrs     \nSub minimum  40    CURRICULUM INFORMATION",
+    "DP": 40
+  },
+  {
+    "Code": "MZOB032",
+    "Prerequisite": "MZOB022 and MCHM012",
+    "Corequisite": "None",
+    "Assessments": "Formative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()  50 \nSummative \nAssessment Paper:   Paper 1  Paper 2  Paper 3  Paper 4  \nTheory / Practical  Theory     \nDuration  3 hrs     \nSub minimum  40    CURRICULUM INFORMATION",
+    "DP": 40
+  },
+  {
+    "Code": "MCHM000",
+    "Prerequisite": "None",
+    "Corequisite": "None",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()     50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment"
+  },
+  {
+    "Code": "MCHB000",
+    "Prerequisite": "None",
+    "Corequisite": "None",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()     50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MCHM011",
+    "Prerequisite": "None",
+    "Corequisite": "MMTH011 and MMTH012",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()     50 63  Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MCHM012",
+    "Prerequisite": "None",
+    "Corequisite": "MMTH011/MMTH012",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()     50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MCHA021",
+    "Prerequisite": "MCHM012",
+    "Corequisite": "N/A",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()     50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MCHB021",
+    "Prerequisite": "MCHM012",
+    "Corequisite": "N/A",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()     50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MCHA022",
+    "Prerequisite": "MCHM011",
+    "Corequisite": "None",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()    50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MCHB022",
+    "Prerequisite": "MCHM011 & MMTH011",
+    "Corequisite": "None",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()     50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MCHA031",
+    "Prerequisite": "MCHAB022",
+    "Corequisite": "None",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()     50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MCHB031",
+    "Prerequisite": "MCHB021",
+    "Corequisite": "None",
+    "Assessments": "Summative Assess Mark  60 \nSummative Assess Mark  40 \nMin Final Assessment mark to pass ()      50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MCHA032",
+    "Prerequisite": "MCHA022",
+    "Corequisite": "None",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()     50 71",
+    "DP": 40
+  },
+  {
+    "Code": "MCHB032",
+    "Prerequisite": "MCHA021",
+    "Corequisite": "None",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()     50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MCSC000",
+    "Prerequisite": "None",
+    "Corequisite": "None",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()   50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MCSB000",
+    "Prerequisite": "None",
+    "Corequisite": "None",
+    "Assessments": "Summative Assessment Mark   60 \nSummative Assessment Mark   40 \nMin Final Assessment mark to pass ()        50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MCOA011",
+    "Prerequisite": "None",
+    "Corequisite": "MMTH011, MSTS011",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()    50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MCOB011",
+    "Prerequisite": "None",
+    "Corequisite": "MMTH012 ; MSTS012",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()     50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MC0A021",
+    "Prerequisite": "MMTH011, MMTH012, MCOA011, MCOB011",
+    "Corequisite": "MMTA021",
+    "Assessments": "Summative Assess Mark  60 \nSummative Assess Mark  40 \nMin Final Assessment mark to pass ()    50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MCOA022",
+    "Prerequisite": "MMTH011, MCOA011, MCOB011",
+    "Corequisite": "MMTA022",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()    50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MCOA031",
+    "Prerequisite": "MCOA021,MCOA022 ,MMTH011, MMTH012",
+    "Corequisite": "None",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()    50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MCOB031",
+    "Prerequisite": "MCOA021,MCOA022, MMTH011, MMTH012",
+    "Corequisite": "None",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()    50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MCOA032",
+    "Prerequisite": "MCOA021,MCOA022, MMTH011, MMTH012",
+    "Corequisite": "None",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()      50 81",
+    "DP": 40
+  },
+  {
+    "Code": "MCOB032",
+    "Prerequisite": "MCOA021,MCOA022, MMTH011, MMTH012",
+    "Corequisite": "None",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()     50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Prerequisite": "MZOO011& MZOO012, MCHM011& MCHM012 ,MPHS011& MPHS012 ,MMTH011&",
+    "Corequisite": "EMT202,EHS201,MICB201 & MICB202",
+    "Assessments": "Formative Assessment Mark  60 \nSummative \nAssessment Mark  40 \nMinimum final mark to pass ()  50 \nSummative \nAssessment",
+    "DP": 40
+  },
+  {
+    "Prerequisite": "MZOO011, MZOO012, MCHM011, MCHM012  ,MPHS011& MPHS012 ,MMTH011&MMTH012",
+    "Corequisite": "EMT 202",
+    "Assessments": "Formative Assessment Mark  60 \nSummative \nAssessment Mark  40 \nMinimum final mark  to pass ()  50 \nSummative \nAssessment",
+    "DP": 40
+  },
+  {
+    "Prerequisite": "EMT 201 AND 202",
+    "Corequisite": "No",
+    "Assessments": "Minimum Form Assessment  Mark \nfor exam admission ()  40  Form ative  \nAssessment  Mark  60 98   Summ ative  \nAssessment  Mark  40 \nMinimum  final mark to pass ()  50 \nSummative \nAssessment"
+  },
+  {
+    "Prerequisite": "EMT 201 AND EMT 202",
+    "Corequisite": "No",
+    "Assessments": "Minimum Form  Assessment  Mark \nfor exam admission ()  40  Form ative  \nAssessment  Mark  60 \n Summ ative  \nAssessment  Mark  40 \nMinimum  final mark to pass ()  50 \nSummative \nAssessment"
+  },
+  {
+    "Prerequisite": "EMT 201 and EMT 202",
+    "Corequisite": "No",
+    "Assessments": "Minimum Form Assessment  Mark \nfor exam admission ()  40  Form ative  \nAssessment  Mark  60 \n Summ ative  \nAssessment  Mark  40 \nMinimum  final mark to pass ()  50 \nSummative \nAssessment"
+  },
+  {
+    "Prerequisite": "EMT 201 and 202",
+    "Corequisite": "No",
+    "Assessments": "Minimum Form Assessment  Mark \nfor exam admission ()  40  Form ative  \nAssessment  Mark  60 \n Summ ative  \nAssessment  Mark  40 \nMinimum  final mark to pass ()  50 \nSummative \nAssessment"
+  },
+  {
+    "Code": "MHEL000",
+    "Prerequisite": "None",
+    "Corequisite": "None",
+    "Assessments": "Summative Assessment Mark  40 \nMin Final Assessment mark to  pass ()    50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment"
+  },
+  {
+    "Code": "MHEB012",
+    "Prerequisite": "None",
+    "Corequisite": "None",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final  Assessment mark to pass ()     50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MHEL011",
+    "Prerequisite": "None",
+    "Corequisite": "None",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()     50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MHEL012",
+    "Prerequisite": "None",
+    "Corequisite": "None",
+    "Assessments": "Summative Assessment Mark  60 Summative Assessment Mark  40 \nMin Final Assessment mark to pass ()      50 Paper 1  Paper 2  Paper 3  Paper 4  \nAssessment Paper:  Theory / Practical  Practical  Theory    \nDuration  3 hrs  3 hrs    \nSub minimum  40 40    107  Module Information:   SAQA Credits   ITS Course Level  CESM Code (3rd Order)  \n(Six Numbers)  \n20 2 131205  \nDelivery Information:  Campus  Full/Part Time  Period  \nYear/1st/2nd Semester  \nSMU  Contact  Year  \nPeriods per week:                            Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n5 3 hours  1  30 hours",
+    "DP": 40
+  },
+  {
+    "Prerequisite": "MZOO011, MZOO012, MCHM011, MCHM012",
+    "Corequisite": "No",
+    "Assessments": "Minimum Form Assessment  Mark \nfor exam admission ()  40  Form ative  \nAssessment  Mark  60 \n Summ ative  \nAssessment  Mark  40 \nMinimum  final mark to pass ()  50 \nSummative \nAssessment"
+  },
+  {
+    "Code": "MMTH000",
+    "Prerequisite": "None",
+    "Corequisite": "None",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()     50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MAPM011",
+    "Prerequisite": "None",
+    "Corequisite": "MMTH011 and MMTH012",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()     50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MAPM012",
+    "Prerequisite": "None",
+    "Corequisite": "MMTH011 and MMTH012",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()     50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MAPA021",
+    "Prerequisite": "MAPM011, MAPM012, MMTH011, MMTH012",
+    "Corequisite": "MMTA021",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()     50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MAPA022",
+    "Prerequisite": "MMTH011, MMTH012, MAPM011, MAPM012",
+    "Corequisite": "MMTA022",
+    "Assessments": "Summative Assessment Mark   60 \nSummative Assessment Mark   40 \nMin Final Assessment mark to pass ()     50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MAPA031",
+    "Prerequisite": "MMTA021, MMTA022, MAPA021, MAPA022",
+    "Corequisite": "MAPA032",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()     50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MAPA302",
+    "Prerequisite": "MMTA021, MMTA022, MAPA021,MAPA022",
+    "Corequisite": "MAPA031",
+    "Assessments": "Min Summative Assessment mark for exam admission ()  40 \nSummative Assess Mark  60 \nSummative Assess Mark  40 \nMin Final Assessment mark to pass ()  50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative \nAssessment Paper:  Theory / Practical  Theory     \nDuration  3 hrs     \nSub minimum  40    \nCURRICULUM INFORMATION"
+  },
+  {
+    "Code": "MMTH011",
+    "Prerequisite": "None",
+    "Corequisite": "None",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()    50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MMTH012",
+    "Prerequisite": "None",
+    "Corequisite": "None",
+    "Assessments": "Min Summative Assessments mark for exam admission ()    40 \nSummative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()     50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment"
+  },
+  {
+    "Code": "MMTA021",
+    "Prerequisite": "MMTH011",
+    "Corequisite": "None",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()     50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MMTA022",
+    "Prerequisite": "MMTH012",
+    "Corequisite": "None",
+    "Assessments": "Summative Assess Mark  60 \nSummative Assess Mark  40 \nMin Final Assessment mark to pass ()     50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MMTA023",
+    "Prerequisite": "MMTH011",
+    "Corequisite": "None",
+    "Assessments": "  Formative Assessments Mark  60 \nSummative Assessments Mark  40 \nMin Final Assessment mark to pass ()  50 \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MMTA024",
+    "Prerequisite": "MMTH012",
+    "Corequisite": "None",
+    "Assessments": "  Formative Assessments Mark  60 \nSummative Assessments Mark  40 \nMin Final Assessment mark to pass () 50 \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MAPA033",
+    "Prerequisite": "MMTA021, MMTA022, MAPA021, MAPA022",
+    "Corequisite": "MAPA031, MAPA032, MAPA034",
+    "Assessments": "Formative Assess Mark  60 \nSummative Assess Mark  40 \nMin Final Assessment mark to pass ()  50 \nSummative \nAssessment  Paper:   Paper 1  Paper 2  Paper 3  Paper 4  \nTheory / Practical  Theory     \nDuration  3 Hours     \nSub minimum  40    CURRICULUM INFORMATION",
+    "DP": 40
+  },
+  {
+    "Code": "MAPA034",
+    "Prerequisite": "MMTA021, MMTA022, MAPA021, MAPA022",
+    "Corequisite": "MAPA031, MAPA032, MAPA033",
+    "Assessments": "Formative Assess Mark  60 \nSummative Assess Mark  40 \nMin Final Assessment mark to pass ()  50 \nSummative \nAssessment  Paper:   Paper 1  Paper 2  Paper 3  Paper 4  \nTheory / Practical  Theory     \nDuration  3 Hours     \nSub minimum  40    CURRICULUM INFORMATION",
+    "DP": 40
+  },
+  {
+    "Code": "MMTA031",
+    "Prerequisite": "MMTA021",
+    "Corequisite": "None",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()     50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MMTB031",
+    "Prerequisite": "MMTA022",
+    "Corequisite": "None",
+    "Assessments": "Summative Assess Mark  60 \nSummative Assess Mark  40 \nMin Final Assessment mark to pass ()     50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MMTA032",
+    "Prerequisite": "MMTA021",
+    "Corequisite": "MMTA031",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 124  Min Final Assessment mark to pass ()    50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MMTB032",
+    "Prerequisite": "MMTA021",
+    "Corequisite": "MMTA031",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()    50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MPHS000",
+    "Prerequisite": "None",
+    "Corequisite": "None",
+    "Assessments": "Summative Assessment Mark  60 Summative Assessment Mark  40 \nMin Final Assessment mark to pass ()      50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MPHB000",
+    "Prerequisite": "None",
+    "Corequisite": "None",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()      50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MPHS011",
+    "Prerequisite": "None",
+    "Corequisite": "MMTH011",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()    50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MPHS012",
+    "Prerequisite": "None",
+    "Corequisite": "MMTH012",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()    50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MPHA021",
+    "Prerequisite": "MPHS011 and MPHS012",
+    "Corequisite": "MMTH011",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()    50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MPHB021",
+    "Prerequisite": "MPHS011 and MPHS012",
+    "Corequisite": "MMTH012",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()     50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MPHA022",
+    "Prerequisite": "MPHS011 and MPHS012",
+    "Corequisite": "MMTH012",
+    "Assessments": "Summative Assessment Mark   60 \nSummative Assessment Mark   40 \nMin Final Assessment mark to pass ()     50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MPHB022",
+    "Prerequisite": "MPHS011; MPHS012",
+    "Corequisite": "MMTH012",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()    50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MPHA031",
+    "Prerequisite": "MPHA021; , MPHB021, MPHA022, MPHB022, MMTA021, MMTA 022",
+    "Corequisite": "MPHB031, MPHB032, MPHA032",
+    "Assessments": "Summative Assessment Mark   60 \nSummative Assessment Mark   40 \nMin Final Assessment mark to pass  ()       50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MPHB031",
+    "Prerequisite": "MPHA022, MPHB022, MPHA021, MPHB021, MMTA021, MMTA022",
+    "Corequisite": "MPHA031, MPHA032, MPHB032",
+    "Assessments": "Min Summative Assessment mark for exam admission ()  40 \nSummative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()  50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment"
+  },
+  {
+    "Code": "MPHA032",
+    "Prerequisite": "MPHA022, MPHB022, MPHA021, MPHB021, MMTA021, MMTA022",
+    "Corequisite": "MPHA031, MPHB031, MPHB032",
+    "Assessments": "Summative Assessment Mark  60 \nSummative  Assessment Mark  40 \nMin Final Assessment mark to pass ()       50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MPHB032",
+    "Prerequisite": "MPHA021, MPHA022, MPHB021, MPHB022, MMTA021, MMTA022",
+    "Corequisite": "MPHA031, MPHA032, MPHB032",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()     50 Paper 1  Paper 2  Paper 3  Paper 4 \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MSTS000",
+    "Prerequisite": "None",
+    "Corequisite": "MMTH011",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()    50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MSTS011",
+    "Prerequisite": "None",
+    "Corequisite": "MMTH011",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()    50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MSTS012",
+    "Prerequisite": "None",
+    "Corequisite": "MMTH012",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()     50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MSTA021",
+    "Prerequisite": "MMTH011, MMTH012, MSTS011, MSTS012",
+    "Corequisite": "MMTA021",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()    50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MSTA022",
+    "Prerequisite": "MMTH011, MMTH012, MSTS011, MSTS012",
+    "Corequisite": "MMTA022",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment  Mark  40 \nMin Final Assessment mark to pass  ()     50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MSTA031",
+    "Prerequisite": "MSTA021, MSTA022",
+    "Corequisite": "None",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()     50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MSTB031",
+    "Prerequisite": "MMTA022, MSTA021,MSTA022",
+    "Corequisite": "None",
+    "Assessments": "Summative Assess  Mark   60 \nSummative Assess  Mark   40 \nMin Final Assessment mark to pass ()     50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MSTA032",
+    "Prerequisite": "MMTA022, MSTA021, MSTA022",
+    "Corequisite": "None",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()    50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MSTB032",
+    "Prerequisite": "MMTA022, MSTA021, MSTA022",
+    "Corequisite": "None",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()    50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MSTC032",
+    "Prerequisite": "MSTA021, MSTA022",
+    "Corequisite": "None",
+    "Assessments": "Min Summative Assessment mark for exam  admission ()    40 \nSummative Assess Mark   60 \nSummative Assess Mark   40 \nMin Final Assessment mark to pass ()     50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment"
+  },
+  {
+    "Code": "MPLA021",
+    "Prerequisite": "None",
+    "Corequisite": "MBIA021",
+    "Assessments": "Min Summative Assessment mark for  exam admission ()    40 \nSummative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()     50  DEPARTMENT :  HUMAN PHYSIOLOGY  146"
+  },
+  {
+    "Code": "MPLA022",
+    "Prerequisite": "None",
+    "Corequisite": "MBIA021",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()    50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MPLC031",
+    "Prerequisite": "MBIA021",
+    "Corequisite": "MPLCO32",
+    "Assessments": "Min Summative Assessment  mark for exam admission ()   40 \nSummative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()    50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment"
+  },
+  {
+    "Code": "MPLC032",
+    "Prerequisite": "MBIA021",
+    "Corequisite": "MPLC031",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()    50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MPCL011",
+    "Prerequisite": "None",
+    "Corequisite": "None",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()    50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MPCL012",
+    "Prerequisite": "None",
+    "Corequisite": "None",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMin Final Assessment mark to pass ()    50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MPSA021",
+    "Prerequisite": "MPCL011, MPCL012",
+    "Corequisite": "None",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMinimum final mark to pass ()    50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MPSA022",
+    "Prerequisite": "MPCL011,MPCL012",
+    "Corequisite": "None",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 Minimum final mark to pass ()   50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MPSB022",
+    "Prerequisite": "MPCL011, MPCL012",
+    "Corequisite": "None  154",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMinimum final mark to pass ()     50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  },
+  {
+    "Code": "MPSA032",
+    "Prerequisite": "MPSA021,  MPSA022",
+    "Corequisite": "None",
+    "Assessments": "Summative Assessment Mark  60 \nSummative Assessment Mark  40 \nMinimum final mark to pass ()       50 Paper 1  Paper 2  Paper 3  Paper 4  \nSummative Assessment",
+    "DP": 40
+  }
+]
