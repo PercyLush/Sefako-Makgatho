@@ -23,7 +23,7 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -57,7 +57,7 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -94,7 +94,7 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -118,7 +118,7 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -165,7 +165,7 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -189,7 +189,7 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -242,7 +242,7 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -295,7 +295,7 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -348,7 +348,7 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -364,7 +364,7 @@
   {
     "Code": "BTEC204",
     "Name": "Immunology: Concepts, Mechanisms and Applications in Biotechnology",
-    "Description": "Innate and acquired immunity. Cells of the immune system and their development, pattern \nrecognition receptors and innate immunity, molecular mechanisms of antigen processing \nand presentation,  long distance communication and immune cells\u2019 migration, homing, and \ntrafficking. The workings of the mammalian immune system; Application of immunology in \nBiotechnology and autoimmune diseases; Use of immunotherapy in industry will also be \ndiscussed.  \nLearning Outcomes:  \uf0a7 Differentiate between innate and adaptive immunity  \n\uf0a7 Describe the development of both B -lymphocytes and T -lymphocytes  \n\uf0a7 Describe the classification and structure  of antibodies  \n\uf0a7 Understand the biochemical, molecular, cellular, and organ -level principles that govern \nthe workings of the mammalian immune system.  \n\uf0a7 Describe molecular mechanisms of antigen processing and presentation  \n\uf0a7 Describe the application of immunology in Biotechnolo gy \nModule Information:  SAQA Credits   CESM Code (3rd Order)  \n(Six Numbers)  \n20 2 130505  \nDelivery Information:  Campus  Full/Part Time  Period  44 Year/1st/2nd Semester  \nSMU  Contact    Year  \nPeriods per week:                           Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n5 3 hours  1  40 hours",
+    "Description": "Innate and acquired immunity. Cells of the immune system and their development, pattern \nrecognition receptors and innate immunity, molecular mechanisms of antigen processing \nand presentation,  long distance communication and immune cells' migration, homing, and \ntrafficking. The workings of the mammalian immune system; Application of immunology in \nBiotechnology and autoimmune diseases; Use of immunotherapy in industry will also be \ndiscussed.  \nLearning Outcomes:  \uf0a7 Differentiate between innate and adaptive immunity  \n\uf0a7 Describe the development of both B -lymphocytes and T -lymphocytes  \n\uf0a7 Describe the classification and structure  of antibodies  \n\uf0a7 Understand the biochemical, molecular, cellular, and organ -level principles that govern \nthe workings of the mammalian immune system.  \n\uf0a7 Describe molecular mechanisms of antigen processing and presentation  \n\uf0a7 Describe the application of immunology in Biotechnolo gy \nModule Information:  SAQA Credits   CESM Code (3rd Order)  \n(Six Numbers)  \n20 2 130505  \nDelivery Information:  Campus  Full/Part Time  Period  44 Year/1st/2nd Semester  \nSMU  Contact    Year  \nPeriods per week:                           Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n5 3 hours  1  40 hours",
     "Prerequisite": {
       "$and": [
         {
@@ -401,7 +401,7 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -460,7 +460,7 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -519,7 +519,7 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -535,7 +535,7 @@
   {
     "Code": "BTEC303",
     "Name": "Biosensors and Biochips",
-    "Description": "Conventional biosensors based on whole cells, nucleic acids, antibodies and enzymes \n(e.g., enzymatic glucose monitoring) as well as new and emerging technologies related to \ndesigning, fabricating and applying multi -array biochips and micro -fluidic systems (lab -on-\nthe-chip).  The interface between biotechnology, nanotechnology and micro -electronics \nindustries .  \nLearning Outcomes:  \uf0a7 Understand the basic principles of biosensors design and their applications.  \n\uf0a7 Understand the basic principles of biochip design and its applications.  \n\uf0a7 Describe and understand the applications of biosensors and biochips in health care, \nmedical diagnostics, defense and other areas.  \nModule Information:  SAQA Credits   ITS Course Level  CESM Code (3rd Order)  \n(Six Numbers)  \n30 3 131101  \nDelivery Information:  Campus  Full/Part Time  Period  \nYear/1st/2nd Semester  \nSMU  Full   Year  \nPeriods per week:                           Classes  Practical\u2019s  Tutorial  Seminars  Independent \nLearning  \n5 3 hours  1  40 hours",
+    "Description": "Conventional biosensors based on whole cells, nucleic acids, antibodies and enzymes \n(e.g., enzymatic glucose monitoring) as well as new and emerging technologies related to \ndesigning, fabricating and applying multi -array biochips and micro -fluidic systems (lab -on-\nthe-chip).  The interface between biotechnology, nanotechnology and micro -electronics \nindustries .  \nLearning Outcomes:  \uf0a7 Understand the basic principles of biosensors design and their applications.  \n\uf0a7 Understand the basic principles of biochip design and its applications.  \n\uf0a7 Describe and understand the applications of biosensors and biochips in health care, \nmedical diagnostics, defense and other areas.  \nModule Information:  SAQA Credits   ITS Course Level  CESM Code (3rd Order)  \n(Six Numbers)  \n30 3 131101  \nDelivery Information:  Campus  Full/Part Time  Period  \nYear/1st/2nd Semester  \nSMU  Full   Year  \nPeriods per week:                           Classes  Practical's  Tutorial  Seminars  Independent \nLearning  \n5 3 hours  1  40 hours",
     "Prerequisite": {
       "$and": [
         {
@@ -578,7 +578,7 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -594,7 +594,7 @@
   {
     "Code": "BTEC304",
     "Name": "Biotechnology and Health Care",
-    "Description": "An overview of key cutting -edge technologies such as stem -cell research and \ntherapeutic cloning.  Human Genome Project and its implications for health care and \nepigenetic modifications of the genome and their role in disease. The role of \nbiotechnology in m anaging a number of sociologically high -impact diseases in \ndeveloped and developing  \nLearning Outcomes:  -Understand the role of biotechnology in health care systems  \n-Understand and describe the principle of and application of stem cell research in \nhealth care \n-Understand and describe the principle and application of therapeutic cloning  \n-Describe the Human Genome Project and its implication for health care  \n-   Describe epigenetic and epigenetic modification mechanisms and their roles in \ndisease  \nModule Informa tion:  SAQA Credits   ITS Course Level  CESM Code (3rd Order)  \n(Six Numbers)  \n30 3 131101  \nDelivery Information:  Campus  Full/Part Time  Period  \nYear/1st/2nd Semester  \nSMU  Full   Year  \nPeriods per week:                           Classes  Practical\u2019s  Tutorial  Seminars  Independent \nLearning  \n5 3 hours  1  30 hours",
+    "Description": "An overview of key cutting -edge technologies such as stem -cell research and \ntherapeutic cloning.  Human Genome Project and its implications for health care and \nepigenetic modifications of the genome and their role in disease. The role of \nbiotechnology in m anaging a number of sociologically high -impact diseases in \ndeveloped and developing  \nLearning Outcomes:  -Understand the role of biotechnology in health care systems  \n-Understand and describe the principle of and application of stem cell research in \nhealth care \n-Understand and describe the principle and application of therapeutic cloning  \n-Describe the Human Genome Project and its implication for health care  \n-   Describe epigenetic and epigenetic modification mechanisms and their roles in \ndisease  \nModule Informa tion:  SAQA Credits   ITS Course Level  CESM Code (3rd Order)  \n(Six Numbers)  \n30 3 131101  \nDelivery Information:  Campus  Full/Part Time  Period  \nYear/1st/2nd Semester  \nSMU  Full   Year  \nPeriods per week:                           Classes  Practical's  Tutorial  Seminars  Independent \nLearning  \n5 3 hours  1  30 hours",
     "Prerequisite": {
       "$and": [
         {
@@ -637,7 +637,7 @@
         "Weight": 60
       },
       {
-        "Name": "Theory/Practical Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -662,18 +662,19 @@
     },
     "Assessments": [
       {
-        "Name": "FormativeAssessmentsMark",
+        "Name": "Formative Assessments",
         "Type": "Coursework",
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
     ],
     "DP": 40,
     "Credit": 24,
+    "Duration": "Year",
     "Institution": "Sefako Makgatho Health Sciences University"
   },
   {
@@ -693,13 +694,14 @@
         "Weight": 60
       },
       {
-        "Name": "Theory/Practical Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
     ],
     "DP": 40,
     "Credit": 24,
+    "Duration": "Year",
     "Institution": "Sefako Makgatho Health Sciences University"
   },
   {
@@ -719,7 +721,7 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -770,7 +772,7 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -807,7 +809,7 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -844,7 +846,7 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -882,7 +884,7 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -919,7 +921,7 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -935,7 +937,7 @@
   {
     "Code": "MCHM000",
     "Name": "Introduction to General Chemistry 1A",
-    "Description": "Introduction to chemical terminology, A modern view of the periodic table, Quantitative chemical \nrelationships, An overview of thermo -chemistry, Introduction to gases, An Introduction to thermodynamics, \nIntroduction to the rates of reactions. Introduction to solutions, acids and bases. Colligative properties of \nsolutions. Concepts of chemical equilibria. Equilibria in acid/base systems.  \nSolubility and equilibrium. Electroch emistry  \nLearning Outcomes::  At the end of this course students should:  \n-Know  the concept  of significant  figures  and the use thereof  in chemical  calculations  \n-Know  the importance  of accuracy  in recording  measurements  \n-Know  chemical  symbols,  formulae  and equations  \n-Have a clear idea of the atomic structure of  atoms  \n-Have a basic picture of the layout of the periodic table and be able to use the periodic table and to \nextract  the information  summarized  therein  \n-Know  how to use a balanced  equations  in stoichiometric  calculations  \n-Understand the basic concept of kinetic and potential  energy  \n-Know the energy changes involved during chemical reactions and be able to calculate heat of \nreactions occurring under constant  pressure  \n-Have  a clear  idea of Hess\u2019s  law and heats  of formation  \n-Understand  the basic  properties  of gasses,  the kinetic  theory  of gasses  as well as pressure,  volume         and temperature relationships. Must be able to use Dalton\u2019s law of partial pressure  \n-Understand  the importance  of Gibbs  free energy  and its relation  to the spontaneity  of reactions  \n-Know the worth of reaction  rates  \n-know  the factors  that influence  the rate of chemical  reactions  \n-Have sound knowledge concerning all concepts about acids and bases. They will have the skills to \nbalance these  reactions  \n-Know  the different  expressions  for the concentration  of solutions  \n-Be able to calculate  how the addition  of a solute  will influence  the colligative  properties  of solutions  \n-Understand  the concept  of reaction  reversibility  \n-Understand  the basic  concepts  about  chemical  equilibrium  and to implement  the equilibrium  law \nand have  an understanding  of the importance  of K \n-Know  how equilibrium  influence  the pH of aqueous  solutions  and how this knowledge  is used  in \nlaboratories  \n-Know  the basic  concepts  concerning  electrochemistry  and how electricity  is related  to chemical \nequation  \n-Understand  cell potentials  and be able to use reduction  potentials  in calculations  \nModule Information:  SAQA Credits  ITS Course Level Code  CESM Code (3rd Order)  \n24 3 130101  \nPeriods per Week:  Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n4 x 45 min  1 x 3 hrs  2 x 1 hrs  0 1.25 hrs",
+    "Description": "Introduction to chemical terminology, A modern view of the periodic table, Quantitative chemical \nrelationships, An overview of thermo -chemistry, Introduction to gases, An Introduction to thermodynamics, \nIntroduction to the rates of reactions. Introduction to solutions, acids and bases. Colligative properties of \nsolutions. Concepts of chemical equilibria. Equilibria in acid/base systems.  \nSolubility and equilibrium. Electroch emistry  \nLearning Outcomes::  At the end of this course students should:  \n-Know  the concept  of significant  figures  and the use thereof  in chemical  calculations  \n-Know  the importance  of accuracy  in recording  measurements  \n-Know  chemical  symbols,  formulae  and equations  \n-Have a clear idea of the atomic structure of  atoms  \n-Have a basic picture of the layout of the periodic table and be able to use the periodic table and to \nextract  the information  summarized  therein  \n-Know  how to use a balanced  equations  in stoichiometric  calculations  \n-Understand the basic concept of kinetic and potential  energy  \n-Know the energy changes involved during chemical reactions and be able to calculate heat of \nreactions occurring under constant  pressure  \n-Have  a clear  idea of Hess's  law and heats  of formation  \n-Understand  the basic  properties  of gasses,  the kinetic  theory  of gasses  as well as pressure,  volume         and temperature relationships. Must be able to use Dalton's law of partial pressure  \n-Understand  the importance  of Gibbs  free energy  and its relation  to the spontaneity  of reactions  \n-Know the worth of reaction  rates  \n-know  the factors  that influence  the rate of chemical  reactions  \n-Have sound knowledge concerning all concepts about acids and bases. They will have the skills to \nbalance these  reactions  \n-Know  the different  expressions  for the concentration  of solutions  \n-Be able to calculate  how the addition  of a solute  will influence  the colligative  properties  of solutions  \n-Understand  the concept  of reaction  reversibility  \n-Understand  the basic  concepts  about  chemical  equilibrium  and to implement  the equilibrium  law \nand have  an understanding  of the importance  of K \n-Know  how equilibrium  influence  the pH of aqueous  solutions  and how this knowledge  is used  in \nlaboratories  \n-Know  the basic  concepts  concerning  electrochemistry  and how electricity  is related  to chemical \nequation  \n-Understand  cell potentials  and be able to use reduction  potentials  in calculations  \nModule Information:  SAQA Credits  ITS Course Level Code  CESM Code (3rd Order)  \n24 3 130101  \nPeriods per Week:  Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n4 x 45 min  1 x 3 hrs  2 x 1 hrs  0 1.25 hrs",
     "Prerequisite": {
       "Comment": "None"
     },
@@ -949,19 +951,20 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
     ],
     "DP": 40,
     "Credit": 24,
+    "Duration": "Year",
     "Institution": "Sefako Makgatho Health Sciences University"
   },
   {
     "Code": "MCHB000",
     "Name": "Introduction to General Chemistry 1B",
-    "Description": "The Atomic and Electronic Structure; Chemical Bonding (Lewis structures, Valence shell electron pair \nrepulsion (VSEPR), Valence Bond, and Molecular Orbital (MO) theories); Intermolecular Attractions and the  \nProperties  of  Liquids  and  Solids;  Alkanes,  Alkenes,  Alkynes;  Alkyl  Halides;  Alcohols;  Ethers;  \nAldehydes and Ketones; Acids and Derivatives; Aromatics; Amines; Conformational Analysis.  \nLearning Outcomes:  After completion of this module, students should:  \n-Understand  the basic  ideas  on studying  the electronic  structure  of atoms  using  electromagnetic \nradiation  \n-Understand  the principles  of electron  configurations  and how it explains  the arrangement  of atoms  in the \nperiodic  table  \n-Have  a picture  of how electronic  structure  explains  atomic  properties  \n-Understand  the concepts  of ionic as well as covalent  bonds  and how Lewis  dot notations  help \nscientists to explain these  interactions  \n-Know  the influence  of polarity  on the properties  of molecules  \n-Be able to use the Lewis  dot structures  to predict  the shape  of molecules  \n-Know  the basics  on hybridization  as well as the formation  of double  and triple  bonds  \n-Know  the different  intermolecular  attractions  found  in liquids  and how these  attractions  influence  the \nphysical properties of  them  \n-Be able to explain  the concept  of vapor  pressure  and know  its importance  \n-Understand  a basic  phase  diagram  and the energy  changes  that accompany  state  changes  \n-Have  a basic  understanding  of the solid state  of matter  \n-Draw skeletal,  positional, geometric and functional isomers of organic compounds with various \nfunctional  groups,  and use IUPAC  system  of nomenclature  to name  them.  Know  the names  of the \nfirst ten  alkanes  61  \nLearning Outcomes:  -Relate  molecular  structure  to physical  properties  of alkanes  and other  organic  compounds  with \nvarious functional groups. Describe hydrogen bonding and predict its effect on the physical \nproperties of organic  compounds \uf020\n-Draw conformational isomers using sawhorse diagrams and Newman proje ctions. Know the meaning  \nof the terms  eclipsed,  staggered,  anti and gauche  conformations.  Draw  the boat and chair \nconformations of cyclohexane and distinguish between axial and equatorial positions in the chair. \nKnow  the meaning  of the terms  angle,  torsional  and van der Waals  strain\uf020\n-Define reaction mechanisms and explain what is meant by homolytic and heterolytic bond cleavage. \nDescribe and identify in molecules: multiple bonds, polar bonds, electrophiles, nucleophiles, Lewis \nacids,  and Lewis  bases  as reaction  sites in organic  molecules.  Know  how to write  mechanisms  for all \nreactions discussed where  necessary\uf020\n-Write general equations and specific examples of dehydrohalogenation reactions to form alkenes and  \nalkynes,  and dehydration  reactions  to form alkenes,  and the use of Zaitseff\u2019s  rule to predict  the \npredominant product when more than one is possible. Predict the products of the addition of \nhydrogen  halides  and water  to unsymmetrical  alkenes  and alkynes  by applying  Markovnikov\u2019s  rule\uf020\n-Describe,  by writing  appropriate  chemical  equations,  how to convert  alkynes  to aldehydes  or ketones \nwith the regioselectivity of hydration. Show how to convert an alkyne to either a cis or trans alkene \nwithout formation of a mixture of the  two\uf020\n-Contrast the acidity of a cetylene and terminal alkynes with other hydrocarbons, and describe reaction \nconditions suitable for converting these alkynes to their corresponding carbanions. Design syntheses  \nof simple  organic  compounds  starting  from acetylene  and another  simple  organic  reagent\uf020\n-Describe the characteristics that influence reactivity of the carbonyl group and illustrate the general \nreactions and mechanisms for nucleophilic addition. Write reaction equations and mechanisms for the  \nformation  of cyanohydrin,  hemiacetal  and acetal from aldehydes  and ketones.  Write  an equation for the \nhydration of an aldehyde or a ketone, and write mechanisms for the process under acid - and base -\ncatalyzed  conditions.  Show  how aldehydes  and ketones  can be prepared  by oxidation  of\uf020\nprimary or secondary alcohols  \nModule Information:  SAQA Credits  ITS Course Level Code  CESM Code (3rd Order)  \n24 03 140401  \nPeriods per Week:  Classes  Practicals  Tutorial  Seminars  Independent Learning  \n4 x 45 min  1 x 3 h  2 x 1 hrs  0 1.25 hrs",
+    "Description": "The Atomic and Electronic Structure; Chemical Bonding (Lewis structures, Valence shell electron pair \nrepulsion (VSEPR), Valence Bond, and Molecular Orbital (MO) theories); Intermolecular Attractions and the  \nProperties  of  Liquids  and  Solids;  Alkanes,  Alkenes,  Alkynes;  Alkyl  Halides;  Alcohols;  Ethers;  \nAldehydes and Ketones; Acids and Derivatives; Aromatics; Amines; Conformational Analysis.  \nLearning Outcomes:  After completion of this module, students should:  \n-Understand  the basic  ideas  on studying  the electronic  structure  of atoms  using  electromagnetic \nradiation  \n-Understand  the principles  of electron  configurations  and how it explains  the arrangement  of atoms  in the \nperiodic  table  \n-Have  a picture  of how electronic  structure  explains  atomic  properties  \n-Understand  the concepts  of ionic as well as covalent  bonds  and how Lewis  dot notations  help \nscientists to explain these  interactions  \n-Know  the influence  of polarity  on the properties  of molecules  \n-Be able to use the Lewis  dot structures  to predict  the shape  of molecules  \n-Know  the basics  on hybridization  as well as the formation  of double  and triple  bonds  \n-Know  the different  intermolecular  attractions  found  in liquids  and how these  attractions  influence  the \nphysical properties of  them  \n-Be able to explain  the concept  of vapor  pressure  and know  its importance  \n-Understand  a basic  phase  diagram  and the energy  changes  that accompany  state  changes  \n-Have  a basic  understanding  of the solid state  of matter  \n-Draw skeletal,  positional, geometric and functional isomers of organic compounds with various \nfunctional  groups,  and use IUPAC  system  of nomenclature  to name  them.  Know  the names  of the \nfirst ten  alkanes  61  \nLearning Outcomes:  -Relate  molecular  structure  to physical  properties  of alkanes  and other  organic  compounds  with \nvarious functional groups. Describe hydrogen bonding and predict its effect on the physical \nproperties of organic  compounds \uf020\n-Draw conformational isomers using sawhorse diagrams and Newman proje ctions. Know the meaning  \nof the terms  eclipsed,  staggered,  anti and gauche  conformations.  Draw  the boat and chair \nconformations of cyclohexane and distinguish between axial and equatorial positions in the chair. \nKnow  the meaning  of the terms  angle,  torsional  and van der Waals  strain\uf020\n-Define reaction mechanisms and explain what is meant by homolytic and heterolytic bond cleavage. \nDescribe and identify in molecules: multiple bonds, polar bonds, electrophiles, nucleophiles, Lewis \nacids,  and Lewis  bases  as reaction  sites in organic  molecules.  Know  how to write  mechanisms  for all \nreactions discussed where  necessary\uf020\n-Write general equations and specific examples of dehydrohalogenation reactions to form alkenes and  \nalkynes,  and dehydration  reactions  to form alkenes,  and the use of Zaitseff's  rule to predict  the \npredominant product when more than one is possible. Predict the products of the addition of \nhydrogen  halides  and water  to unsymmetrical  alkenes  and alkynes  by applying  Markovnikov's  rule\uf020\n-Describe,  by writing  appropriate  chemical  equations,  how to convert  alkynes  to aldehydes  or ketones \nwith the regioselectivity of hydration. Show how to convert an alkyne to either a cis or trans alkene \nwithout formation of a mixture of the  two\uf020\n-Contrast the acidity of a cetylene and terminal alkynes with other hydrocarbons, and describe reaction \nconditions suitable for converting these alkynes to their corresponding carbanions. Design syntheses  \nof simple  organic  compounds  starting  from acetylene  and another  simple  organic  reagent\uf020\n-Describe the characteristics that influence reactivity of the carbonyl group and illustrate the general \nreactions and mechanisms for nucleophilic addition. Write reaction equations and mechanisms for the  \nformation  of cyanohydrin,  hemiacetal  and acetal from aldehydes  and ketones.  Write  an equation for the \nhydration of an aldehyde or a ketone, and write mechanisms for the process under acid - and base -\ncatalyzed  conditions.  Show  how aldehydes  and ketones  can be prepared  by oxidation  of\uf020\nprimary or secondary alcohols  \nModule Information:  SAQA Credits  ITS Course Level Code  CESM Code (3rd Order)  \n24 03 140401  \nPeriods per Week:  Classes  Practicals  Tutorial  Seminars  Independent Learning  \n4 x 45 min  1 x 3 h  2 x 1 hrs  0 1.25 hrs",
     "Prerequisite": {
       "Comment": "None"
     },
@@ -975,19 +978,20 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
     ],
     "Credit": 24,
     "DP": 40,
+    "Duration": "Year",
     "Institution": "Sefako Makgatho Health Sciences University"
   },
   {
     "Code": "MCHM011",
     "Name": "General Chemistry 1A",
-    "Description": "Introduction to chemical terminology; A modern view of the periodic table; Quantitative chemical \nrelationships; An overview of thermochemistry; Introduction to gases; An introduction to  thermodynamics; \nIntroduction to the rates of reactions; Introduction to solutions, acids and bases; Colligative  properties  of \nsolutions;  Concepts  of chemical  equilibria;  Equilibria  in acid/base  systems;  \nSolubility and equilibrium; Electrochemistry.  \nLearning Outcomes:  Students should  \n-Understand  the concept  of significant  figures  and the use thereof  in chemical  calculations  \n-Understand  the importance  of accuracy  in recording  measurements  \n-Be able to understand  chemical  symbols,  formulae  and equations  \n-Have a clear  idea of the atomic structure of  atoms  \n-Have a basic picture of the layout of the periodic table and be able to use the periodic table and to \nextract  the information  summarized  therein  \n-Know  how to use a balanced  equations  in stoichiometric  calculations  \n-Understand  the basic  concept  of kinetic  and potential  energy  \n-Know the energy changes involved during chemical reactions and be able to calculate heat of reactions \noccurring under constant  pressure  \n-Have  a clear  idea of Hess\u2019s  law and heats  of formation  \n-Understand  the basic  properties  of gasses,  the kinetic  theory  of gasses  as well as pressure,  volume      and temperature relationships. Must be able to use Dalton\u2019s law of partial pressure  \n-Understand  the importance  of Gibbs  free energy  and its relation  to the spontaneity  of reactions  \n-Know the worth of reaction  rates  \n-Understand  the factors  that influence  the rate of chemical  reactions  \n-Have sound knowledge concerning all concepts about acids and bases. They will have the skills to \nbalance these  reactions  \n-Understand  the different  expressions  for the concentration  of solutions  \n-Be able to calculate  how the addition  of a solute  will influence  the colligative  properties  of solutions  \n-Understand  the concept  of reaction  reversibility  \n-Understand the basic concepts about chemical equilibrium and to implement the equilibrium law and \nhave an understanding of the importance of  K \n-Understand how equilibrium influence the pH of aqueous solutions and how this knowledge is used in \nlaboratories  \n-Know the basic concepts concerning electrochemistry and how electricity is related to chemical equation  \n-Understand  cell potentials  and be able to use reduction  potentials  in calculations  \nModule Information:  SAQA Credits  ITS Course Level Code  CESM Code (3rd Order)  \n12 3 140401  \nPeriods per Week:  Classes  Practicals  Tutorial  Seminars  Independent Learning  \n4 x 45 min  1 x 3 hrs  1 x 90 min   1.9 hrs",
+    "Description": "Introduction to chemical terminology; A modern view of the periodic table; Quantitative chemical \nrelationships; An overview of thermochemistry; Introduction to gases; An introduction to  thermodynamics; \nIntroduction to the rates of reactions; Introduction to solutions, acids and bases; Colligative  properties  of \nsolutions;  Concepts  of chemical  equilibria;  Equilibria  in acid/base  systems;  \nSolubility and equilibrium; Electrochemistry.  \nLearning Outcomes:  Students should  \n-Understand  the concept  of significant  figures  and the use thereof  in chemical  calculations  \n-Understand  the importance  of accuracy  in recording  measurements  \n-Be able to understand  chemical  symbols,  formulae  and equations  \n-Have a clear  idea of the atomic structure of  atoms  \n-Have a basic picture of the layout of the periodic table and be able to use the periodic table and to \nextract  the information  summarized  therein  \n-Know  how to use a balanced  equations  in stoichiometric  calculations  \n-Understand  the basic  concept  of kinetic  and potential  energy  \n-Know the energy changes involved during chemical reactions and be able to calculate heat of reactions \noccurring under constant  pressure  \n-Have  a clear  idea of Hess's  law and heats  of formation  \n-Understand  the basic  properties  of gasses,  the kinetic  theory  of gasses  as well as pressure,  volume      and temperature relationships. Must be able to use Dalton's law of partial pressure  \n-Understand  the importance  of Gibbs  free energy  and its relation  to the spontaneity  of reactions  \n-Know the worth of reaction  rates  \n-Understand  the factors  that influence  the rate of chemical  reactions  \n-Have sound knowledge concerning all concepts about acids and bases. They will have the skills to \nbalance these  reactions  \n-Understand  the different  expressions  for the concentration  of solutions  \n-Be able to calculate  how the addition  of a solute  will influence  the colligative  properties  of solutions  \n-Understand  the concept  of reaction  reversibility  \n-Understand the basic concepts about chemical equilibrium and to implement the equilibrium law and \nhave an understanding of the importance of  K \n-Understand how equilibrium influence the pH of aqueous solutions and how this knowledge is used in \nlaboratories  \n-Know the basic concepts concerning electrochemistry and how electricity is related to chemical equation  \n-Understand  cell potentials  and be able to use reduction  potentials  in calculations  \nModule Information:  SAQA Credits  ITS Course Level Code  CESM Code (3rd Order)  \n12 3 140401  \nPeriods per Week:  Classes  Practicals  Tutorial  Seminars  Independent Learning  \n4 x 45 min  1 x 3 hrs  1 x 90 min   1.9 hrs",
     "Prerequisite": {
       "Comment": "None"
     },
@@ -1008,7 +1012,7 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -1024,7 +1028,7 @@
   {
     "Code": "MCHM012",
     "Name": "General Chemistry 1B",
-    "Description": "The Atomic and Electronic Structure; Chemical Bonding (Lewis structures, Valence shell electron pair \nrepulsion (VSEPR), Valence Bond, and Molecular Orbital (MO) theories); Intermolecular Attractions and  \nthe Properties of Liquids and Solids; Alkanes, Alkenes, Alkynes; Alkyl Halides; Alcohols; Ethers; Aldehydes  \nand Ketones; Acids and Derivatives; Aromatics; Amines; Conformational Analysis  \nLearning Outcomes:  After completion of this module, students should:  \n-Understand the basic ideas on studying the electronic structure of atoms using electromagnetic radiation  \n-Understand the principles of electron configurations and how it explains the arrangement of atoms in the \nperiodic  table  \n-Have  a picture  of how electronic  structure  explains  atomic  properties  \n-Understand the concepts of ionic as well as covalent bonds and how Lewis dot notations help scientists \nto explain these  interactions  \n-Know  the influence  of polarity  on the properties  of molecules  \n-Be able to use the Lewis  dot structures  to predict  the shape  of molecules  \n-Know  the basics  on hybridization  as well as the formation  of double  and triple  bonds  \n-Know the different intermolecular attractions found in liquids and how these attractions influence the \nphysical properties of  them  \n-Be able to explain  the concept  of vapour  pressure  and know  its importance  \n-Understand  a basic  phase  diagram  and the energy  changes  that accompany  state  changes  \n-Have  a basic  understanding  of the solid state  of matter  \n-Draw skeletal, positional, geometric and functional isomers of organic compounds with various functional \ngroups, and use IUPAC system of nomenclature to name them. Know the names of the first ten  alkanes  \n-Relate molecular structure to physical properties of alkanes and other organic compounds with various \nfunctional groups. Describe hydrogen bonding and predict its ef fect on the physical properties of organic  \ncompounds  \n-Draw conformational isomers using sawhorse diagrams and Newman projections. Know the meaning of  \nthe  terms  eclipsed,  staggered,  anti  and  gauche  conformations.  Draw  the  boat  and  chair  \nconformations of cyclohexane and distinguish between axial and equatorial positions in the chair. Know the \nmeaning of the terms angle, torsional and van der Waals strain  64  \nLearning Outcomes:  -Define reaction mechanisms and explain what is meant by homolytic and heterolytic bond cleavage. \nDescribe and identify in molecules: multiple bonds, polar bonds, electrophiles, nucleophiles, Lewis \nacids, and Lewis bases as reaction sites in organic molecules. Know how to write mechanisms for al l \nreactions discussed where  necessary  \n-Write general equations and specific examples of dehydrohalogenation reactions to form alkenes and \nalkynes, and dehydration reactions to form alkenes, and the use of Zaitseff\u2019s rule to predict the \npredominant product w hen more than one is possible. Predict the products of the addition of hydrogen \nhalides  and water  to unsymmetrical  alkenes  and alkynes  by applying  Markovnikov\u2019s  rule \n-Describe, by writing appropriate chemical equations, how to convert alkynes to aldehydes o r ketones \nwith the regioselectivity of hydration. Show how to convert an alkyne to either a cis or trans alkene \nwithout formation of a mixture of the  two \n-Contrast the acidity of acetylene and terminal alkynes with other hydrocarbons, and describe reaction \nconditions suitable for converting these alkynes to their corresponding carbanions. Design syntheses \nof simple  organic  compounds  starting  from acetylene  and another  simple  organic  reagent  \n-Describe the characteristics that influence reactivity of the carbonyl group and illustrate the general \nreactions and mechanisms for nucleophilic addition. Write reaction equations and mechanisms for the \nformation of cyanohydrin, hemi -acetal and acetal from aldehydes and ketones. Write an equation for \nthe hydration o f an aldehyde or a ketone, and write mechanisms for the process under acid - and \nbase -catalyzed  conditions.  Show  how aldehydes  and ketones  can be prepared  by oxidation  of primary       or  secondary alcohols  \nModule Information:  SAQA Credits  ITS Course Level Code  CESM Code (3rd Order)  \n12 3 140401  \nPeriods per Week:  Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n4 \u00d7 45 min  1 \u00d7 3 hrs  1 \u00d7 90 min  N/A 1.9 hrs",
+    "Description": "The Atomic and Electronic Structure; Chemical Bonding (Lewis structures, Valence shell electron pair \nrepulsion (VSEPR), Valence Bond, and Molecular Orbital (MO) theories); Intermolecular Attractions and  \nthe Properties of Liquids and Solids; Alkanes, Alkenes, Alkynes; Alkyl Halides; Alcohols; Ethers; Aldehydes  \nand Ketones; Acids and Derivatives; Aromatics; Amines; Conformational Analysis  \nLearning Outcomes:  After completion of this module, students should:  \n-Understand the basic ideas on studying the electronic structure of atoms using electromagnetic radiation  \n-Understand the principles of electron configurations and how it explains the arrangement of atoms in the \nperiodic  table  \n-Have  a picture  of how electronic  structure  explains  atomic  properties  \n-Understand the concepts of ionic as well as covalent bonds and how Lewis dot notations help scientists \nto explain these  interactions  \n-Know  the influence  of polarity  on the properties  of molecules  \n-Be able to use the Lewis  dot structures  to predict  the shape  of molecules  \n-Know  the basics  on hybridization  as well as the formation  of double  and triple  bonds  \n-Know the different intermolecular attractions found in liquids and how these attractions influence the \nphysical properties of  them  \n-Be able to explain  the concept  of vapour  pressure  and know  its importance  \n-Understand  a basic  phase  diagram  and the energy  changes  that accompany  state  changes  \n-Have  a basic  understanding  of the solid state  of matter  \n-Draw skeletal, positional, geometric and functional isomers of organic compounds with various functional \ngroups, and use IUPAC system of nomenclature to name them. Know the names of the first ten  alkanes  \n-Relate molecular structure to physical properties of alkanes and other organic compounds with various \nfunctional groups. Describe hydrogen bonding and predict its ef fect on the physical properties of organic  \ncompounds  \n-Draw conformational isomers using sawhorse diagrams and Newman projections. Know the meaning of  \nthe  terms  eclipsed,  staggered,  anti  and  gauche  conformations.  Draw  the  boat  and  chair  \nconformations of cyclohexane and distinguish between axial and equatorial positions in the chair. Know the \nmeaning of the terms angle, torsional and van der Waals strain  64  \nLearning Outcomes:  -Define reaction mechanisms and explain what is meant by homolytic and heterolytic bond cleavage. \nDescribe and identify in molecules: multiple bonds, polar bonds, electrophiles, nucleophiles, Lewis \nacids, and Lewis bases as reaction sites in organic molecules. Know how to write mechanisms for al l \nreactions discussed where  necessary  \n-Write general equations and specific examples of dehydrohalogenation reactions to form alkenes and \nalkynes, and dehydration reactions to form alkenes, and the use of Zaitseff's rule to predict the \npredominant product w hen more than one is possible. Predict the products of the addition of hydrogen \nhalides  and water  to unsymmetrical  alkenes  and alkynes  by applying  Markovnikov's  rule \n-Describe, by writing appropriate chemical equations, how to convert alkynes to aldehydes o r ketones \nwith the regioselectivity of hydration. Show how to convert an alkyne to either a cis or trans alkene \nwithout formation of a mixture of the  two \n-Contrast the acidity of acetylene and terminal alkynes with other hydrocarbons, and describe reaction \nconditions suitable for converting these alkynes to their corresponding carbanions. Design syntheses \nof simple  organic  compounds  starting  from acetylene  and another  simple  organic  reagent  \n-Describe the characteristics that influence reactivity of the carbonyl group and illustrate the general \nreactions and mechanisms for nucleophilic addition. Write reaction equations and mechanisms for the \nformation of cyanohydrin, hemi -acetal and acetal from aldehydes and ketones. Write an equation for \nthe hydration o f an aldehyde or a ketone, and write mechanisms for the process under acid - and \nbase -catalyzed  conditions.  Show  how aldehydes  and ketones  can be prepared  by oxidation  of primary       or  secondary alcohols  \nModule Information:  SAQA Credits  ITS Course Level Code  CESM Code (3rd Order)  \n12 3 140401  \nPeriods per Week:  Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n4 \u00d7 45 min  1 \u00d7 3 hrs  1 \u00d7 90 min  N/A 1.9 hrs",
     "Prerequisite": {
       "Comment": "None"
     },
@@ -1045,7 +1049,7 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -1072,7 +1076,7 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -1099,7 +1103,7 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -1126,7 +1130,7 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -1156,7 +1160,7 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -1193,7 +1197,7 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -1223,7 +1227,7 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -1253,7 +1257,7 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -1283,7 +1287,7 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -1313,7 +1317,7 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -1357,13 +1361,14 @@
         ]
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
     ],
     "DP": 40,
     "Credit": 24,
+    "Duration": "Year",
     "Institution": "Sefako Makgatho Health Sciences University"
   },
   {
@@ -1397,13 +1402,14 @@
         ]
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
     ],
     "DP": 40,
     "Credit": 24,
+    "Duration": "Year",
     "Institution": "Sefako Makgatho Health Sciences University"
   },
   {
@@ -1444,7 +1450,7 @@
         ]
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -1495,7 +1501,7 @@
         ]
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -1552,7 +1558,7 @@
         ]
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -1602,7 +1608,7 @@
         ]
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -1641,7 +1647,7 @@
         ]
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -1715,7 +1721,7 @@
         ]
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -1772,7 +1778,7 @@
         ]
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -1812,10 +1818,22 @@
       {
         "Name": "Summative Assessment",
         "Type": "Coursework",
-        "Weight": 60
+        "Weight": 60,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Quizzes"
+          },
+          {
+            "Name": "Assignments"
+          },
+          {
+            "Name": "Tests"
+          }
+        ]
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -1829,33 +1847,818 @@
     "Institution": "Sefako Makgatho Health Sciences University"
   },
   {
+    "Code": "EMT201",
+    "Name": "Introduction to Environmental Science",
     "Description": "Meaning and types of Environment, New trends in Environmental Science, Man - \nEnvironment Interaction, The Atmosphere: Structure, Functions, Composition and \nFactors influencing the Composition of the Atmosphere; Man -Environment Interaction. \nPhysical and Chemical processes in basic plants and animal physiology. Basic Elements \nof Respiration, Pho tosynthesis, Transportation or Circulation. Reproduction, Germination, \nGrowth hormones and Enzymology.  Classification of Environmental Problems. Methods \nin environmental analysis, types of precipitate/crystal formation, contamination and \nappropriate handl ing environmental samples. Titrimetric analysis: Acid -base redox, \ncomplexometric, precipitation, non -aqeous titrations, indicators. Colorimetric: \nSpectrophotometric reagents, elementary visible Spectrophotometry: spectrophotometric \ntitrations.  \nLearning Outcomes:  -Understand the different types of environment and different trends in \nenvironmental science.  \n-Describe the composition and structure of the atmosphere.  \n-Identify different types of environmental problems.  \n-Appreciate the impact of humans in managin g the environment efficiently \nthrough man - environment interactions.  \n-Explain reasons why contaminants should be avoided during sampling and  ENVIRONMENTAL MANAGEMENT & TOXICOLOGY  - BSCG01  91  various sources of these contaminants.  \n-Give examples of different types of precipitate and crystal formation.   \nModule Information:  SAQA Credits   ITS Course Level  CESM Code (3rd Order)  \n(Six Numbers)  \n20 2 140503  \nDelivery Information:  Campus  Full/Part Time  Period  \nYear/1st/2nd Semester  \nSMU  Full   2/1ST Sem \nPeriods per week:                           Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n5 3 hours  1  40 hours",
-    "Assessments": [],
+    "Prerequisite": {
+      "$and": [
+        {
+          "$and": [
+            {
+              "Code": "MPHS011"
+            },
+            {
+              "Code": "MPHS012"
+            }
+          ]
+        },
+        {
+          "$and": [
+            {
+              "Code": "MCHM011"
+            },
+            {
+              "Code": "MCHM012"
+            }
+          ]
+        },
+        {
+          "$and": [
+            {
+              "Code": "MBIO011"
+            },
+            {
+              "Code": "MZOO012"
+            }
+          ]
+        },
+        {
+          "$and": [
+            {
+              "Code": "MMTH011"
+            },
+            {
+              "Code": "MMTH012"
+            }
+          ]
+        }
+      ]
+    },
+    "Corequisite":{
+      "$and": [
+        {
+          "Code": "EMT202"
+        },
+        {
+          "Code": "EHS201"
+        },
+        {
+          "Code": "MICB201"
+        },
+        {
+          "Code": "MICB202"
+        }
+      ]
+    },
+    "Assessments": [
+      {
+        "Name": "Summative Assessment",
+        "Type": "Coursework",
+        "Weight": 60,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Formative Tests"
+          },
+          {
+            "Name": "Assignments"
+          }
+        ]
+      },
+      {
+        "Name": "Summative Assessment",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "DP": 40,
+    "Credit": 20,
     "Institution": "Sefako Makgatho Health Sciences University"
   },
   {
+    "Code": "EMT202",
+    "Name": "Environmental Management",
     "Description": "Definition, scope and element of Environmental management and planning, History and \nRise of Environmental Management and Concern in South Africa. Elements of \nenvironment management, environmental problems such as pollution including solid \nwaste, land degradation and soil and water conservation as well as health implication of \nnoise. Issues related to Environmental Standards and Regulations Enforcement Agency. \nEnvironmental Protection Agencies Mandates and Limitations. Environmental Law and \nImplementation in South Africa. Contributions or otherwise, of International Institutions to \nmanage the Environment such as United Nations Conference on Environment and \nDevelopment (UNCED); Non -gover nmental Organisations (NGOs).  \nLearning Outcomes:  -Define and understand environmental management and planning.  \n-Identify some elements of environmental management and principles.  \n-Describe the role and functions of Environmental Managers.  \nModule Information:  SAQA Credits   ITS Course Level  CESM Code (3rd Order)  \n(Six Numbers)  \n20 2 140503  \nDelivery Information:  Campus  Full/Part Time  Period  \nYear/1st/2nd Semester  \nSMU  Contact/Full Time  2/2nd Sem \nPeriods per week:                           Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n5 3 hours  1  40 hours",
-    "Assessments": [],
+    "Prerequisite": {
+      "$and": [
+        {
+          "$and": [
+            {
+              "Code": "MPHS011"
+            },
+            {
+              "Code": "MPHS012"
+            }
+          ]
+        },
+        {
+          "$and": [
+            {
+              "Code": "MCHM011"
+            },
+            {
+              "Code": "MCHM012"
+            }
+          ]
+        },
+        {
+          "$and": [
+            {
+              "Code": "MBIO011"
+            },
+            {
+              "Code": "MZOO012"
+            }
+          ]
+        },
+        {
+          "$and": [
+            {
+              "Code": "MMTH011"
+            },
+            {
+              "Code": "MMTH012"
+            }
+          ]
+        }
+      ]
+    },
+    "Corequisite":{
+      "$and": [
+        {
+          "Code": "EMT201"
+        },
+        {
+          "Code": "EHS201"
+        },
+        {
+          "Code": "EHS202"
+        },
+        {
+          "Code": "MICB201"
+        },
+        {
+          "Code": "MICB202"
+        }
+      ]
+    },
+    "Assessments": [
+      {
+        "Name": "Summative Assessment",
+        "Type": "Coursework",
+        "Weight": 60,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Formative Tests"
+          },
+          {
+            "Name": "Assignments"
+          }
+        ]
+      },
+      {
+        "Name": "Summative Assessment",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "DP": 40,
+    "Credit": 20,
     "Institution": "Sefako Makgatho Health Sciences University"
   },
   {
-    "Description": "The nature, origin and classification of hazardous toxic substances; Characteristics of \nwastes and hazardous substance. Identification of hazardous substances. Sources  and \npathways of hazardous substances. Disposal methods and technology of hazardous \nsubstance. Geological environmental factors affecting choice of disposal site; \ncontamination of water bearing strata; soil, plants, food webs and bio -concentration. \nAnalysi s of hazardous and toxic substances. Regulations and law governing the sale, \nimportation, transportation, storage and disposal of hazardous and toxic substances. \nOrigin of Metals. Classification of metals. Utilisation of metals in industries. Sources of \nmetal pollution; geological weathering, industrial discharge, metals fabricating and \nfurnishing, leaching of metals from garbage, agricultural waste products. Effect of metals \non the environment sediment, waste, air and food. Adverse effect of nearby metals - \npoisoning effects of Pb, Cd, Zn and Hg. Other effects e.g. neurologic, and renal effects. \nAnalysis of metals in environmental samples.  \nLearning Outcomes:  -Classify and characterise hazardous substances in the environment.  \n-Understand different pathways of  hazardous substance into food chain.  \n-Describe various disposal methods for hazardous substances  \nModule Information:   SAQA Credits   ITS Course Level  CESM Code (3rd Order)  \n(Six Numbers)                    30 3 130906  \nDelivery Information:  Campus  Full/Part Time  Period  \nYear/1st/2nd Semester  \nSMU  Full Year  \nPeriods per week:                            Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n5 3 hours  1  30 hours",
-    "Assessments": [],
+    "Code": "EHS201",
+    "Name": "Fundamentals of Environmental Health Science",
+    "Description": "Definition of Environmental Health, Environmental Effects on Health, Cleanliness, Conservation the \nEnvironment and Law, Exposure to Environmental Stressors: Biological, Physical and Ergonomic \nSurveillance and Susceptibility, How Chemicals Cause Harm: Toxicokinetics and Toxicodynamics, Cancer: \nRole of the Environment in the Carcinogenic Process, Community Solid Wastes and Hazardous Wastes \nand their Management, Drinking Water - Procurement and Treatment; Wastewater Management, Air \nPollution, Indoor Air Pollution and the Health Effects of Air Pollution, Climate Change and human health.",
+    "Prerequisite": {
+      "$and": [
+        {
+          "Code": "MZOO011"
+        },
+        {
+          "Code": "MZOO012"
+        },
+        {
+          "Code": "MCHM011"
+        },
+        {
+          "Code": "MCHM012"
+        },
+        {
+          "Code": "MPHS011"
+        },
+        {
+          "Code": "MPHS012"
+        },
+        {
+          "Code": "MMTH011"
+        },
+        {
+          "Code": "MMTH012"
+        }
+      ]
+    },
+    "Corequisite": {
+      "$and": [
+        {
+          "Code": "EMT202"
+        },
+        {
+          "Code": "EHS201"
+        },
+        {
+          "Code": "MICB201"
+        },
+        {
+          "Code": "MICB202"
+        }
+      ]
+    },
+    "Assessments": [
+      {
+        "Name": "Summative Assessment",
+        "Type": "Coursework",
+        "Weight": 60,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Formative Tests"
+          },
+          {
+            "Name": "Assignments"
+          }
+        ]
+      },
+      {
+        "Name": "Summative Assessment",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 20,
+    "DP": 40,
     "Institution": "Sefako Makgatho Health Sciences University"
   },
   {
+    "Code": "EHS202",
+    "Name": "Food borne Diseases and Human Parasitic Diseases",
+    "Description": "Significance and brief description of food borne diseases, Definition of food borne diseases, Epidemiology \nof food borne diseases, Classification and Etiology of some food borne diseases, Pathogenesis and clinical \nfeatures of some food borne disease, Food-borne Infections, Food poisonings/intoxications, diagnosis of \nfood-borne diseases, General management approaches of food-borne diseases, Prevention and control of \nfood-borne diseases, Investigation of outbreaks of food-borne diseases. Human parasitic diseases, \nepidemiology of parasitic diseases, sources and management of parasitic diseases, Common parasitic \ndiseases in South Africa.",
+    "Prerequisite": {
+      "$and": [
+        {
+          "Code": "MZOO011"
+        },
+        {
+          "Code": "MZOO012"
+        },
+        {
+          "Code": "MCHM011"
+        },
+        {
+          "Code": "MCHM012"
+        },
+        {
+          "Code": "MPHS011"
+        },
+        {
+          "Code": "MPHS012"
+        },
+        {
+          "Code": "MMTH011"
+        },
+        {
+          "Code": "MMTH012"
+        }
+      ]
+    },
+    "Assessments": [
+      {
+        "Name": "Formative Assessments",
+        "Type": "Coursework",
+        "Weight": 60,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Formative Tests"
+          },
+          {
+            "Name": "Assignments"
+          }
+        ]
+      },
+      {
+        "Name": "Summative Assessment",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 20,
+    "DP": 40,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MICB201",
+    "Name": "Introduction to Microbiology",
+    "Description": "History and development of microbiology. Key concepts in microbiology. Classification and characterization \nof the different types of microorganisms. Comparison of prokaryotic and eukaryotic cells. Nutritional and \nrequirement and microbiological media, cultivation and growth of microorganisms. Physical organization of \nbacteria, bacterial chromosomes, cytoplasm, cell wall and membrane components. Bacterial toxins and \nMethods for identification of bacteria.",
+    "Prerequisite": {
+      "$and": [
+        {
+          "Code": "MZOO011"
+        },
+        {
+          "Code": "MZOO012"
+        },
+        {
+          "Code": "MCHM011"
+        },
+        {
+          "Code": "MCHM012"
+        },
+        {
+          "Code": "MPHS011"
+        },
+        {
+          "Code": "MPHS012"
+        },
+        {
+          "Code": "MMTH011"
+        },
+        {
+          "Code": "MMTH012"
+        }
+      ]
+    },
+    "Assessments": [
+      {
+        "Name": "Formative Assessments",
+        "Type": "Coursework",
+        "Weight": 60,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Formative Tests"
+          },
+          {
+            "Name": "Assignments"
+          }
+        ]
+      },
+      {
+        "Name": "Summative Assessment",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 20,
+    "DP": 40,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MICB202",
+    "Name": "Environmental and Fungal Microbiology",
+    "Description": "Zoosporic fungi. The Deuteromycotina, Yeast. Fungi as saprotropots. Fungi and humans. Microbial \npopulations in air, water and soil. The effects of abiotic factors on microorganisms. Measurement of \nbacterial numbers, biomass and activities in microbial ecosystems. The roles of microorganisms in carbon, \noxygen, nitrogen, sulphur and phosphorus cycles. Ecological aspects of biodegration of waste. \nMicroorganisms in mineral and energy recovery. The role of microorganisms in water quality (water \npollution, water treatment, sewage treatment and solid municipal waste). Indices of sanitary quality and \nmicrobiological standards. Water quality testing techniques and water purification technology.",
+    "Prerequisite": {
+      "$and": [
+        {
+          "Code": "MZOO011"
+        },
+        {
+          "Code": "MZOO012"
+        },
+        {
+          "Code": "MCHM011"
+        },
+        {
+          "Code": "MCHM012"
+        },
+        {
+          "Code": "MPHS011"
+        },
+        {
+          "Code": "MPHS012"
+        },
+        {
+          "Code": "MMTH011"
+        },
+        {
+          "Code": "MMTH012"
+        }
+      ]
+    },
+    "Assessments": [
+      {
+        "Name": "Formative Assessments",
+        "Type": "Coursework",
+        "Weight": 60,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Formative Tests"
+          },
+          {
+            "Name": "Assignments"
+          }
+        ]
+      },
+      {
+        "Name": "Summative Assessment",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 20,
+    "DP": 40,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "EHS301",
+    "Name": "Human Nutrition in Health and Diseases",
+    "Prerequisite": {
+      "$and": [
+        {
+          "Code": "EMT201"
+        },
+        {
+          "Code": "EMT202"
+        },
+        {
+          "Code": "EHS201"
+        },
+        {
+          "Code": "EHS202"
+        }
+      ]
+    },
+    "Corequisite": {
+      "Code": "EHS302"
+    },
+    "Assessments": [
+      {
+        "Name": "Formative Assessments",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "Summative Assessment",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "Description": "Historical Perspectives and General Definitions (Nutrition, Health, Disease, Food, Food Groups, etc.). Food \nClassification (Why and How, Which), Food Presentation, purchasing and preparation. Formulation of \nSpecial Diets, Nutritional Diseases and how some of these are prevented: (Energy-related Diseases, \nVitamin-related Disease, Mineral-related Diseases, and Nutritional Excesses). Management of Nutritional \nDiseases. Microorganisms Causing Most \nFood Contamination. Food spoilage, Food poisoning, Food borne infection and intoxication. Prevention of \nfood borne diseases outbreak.",
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "DP": 40,
+    "Credit": 30,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "EHS302",
+    "Name": "Occupational and Health Safety",
+    "Description": "What is occupational health? Challenges for the development of occupational health and safety. \nInterrelationship between occupational health and human development. Elements of a work environment. \nInteractions in the work place. Relationship between work and health. Health and safety policies in \nindustries and work environments, Strategies and objectives, First Aid and Techniques; burns, poison \nstings and bites, artificial respiration etc. Accidents; classification, causes and costs; Fire and firefighting. \nHealth and safety audits as management tools. Health and safety plans. Accidents : case studies.",
+    "Prerequisite": {
+      "$and": [
+        {
+          "Code": "EMT201"
+        },
+        {
+          "Code": "EMT202"
+        },
+        {
+          "Code": "EHS201"
+        },
+        {
+          "Code": "EHS202"
+        }
+      ]
+    },
+    "Corequisite": {
+      "$and": [
+        {
+          "Code": "EHS301"
+        },
+        {
+          "Code": "EPS301"
+        },
+        {
+          "Code": "EPS302"
+        }
+      ]
+    },
+    "Assessments": [
+      {
+        "Name": "Formative Assessments",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "Summative Assessment",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "DP": 40,
+    "Credit": 30,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "EPS301",
+    "Name": "Community Health and Development",
+    "Description": "Definition of concepts in community and public health, Influence of the environment and development on \nCommunity health, Agencies involved in international health, Distinction between community/public health \nin developed and less developed countries, The vicious circles of population pressure, Malnutrition and \ninfection, Problem solving in the developing world, Sources of community/public health problems in rural \nand Urban areas in less developed countries: water availability/scarcity, vehicular emission, population \nincrease, air pollution, sanitation; Control of health problems arising from contamination of Water, air in \ncommunities, Spatial Epidemiological Approach to community/public health Problems analysis, Planning \nintervention programme for community/public Health problems. The ecological and spatial approaches to \nthe study of communicable diseases (epidemic and pandemic etc), measures, methods and techniques of \ncontrolling diseases in general, the major patterns of diseases in Southern Africa; the possible control \nstrategies the provision and utilization of health care services and the factors influencing these.",
+    "Prerequisite": {
+      "$and": [
+        {
+          "Code": "EMT201"
+        },
+        {
+          "Code": "EMT202"
+        },
+        {
+          "Code": "EHS201"
+        },
+        {
+          "Code": "EHS202"
+        }
+      ]
+    },
+    "Corequisite": {
+      "$and": [
+        {
+          "Code": "EHS301"
+        },
+        {
+          "Code": "EHS302"
+        },
+        {
+          "Code": "EPS302"
+        }
+      ]
+    },
+    "Assessments": [
+      {
+        "Name": "Formative Assessments",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "Summative Assessment",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "DP": 40,
+    "Credit": 30,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "EPS302",
+    "Name": "Environmental Epidemiology",
+    "Description": "Social and behavioural perspectives in environmental health, Social, cultural & environmental health \nbehaviour theories, Health promotion programs in South Africa, Global health challenges, Principles of \nhealth System and Administration in South Africa. Epidemiological evidence",
+    "Prerequisite": {
+      "$and": [
+        {
+          "Code": "EMT201"
+        },
+        {
+          "Code": "EMT202"
+        },
+        {
+          "Code": "EHS201"
+        },
+        {
+          "Code": "EHS202"
+        }
+      ]
+    },
+    "Corequisite": {
+      "$and": [
+        {
+          "Code": "EHS301"
+        },
+        {
+          "Code": "EHS302"
+        },
+        {
+          "Code": "EPS301"
+        }
+      ]
+    },
+    "Assessments": [
+      {
+        "Name": "Formative Assessments",
+        "Type": "Coursework",
+        "Weight": 60,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Formative Tests"
+          },
+          {
+            "Name": "Assignments"
+          }
+        ]
+      },
+      {
+        "Name": "Summative Written Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 30,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "EMT301",
+    "Name": "Environmental Toxicology",
+    "Description": "The nature, origin and classification of hazardous toxic substances; Characteristics of \nwastes and hazardous substance. Identification of hazardous substances. Sources  and \npathways of hazardous substances. Disposal methods and technology of hazardous \nsubstance. Geological environmental factors affecting choice of disposal site; \ncontamination of water bearing strata; soil, plants, food webs and bio -concentration. \nAnalysi s of hazardous and toxic substances. Regulations and law governing the sale, \nimportation, transportation, storage and disposal of hazardous and toxic substances. \nOrigin of Metals. Classification of metals. Utilisation of metals in industries. Sources of \nmetal pollution; geological weathering, industrial discharge, metals fabricating and \nfurnishing, leaching of metals from garbage, agricultural waste products. Effect of metals \non the environment sediment, waste, air and food. Adverse effect of nearby metals - \npoisoning effects of Pb, Cd, Zn and Hg. Other effects e.g. neurologic, and renal effects. \nAnalysis of metals in environmental samples.  \nLearning Outcomes:  -Classify and characterise hazardous substances in the environment.  \n-Understand different pathways of  hazardous substance into food chain.  \n-Describe various disposal methods for hazardous substances  \nModule Information:   SAQA Credits   ITS Course Level  CESM Code (3rd Order)  \n(Six Numbers)                    30 3 130906  \nDelivery Information:  Campus  Full/Part Time  Period  \nYear/1st/2nd Semester  \nSMU  Full Year  \nPeriods per week: Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n5 3 hours  1  30 hours",
+    "Prerequisite": {
+      "$and": [
+        {
+          "Code": "EMT201"
+        },
+        {
+          "Code": "EMT202"
+        }
+      ]
+    },
+    "Assessments": [
+      {
+        "Name": "Formative Assessments",
+        "Type": "Coursework",
+        "Weight": 60,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Practicals"
+          },
+          {
+            "Name": "Test"
+          },
+          {
+            "Name": "Quiz"
+          }
+        ]
+      },
+      {
+        "Name": "Summative Assessment",
+        "Type": "Exam",
+        "Weight": 40,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Theoretical Examination"
+          },
+          {
+            "Name": "Practical Examination"
+          }
+        ]
+      }
+    ],
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 30,
+    "DP": 40,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "EMT302",
+    "Name": "Pollution Monitoring Techniques and Control",
     "Description": "Waste: Identification and Classification, Techniques for water purification, Types of \nwaste, Selecting technology. Air Pollution: factors affecting air pollution, methods for \nmonitoring air pollution, improved technologies in reducing air pollution, measurement o f \nair pollutants. Waste water treatment, Wastewater treatment principles, Wastewater \ntreatment plants, Primary treatment, Secondary treatment and Tertiary treatment. Soil \npollution, bioremediation techniques in soil. Noise Control, Noise Guidelines and \nTechniques.  \nLearning Outcomes:  -Identify and classify different waste management techniques.  \n-List different factors affecting air pollution.  \n-Understand different methods of monitoring air pollution.  \nModule Information:   SAQA Credits   ITS Course Level  CESM Code (3rd Order)  \n(Six Numbers)  \n30 3 140503  \nDelivery Information:  Campus  Full/Part Time  Period  \nYear/1st/2nd Semester  \nSMU  Full   Year  \nPeriods per week:                            Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n5 3hours  1  30 hours",
-    "Assessments": [],
+    "Prerequisite": {
+      "$and": [
+        {
+          "Code": "EMT201"
+        },
+        {
+          "Code": "EMT202"
+        }
+      ]
+    },
+    "Assessments": [
+      {
+        "Name": "Formative Assessments",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "Summative Assessment",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 30,
+    "DP": 40,
     "Institution": "Sefako Makgatho Health Sciences University"
   },
   {
-    "Description": "Natural resources types and origin, environment,  resource and development; rational use \nof resources and concept of sustainable development. Classification of resources, Survey \nof resources within the ecological regions of South Africa (Earth Minerals, Water \nresources, Forest resources, etc) Management of forests, grazing, lands, soils, foods, \nminerals, etc. Community resource development, population and pressure on resource \nutilization, administration and management of natural resources in South Africa. \nResource economics and management. Environmental c onservation - Protection of \nnature and conservation of species. Conservation of agricultural landscape. Case studies \nconcerned with concepts of balanced approach to natural resources management. \nDevelopment of planning and management principles of natural resources and \necosystem subject to increasing development processes.. Current uses and potentials of \nSouth African resources. Links between the resources of the Earth, Approaches to \nresources management concept, Resources utilization and sustainability. Wa ste \nminimization in resources utilization. Techniques for resources processing and value -\nadding.  \nLearning Outcomes:  -Identify different natural resources in South Africa.  \n-Describe different ways of managing natural resources.  \n-Understand the impact of population growth on natural resources.  \n- \nModule Information:   SAQA Credits   ITS Course Level  CESM Code (3rd Order)  \n(Six Numbers)  \n30 3 131207  \nDelivery Information:  Campus  Full/Part Time  Period  \nYear/1st/2nd Semester  100  SMU  Full   Year  \nPeriods per week:                            Classes  Practical\u2019s  Tutorial  Seminars  Independent \nLearning  \n5 3 hours  1  40 hours",
-    "Assessments": [],
+    "Code": "EMT303",
+    "Name": "Natural Resources Management",
+    "Description": "Natural resources types and origin, environment,  resource and development; rational use \nof resources and concept of sustainable development. Classification of resources, Survey \nof resources within the ecological regions of South Africa (Earth Minerals, Water \nresources, Forest resources, etc) Management of forests, grazing, lands, soils, foods, \nminerals, etc. Community resource development, population and pressure on resource \nutilization, administration and management of natural resources in South Africa. \nResource economics and management. Environmental c onservation - Protection of \nnature and conservation of species. Conservation of agricultural landscape. Case studies \nconcerned with concepts of balanced approach to natural resources management. \nDevelopment of planning and management principles of natural resources and \necosystem subject to increasing development processes.. Current uses and potentials of \nSouth African resources. Links between the resources of the Earth, Approaches to \nresources management concept, Resources utilization and sustainability. Wa ste \nminimization in resources utilization. Techniques for resources processing and value -\nadding.  \nLearning Outcomes:  -Identify different natural resources in South Africa.  \n-Describe different ways of managing natural resources.  \n-Understand the impact of population growth on natural resources.  \n- \nModule Information:   SAQA Credits   ITS Course Level  CESM Code (3rd Order)  \n(Six Numbers)  \n30 3 131207  \nDelivery Information:  Campus  Full/Part Time  Period  \nYear/1st/2nd Semester  100  SMU  Full   Year  \nPeriods per week:                            Classes  Practical's  Tutorial  Seminars  Independent \nLearning  \n5 3 hours  1  40 hours",
+    "Prerequisite": {
+      "$and": [
+        {
+          "Code": "EMT201"
+        },
+        {
+          "Code": "EMT202"
+        }
+      ]
+    },
+    "Assessments": [
+      {
+        "Name": "Formative Assessments",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "Summative Assessment",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 30,
     "Institution": "Sefako Makgatho Health Sciences University"
   },
   {
-    "Description": "Environmental Management and Assessment: Our planet, The need for environmental \nsustainability, Environmental legislation, Environmental Management Systems (EMS), \nEnvironmental impact assessment, Strategic environmental assessment, Environmental \naudit, Cost benefit analysis, Life cycle assessment, Clean technology, Envir onmental risk \nmanagement, Sustainable development; Health and safety policies in industries and work \nenvironments, Strategies and objectives. Socio Political factors involves in environmental \nmanagement, Environmental Administration in South Africa.  101  Learning Outcomes:  -Describe basic environmental management principles.  \n-Understand and describe the steps involves in EIA.  \n-Analyse some socio political factors involve in environmental management.  \nModule Information:   SAQA Credits   ITS Course Level  CESM Code (3rd Order)  \n(Six Numbers)  \n30 3 131205  \nDelivery Information:  Campus  Full/Part Time  Period  \nYear/1st/2nd Semester  \nSMU  Full   Year  \nPeriods per week:                            Classes  Practical\u2019s  Tutorial  Seminars  Independent \nLearning  \n5 3 hours  1  30 hours",
-    "Assessments": [],
+    "Code": "EMT304",
+    "Name": "Environmental Education",
+    "Description": "Environmental Management and Assessment: Our planet, The need for environmental \nsustainability, Environmental legislation, Environmental Management Systems (EMS), \nEnvironmental impact assessment, Strategic environmental assessment, Environmental \naudit, Cost benefit analysis, Life cycle assessment, Clean technology, Envir onmental risk \nmanagement, Sustainable development; Health and safety policies in industries and work \nenvironments, Strategies and objectives. Socio Political factors involves in environmental \nmanagement, Environmental Administration in South Africa.  101  Learning Outcomes:  -Describe basic environmental management principles.  \n-Understand and describe the steps involves in EIA.  \n-Analyse some socio political factors involve in environmental management.  \nModule Information:   SAQA Credits   ITS Course Level  CESM Code (3rd Order)  \n(Six Numbers)  \n30 3 131205  \nDelivery Information:  Campus  Full/Part Time  Period  \nYear/1st/2nd Semester  \nSMU  Full   Year  \nPeriods per week:                            Classes  Practical's  Tutorial  Seminars  Independent \nLearning  \n5 3 hours  1  30 hours",
+    "Prerequisite": {
+      "$and": [
+        {
+          "Code": "EMT201"
+        },
+        {
+          "Code": "EMT202"
+        }
+      ]
+    },
+    "Assessments": [
+      {
+        "Name": "Formative Assessments",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "Summative Assessment",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "DP": 40,
+    "Credit": 30,
     "Institution": "Sefako Makgatho Health Sciences University"
   },
   {
@@ -1870,16 +2673,28 @@
     },
     "Assessments": [
       {
-        "Name": "Theory Examination",
-        "Type": "Exam",
-        "Weight": 40
+        "Name": "Formative Assessments",
+        "Type": "Coursework",
+        "Weight": 60
       },
       {
-        "Name": "MinFinalAssessmentmarktopassPaperPaperPaperPaper",
-        "Type": "Coursework",
-        "Weight": 50
+        "Name": "Summative Assessment",
+        "Type": "Exam",
+        "Weight": 40,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Paper 1: Theory"
+          },
+          {
+            "Name": "Paper 2: Theory"
+          }
+        ]
       }
     ],
+    "Duration": "Year",
+    "Credit": 12,
+    "DP": 40,
     "Institution": "Sefako Makgatho Health Sciences University"
   },
   {
@@ -1899,12 +2714,23 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
-        "Weight": 40
+        "Weight": 40,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Paper 1: Theory"
+          },
+          {
+            "Name": "Paper 2: Theory"
+          }
+        ]
       }
     ],
     "DP": 40,
+    "Credit": 12,
+    "Duration": "Year",
     "Institution": "Sefako Makgatho Health Sciences University"
   },
   {
@@ -1924,9 +2750,18 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
-        "Weight": 40
+        "Weight": 40,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Paper 1: Practical"
+          },
+          {
+            "Name": "Paper 2: Theory"
+          }
+        ]
       }
     ],
     "DP": 40,
@@ -1949,14 +2784,23 @@
     },
     "Assessments": [
       {
-        "Name": "SummativeAssessmentMarkSummativeAssessmentMark",
+        "Name": "Summative Assessment",
         "Type": "Coursework",
         "Weight": 60
       },
       {
-        "Name": "MinFinalAssessmentmarktopassPaperPaperPaperPaper",
-        "Type": "Coursework",
-        "Weight": 50
+        "Name": "Summative Assessment",
+        "Type": "Exam",
+        "Weight": 40,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Paper 1: Practical"
+          },
+          {
+            "Name": "Paper 2: Theory"
+          }
+        ]
       }
     ],
     "DP": 40,
@@ -1981,21 +2825,37 @@
       {
         "Name": "Summative Assessment",
         "Type": "Coursework",
-        "Weight": 60
+        "Weight": 60,
+        "Subitems": [
+          {
+            "Name": "Quizzes",
+            "Weight": 10
+          },
+          {
+            "Name": "Tests",
+            "Weight": 30
+          },
+          {
+            "Name": "Practical Mark",
+            "Weight": 20
+          }
+        ]
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
     ],
     "DP": 40,
+    "Credit": 24,
+    "Duration": "Year",
     "Institution": "Sefako Makgatho Health Sciences University"
   },
   {
     "Code": "MAPM011",
     "Name": "Introduction To Applied Mathematics",
-    "Description": "Vectors  and  Scalar  quantities;  Newton\u2019s  laws  of  motion,  Falling  bodies  and  Projectiles;  Harmonic  \nOscillators, Central force and Planetary motion; System of Particles, Plane motion of Rigid bodies, Space \nmotion of rigid bodies. Simple interest, simple discount, compound interest, annuities and amortisation.  \nLearning Outcomes:  At the end of the module students should be able to:  \n-Know how to add and subtract two vectors and also know how to combine two vectors using dot and \ncross  product.  \n-Differentiate vector  functions.  \n-Integrate vector  functions.  \n-Solve  some  mechanics  problems  using  the concept  of vector  calculus.  \nModule Information:  SAQA Credits  ITS Course Level Code  CESM Code (3rd Order)  \n12 3 150201  \nPeriods per week:  Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n5 0 3 0 4",
+    "Description": "Vectors  and  Scalar  quantities;  Newton's  laws  of  motion,  Falling  bodies  and  Projectiles;  Harmonic  \nOscillators, Central force and Planetary motion; System of Particles, Plane motion of Rigid bodies, Space \nmotion of rigid bodies. Simple interest, simple discount, compound interest, annuities and amortisation.  \nLearning Outcomes:  At the end of the module students should be able to:  \n-Know how to add and subtract two vectors and also know how to combine two vectors using dot and \ncross  product.  \n-Differentiate vector  functions.  \n-Integrate vector  functions.  \n-Solve  some  mechanics  problems  using  the concept  of vector  calculus.  \nModule Information:  SAQA Credits  ITS Course Level Code  CESM Code (3rd Order)  \n12 3 150201  \nPeriods per week:  Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n5 0 3 0 4",
     "Prerequisite": {
       "Comment": "None"
     },
@@ -2016,7 +2876,7 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -2048,12 +2908,12 @@
     },
     "Assessments": [
       {
-        "Name": "Summative Assessment",
+        "Name": "Continuous Summative Assessment",
         "Type": "Coursework",
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -2067,9 +2927,138 @@
     "Institution": "Sefako Makgatho Health Sciences University"
   },
   {
+    "Code": "MAPA021",
+    "Name": "Ordinary and Partial Differential Equations",
+    "Description": "General introduction to differential equations; Classification of ODE’s: first, second and higher order linear \nODE’s; Methods of solutions; Power series method; Laplace transforms and applications; Classification of \nPartial differential equations into elliptic, hyperbolic and parabolic equations and their methods of solutions \nand application in science and engineering.",
+    "Prerequisite": {
+      "$and": [
+        {
+          "Code": "MAPM011"
+        },
+        {
+          "Code": "MAPM012"
+        },
+        {
+          "Code": "MMTH011"
+        },
+        {
+          "Code": "MMTH012"
+        }
+      ]
+    },
+    "Corequisite": {
+      "Code": "MMTA021"
+    },
+    "Assessments": [
+      {
+        "Name": "Continuous Summative Assessment",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "Summative Assessment",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "DP": 40,
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Credit": 20,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MAPA022",
+    "Name": "Numerical Analysis",
+    "Description": "Numbers and errors; Root finding for single non-linear equations; Interpolation and approximation; \nLimitation of polynomial interpolation; Numerical integration and differentiation; Numerical solution of \nsystems of linear equations; Numerical solution of initial value problems and boundary value problems.; \nEigenvalue problems, the largest eigenvalue in magnitude by power method; Eigenvalues and eigenvectors \nof symmetric matrices; The LR- and QR-algorithms; Errors in computed eigenvalues and \neigenvectors, etc",
+    "Prerequisite": {
+      "$and": [
+        {
+          "Code": "MMTH011"
+        },
+        {
+          "Code": "MMTH012"
+        },
+        {
+          "Code": "MAPM011"
+        },
+        {
+          "Code": "MAPM012"
+        }
+      ]
+    },
+    "Corequisite": {
+      "Code": "MMTA022"
+    },
+    "Assessments": [
+      {
+        "Name": "Continuous Summative Assessment",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "Summative Assessment",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "DP": 40,
+    "Credit": 20,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MAPA031",
+    "Name": "Fluid Mechanincs",
+    "Description": "Part 1: Fluid motion description; Streaklines; Eulerian and Lagrangian descriptions; Hydrodynamic and \nEuler’s equations; Bernoulli’s equations and their application; Stream function; some elementary flows; \nPotential flows; Vortex dynamics; Kelvin theorem, etc. \nPart 2: Constitutive equations; Continuity equations; Navier-Stokes equations; Vorticity Transport \nequations; Energy equation, etc; Coutte flow; Poiseuille flow; Flow between two rotating cylinders, etc; \nBoundary layer equations; Von-Karman equations, etc.", 
+    "Prerequisite": {
+      "$and": [
+        {
+          "Code": "MMTA021"
+        },
+        {
+          "Code": "MMTA022"
+        },
+        {
+          "Code": "MAPA021"
+        },
+        {
+          "Code": "MAPA022"
+        }
+      ]
+    },
+    "Corequisite": {
+      "Code": "MAPA032"
+    },
+    "Assessments": [
+      {
+        "Name": "Continuous Summative Assessment",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "Summative Assessment",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "DP": 40,
+    "Credit": 32,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
     "Code": "MAPA302",
     "Name": "Mathematical Theory of Electromagnetism and Special Theory of Relativity",
-    "Description": "Mathematical Theory of Electromagnetism: Newton\u2019s laws of motion; Lorentz  transformation; \nMinkowski space -time, Length contraction, Time dilatation; Spacelike and timelike intervals; Light cones, \nVelocity, acceleration and momentum; Minkowski law of force; Energy and mass; Momentum and energy. \nSpecial Relativity: Classical electrodynamics; Maxwell\u2019s equations; Continuity equations; Gauge \ninvariance  of  electromagnetic  field;  Variation  principles  in  field  theory;  Euler -Lagrange\u2019s  equations;  \nMaxwell\u2019s equation in 4 -dimensional Minkowski space; Equations of motion; Lagrangian for a charged  \nfield and Equations  of motion  derived  from variational  methods.  114   \nLearning Outcomes:  At the end of the module a student should be able to:  \n-Understand and apply Newton\u2019s laws of motion, Lorentz transformation; Minkowski space -time, Length \ncontraction, Time dilatation; Spacelike and timelike intervals; Light cones, Velocity, acceleration and \nmomentum;  Minkowski  law of force;  Energy  and mass;  Momentum  and energy  \n-Understand and apply Classical electrodynamics; Maxwell\u2019s equations; Continuity equations; Gauge \ninvariance of electromagnetic field; Variation principles in field theory; Euler -Lagrange\u2019s equations; \nMaxwell\u2019s  equation  in 4-dimensional  Minkowski  space;  Equations  of motion;  Lagrangian  for a charged  \nfield and Equations of motion derived from variational methods.  \nModule Information:  SAQA Credits  ITS Course Level Code  CESM Code (3rd Order)  \n32 3 150201  \nPeriods per week:  Classes  Practicals  Tutorial  Seminars  Independent  \nLearning  \n5 0 0 0 8",
+    "Description": "Mathematical Theory of Electromagnetism: Newton's laws of motion; Lorentz  transformation; \nMinkowski space -time, Length contraction, Time dilatation; Spacelike and timelike intervals; Light cones, \nVelocity, acceleration and momentum; Minkowski law of force; Energy and mass; Momentum and energy. \nSpecial Relativity: Classical electrodynamics; Maxwell's equations; Continuity equations; Gauge \ninvariance  of  electromagnetic  field;  Variation  principles  in  field  theory;  Euler -Lagrange's  equations;  \nMaxwell's equation in 4 -dimensional Minkowski space; Equations of motion; Lagrangian for a charged  \nfield and Equations  of motion  derived  from variational  methods.  114   \nLearning Outcomes:  At the end of the module a student should be able to:  \n-Understand and apply Newton's laws of motion, Lorentz transformation; Minkowski space -time, Length \ncontraction, Time dilatation; Spacelike and timelike intervals; Light cones, Velocity, acceleration and \nmomentum;  Minkowski  law of force;  Energy  and mass;  Momentum  and energy  \n-Understand and apply Classical electrodynamics; Maxwell's equations; Continuity equations; Gauge \ninvariance of electromagnetic field; Variation principles in field theory; Euler -Lagrange's equations; \nMaxwell's  equation  in 4-dimensional  Minkowski  space;  Equations  of motion;  Lagrangian  for a charged  \nfield and Equations of motion derived from variational methods.  \nModule Information:  SAQA Credits  ITS Course Level Code  CESM Code (3rd Order)  \n32 3 150201  \nPeriods per week:  Classes  Practicals  Tutorial  Seminars  Independent  \nLearning  \n5 0 0 0 8",
     "Prerequisite": {
       "$and": [
         {
@@ -2091,16 +3080,22 @@
     },
     "Assessments": [
       {
-        "Name": "MinSummativeAssessmentmarkforexamadmission",
-        "Type": "Coursework",
-        "Weight": 40
-      },
-      {
-        "Name": "SummativeAssessMark",
+        "Name": "Continuous Summative Assessment",
         "Type": "Coursework",
         "Weight": 60
+      },
+      {
+        "Name": "Summative Assessment",
+        "Type": "Exam",
+        "Weight": 40
       }
     ],
+    "DP": 40,
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Credit": 32,
     "Institution": "Sefako Makgatho Health Sciences University"
   },
   {
@@ -2120,7 +3115,7 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -2143,16 +3138,16 @@
     "Corequisite": {
       "Comment": "None"
     },
-    "Assessments": [
+   "Assessments": [
       {
-        "Name": "MinSummativeAssessmentsmarkforexamadmission",
+        "Name": "Continuous Summative Assessment",
         "Type": "Coursework",
-        "Weight": 40
+        "Weight": 60
       },
       {
         "Name": "Summative Assessment",
-        "Type": "Coursework",
-        "Weight": 60
+        "Type": "Exam",
+        "Weight": 40
       }
     ],
     "Duration": "Semester",
@@ -2165,7 +3160,7 @@
   {
     "Code": "MMTA021",
     "Name": "Advanced Calculus",
-    "Description": "Improper Integrals and L\u2019H\u00f4pital\u2019s Rules; Definitions and Properties of Infinite Sequences; Infinite Series; \nTests for Convergence and Divergence for Series with Positive terms; Alternating Series; Absolute \nConvergence; Power Series; Convergence of Power Series; Taylor and Maclaurin series; Differential \nCalculus of Functions of several variables; Distance between two points in Rn; Partial Derivatives; Limits \nand Continuity; Multiple Integrals; Definition of Double Integral; Evaluation of Double Integral as an  Iterated \nIntegral; Fubini\u2019s Theorem; Change of Variables; Jacobian of the transformation; Double Integrals in Polar \nForm; Triple Integrals; Line Integrals; The Fundamental Theorem for Line Integrals; Green\u2019s Theorem; \nStokes\u2019s Theorem; Hyperbolic Functions; Definitions and Identities; Derivatives and Integrals; Inverse \nHyperbolic Functions; Ordinary Differential Equations; First Order Differential Equations; L inear (higher \norder) homogeneous and non -homogeneous differential equations with constant coefficients;  Use \nof the variation of parameters.  \nLearning Outcomes:  At the end of the module a student should be able to:  \n-Apply L\u2019Hopital\u2019s rules for a wide range of  limits.  \n-Apply  the various  tests  of convergence  to a wide range  of infinite  series.  \n-Evaluate  the Taylor  series  of a wide  range  of functions.  \n-Evaluate  multiple  integrals  and partial  derivatives  for a wide range  of functions.  \n-Evaluate  first and second  order  linear  homogeneous  and non-homogeneous  differential  equations.  \n-Handle  complex  functions  with the same  ease  as real functions.  \n-Differentiate  and integrate  Hyperbolic  and inverse  hyperbolic  functions.  \nModule Information:  SAQA Credits  ITS Course  Level Code  CESM Code (3rd Order)  \n20 3 150101  \nPeriods per week:  Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n5 0 1 hour  0 6",
+    "Description": "Improper Integrals and L'Hopital's Rules; Definitions and Properties of Infinite Sequences; Infinite Series; \nTests for Convergence and Divergence for Series with Positive terms; Alternating Series; Absolute \nConvergence; Power Series; Convergence of Power Series; Taylor and Maclaurin series; Differential \nCalculus of Functions of several variables; Distance between two points in Rn; Partial Derivatives; Limits \nand Continuity; Multiple Integrals; Definition of Double Integral; Evaluation of Double Integral as an  Iterated \nIntegral; Fubini's Theorem; Change of Variables; Jacobian of the transformation; Double Integrals in Polar \nForm; Triple Integrals; Line Integrals; The Fundamental Theorem for Line Integrals; Green's Theorem; \nStokes's Theorem; Hyperbolic Functions; Definitions and Identities; Derivatives and Integrals; Inverse \nHyperbolic Functions; Ordinary Differential Equations; First Order Differential Equations; L inear (higher \norder) homogeneous and non -homogeneous differential equations with constant coefficients;  Use \nof the variation of parameters.  \nLearning Outcomes:  At the end of the module a student should be able to:  \n-Apply L'Hopital's rules for a wide range of  limits.  \n-Apply  the various  tests  of convergence  to a wide range  of infinite  series.  \n-Evaluate  the Taylor  series  of a wide  range  of functions.  \n-Evaluate  multiple  integrals  and partial  derivatives  for a wide range  of functions.  \n-Evaluate  first and second  order  linear  homogeneous  and non-homogeneous  differential  equations.  \n-Handle  complex  functions  with the same  ease  as real functions.  \n-Differentiate  and integrate  Hyperbolic  and inverse  hyperbolic  functions.  \nModule Information:  SAQA Credits  ITS Course  Level Code  CESM Code (3rd Order)  \n20 3 150101  \nPeriods per week:  Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n5 0 1 hour  0 6",
     "Prerequisite": {
       "Code": "MMTH011"
     },
@@ -2174,12 +3169,12 @@
     },
     "Assessments": [
       {
-        "Name": "Summative Assessment",
+        "Name": "Continuous Summative Assessment",
         "Type": "Coursework",
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -2204,12 +3199,12 @@
     },
     "Assessments": [
       {
-        "Name": "SummativeAssessMark",
+        "Name": "Continuous Summative Assessment",
         "Type": "Coursework",
         "Weight": 60
       },
       {
-        "Name": "SummativeAssessMark",
+        "Name": "Summative Assessment",
         "Type": "Coursework",
         "Weight": 40
       }
@@ -2224,8 +3219,8 @@
   },
   {
     "Code": "MMTA023",
-    "Name": "Calculus  II A (for non - Mathematics students)",
-    "Description": "Infinite sequence and Series of real numbers, Vector Calculus; Partial Derivatives, Evaluation of Double \nIntegral, Double Integrals in Polar Form, Line Integrals, Fundamental Theo rem for Line Integrals; Differential \nEquations.  \nLearning Outcomes:  At the end of the module students should be able to:  \n-Apply various tests of convergence for sequences and series.  \n-Differentiate functions of two and three variables.  \n-Evaluate multiple integrals for a wide range of functions.  \n-Evaluate line integrals of vector fields.  \n-Understand the relationship between a line integral around a simple closed curve and a double \nintegral over the region bounded by the curve.  \n-Apply Green\u2019s theorem and Stoke\u2019 s Theorem  \n-Evaluate first order linear differential equations.  \nModule Information:  SAQA Credits  ITS Course Level Code  CESM Code (3rd Order)  \n12 3 150101  \nPeriods per Week:  Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n5 x 40 min   4x40min  0 6 hrs",
+    "Name": "Calculus  IIA",
+    "Description": "Infinite sequence and Series of real numbers, Vector Calculus; Partial Derivatives, Evaluation of Double \nIntegral, Double Integrals in Polar Form, Line Integrals, Fundamental Theo rem for Line Integrals; Differential \nEquations.  \nLearning Outcomes:  At the end of the module students should be able to:  \n-Apply various tests of convergence for sequences and series.  \n-Differentiate functions of two and three variables.  \n-Evaluate multiple integrals for a wide range of functions.  \n-Evaluate line integrals of vector fields.  \n-Understand the relationship between a line integral around a simple closed curve and a double \nintegral over the region bounded by the curve.  \n-Apply Green's theorem and Stoke' s Theorem  \n-Evaluate first order linear differential equations.  \nModule Information:  SAQA Credits  ITS Course Level Code  CESM Code (3rd Order)  \n12 3 150101  \nPeriods per Week:  Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n5 x 40 min   4x40min  0 6 hrs",
     "Prerequisite": {
       "Code": "MMTH011"
     },
@@ -2234,22 +3229,23 @@
     },
     "Assessments": [
       {
-        "Name": "FormativeAssessmentsMark",
+        "Name": "Formative Assessments",
         "Type": "Coursework",
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
     ],
     "DP": 40,
+    "Credit": 12,
     "Institution": "Sefako Makgatho Health Sciences University"
   },
   {
     "Code": "MMTA024",
-    "Name": "Linear Algebra IIA (for non -Mathematics students)",
+    "Name": "Linear Algebra IIA",
     "Description": "Vector Analysis: Basic laws of vector Algebra, orthogonal co -ordinate systems, co-ordinate transformations,  \ngradient of a scalar field; General Vector spaces: Examples of concrete vector spaces,vector space \nproperties; Linear independence, Spanning sets and Bases; Sub Spaces; Inner Products spaces and \nOrthogonal Bases; Linear transf ormations: Matrix representations; Properties of linear transformations; \nChange of bases; Linear problems; The Eigenvalue Problem; The Characteristic polynomial and \nEigenvalues; The Hamilton -Cayley The0rem  \nLearning Outcomes:  After successfully completing the module, the student should be able to:  \n-Understand the equality of vectors,vector addition, subtraction and multiplication  \n-Know and understand position distance of vectors and scalar and vector triple products  \n-Understand Cartesian, cylindrical and spher ical co -ordinates  \n-Distinguished and understand Cartesian to Cylindrical,Spherical Transformations  \n-To apply gradient operator in Cylindrical and spherical coordinates  \n-Understand properties of the gradient operators  \n-Handle the abstract concepts of vector space properties and linear transformations with confidence  \n-Find a matrix representing a linear transformation relative to any set of given bases  \n-Find bases for null space and range of a linear transformation  \n-Solve e igenvalue problem and diagonalize a given square matrix  \n-Determine an orthogonal bases for an inner product space using the Gramm -Schmidt  \nModule Information:  SAQA Credits  ITS Course Level Code  CESM Code (3rd Order)  \n20 3 150102  \nPeriods per Week:  Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n5 x 40 min   3x40min  0 6 hrs",
     "Prerequisite": {
       "Code": "MMTH012"
@@ -2259,17 +3255,18 @@
     },
     "Assessments": [
       {
-        "Name": "FormativeAssessmentsMark",
+        "Name": "Formative Assessments",
         "Type": "Coursework",
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
     ],
     "DP": 40,
+    "Credit": 20,
     "Institution": "Sefako Makgatho Health Sciences University"
   },
   {
@@ -2307,17 +3304,22 @@
     },
     "Assessments": [
       {
-        "Name": "FormativeAssessMark",
+        "Name": "Formative Assessments",
         "Type": "Coursework",
         "Weight": 60
       },
       {
-        "Name": "SummativeAssessMark",
-        "Type": "Coursework",
+        "Name": "Summative Assessment",
+        "Type": "Exam",
         "Weight": 40
       }
     ],
     "DP": 40,
+    "Credit": 16,
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
     "Institution": "Sefako Makgatho Health Sciences University"
   },
   {
@@ -2355,17 +3357,22 @@
     },
     "Assessments": [
       {
-        "Name": "FormativeAssessMark",
+        "Name": "Formative Assessments",
         "Type": "Coursework",
         "Weight": 60
       },
       {
-        "Name": "SummativeAssessMark",
-        "Type": "Coursework",
+        "Name": "Summative Assessment",
+        "Type": "Exam",
         "Weight": 40
       }
     ],
     "DP": 40,
+    "Credit": 16,
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
     "Institution": "Sefako Makgatho Health Sciences University"
   },
   {
@@ -2385,7 +3392,7 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -2401,7 +3408,7 @@
   {
     "Code": "MMTB031",
     "Name": "Abstract Algebra",
-    "Description": "Groups; Definition and properties of Groups; Subgroups; Cyclic and permutation groups; Cosets and \nLagrange\u2019s Theorem; External and Internal Direct Products; Isomorphisms and homomorphisms; Normal \nsubgroups and Factor groups; Rings and Fields; Definitions and examples; Integral Domains; Ideals and \nFactor  rings;  Ring  Homomorphisms;  Prime  and  Maximal  Ideals;  Rings  of  polynomials;  Definition,  \nproperties  and examples; Factorization of polynomials over a field; Unique Factorization  and Euclidean \nDomains, Extension Fields, Algebraic and Transcendenta  elements ; Geomentric Constructions.  123   \nLearning Outcomes:  At the end of the module a student should be able to: \n-Write  down  a clear  and coherent  proof  of a mathematical  statement.  \n-Identify  various  mathematical  structures  as groups  or rings.  \n-Identify  various  mathematical  structures  as unique  factorization  domains.  \nModule Information:  SAQA Credits  ITS Course Level  Code  CESM Code (3rd Order)  \n16 3 150102  \nPeriods per week:  Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n5 0 1 0 8",
+    "Description": "Groups; Definition and properties of Groups; Subgroups; Cyclic and permutation groups; Cosets and \nLagrange's Theorem; External and Internal Direct Products; Isomorphisms and homomorphisms; Normal \nsubgroups and Factor groups; Rings and Fields; Definitions and examples; Integral Domains; Ideals and \nFactor  rings;  Ring  Homomorphisms;  Prime  and  Maximal  Ideals;  Rings  of  polynomials;  Definition,  \nproperties  and examples; Factorization of polynomials over a field; Unique Factorization  and Euclidean \nDomains, Extension Fields, Algebraic and Transcendenta  elements ; Geomentric Constructions.  123   \nLearning Outcomes:  At the end of the module a student should be able to: \n-Write  down  a clear  and coherent  proof  of a mathematical  statement.  \n-Identify  various  mathematical  structures  as groups  or rings.  \n-Identify  various  mathematical  structures  as unique  factorization  domains.  \nModule Information:  SAQA Credits  ITS Course Level  Code  CESM Code (3rd Order)  \n16 3 150102  \nPeriods per week:  Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n5 0 1 0 8",
     "Prerequisite": {
       "Code": "MMTA022"
     },
@@ -2410,13 +3417,13 @@
     },
     "Assessments": [
       {
-        "Name": "SummativeAssessMark",
-        "Type": "Coursework",
+        "Name": "Summative Assessment",
+        "Type": "Exam",
         "Weight": 60
       },
       {
-        "Name": "SummativeAssessMark",
-        "Type": "Coursework",
+        "Name": "Summative Assessment",
+        "Type": "Exam",
         "Weight": 40
       }
     ],
@@ -2431,7 +3438,7 @@
   {
     "Code": "MMTA032",
     "Name": "Complex Analysis",
-    "Description": "Complex numbers; Some topology of the set of complex numbers; Analytic and harmonic functions; \nComplex power series and elementary complex functions; Complex integrals; Curves and contours; \nFundamental Theorem of Calculus; Estimation Theorem; Theory of hol omorphic functions; Cauchy\u2019s \ntheorem for a contour; Deformation theorem; Cauchy\u2019s Integral Formula; Liouville\u2019s and Morera\u2019s  Theorem; \nCauchy\u2019s Integral Formula for Derivatives; Representation of holomorphic functions by power series;  \nMaximum  Principle;  Laurent\u2019s  series;  Residue  Theory;  Classification  of singularities;  Cauchy\u2019s  \nResidue Theorem; Summation of series; Conformal mappings.  \nLearning Outcomes:  A student at this level should be able to:  \n-Deal confidently  with problems  involving  complex  numbers.  \n-Apply  complex  methods  to solve  complicated  integrals.  \nModule Information:  SAQA Credits  ITS Course Level Code  CESM Code (3rd Order)  \n16 3 150101  \nPeriods per week:  Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n5 0 1 0 8",
+    "Description": "Complex numbers; Some topology of the set of complex numbers; Analytic and harmonic functions; \nComplex power series and elementary complex functions; Complex integrals; Curves and contours; \nFundamental Theorem of Calculus; Estimation Theorem; Theory of hol omorphic functions; Cauchy's \ntheorem for a contour; Deformation theorem; Cauchy's Integral Formula; Liouville's and Morera's  Theorem; \nCauchy's Integral Formula for Derivatives; Representation of holomorphic functions by power series;  \nMaximum  Principle;  Laurent's  series;  Residue  Theory;  Classification  of singularities;  Cauchy's  \nResidue Theorem; Summation of series; Conformal mappings.  \nLearning Outcomes:  A student at this level should be able to:  \n-Deal confidently  with problems  involving  complex  numbers.  \n-Apply  complex  methods  to solve  complicated  integrals.  \nModule Information:  SAQA Credits  ITS Course Level Code  CESM Code (3rd Order)  \n16 3 150101  \nPeriods per week:  Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n5 0 1 0 8",
     "Prerequisite": {
       "Code": "MMTA021"
     },
@@ -2440,12 +3447,12 @@
     },
     "Assessments": [
       {
-        "Name": "Summative Assessment",
+        "Name": "Continuous Summative Assessment",
         "Type": "Coursework",
         "Weight": 60
       },
       {
-        "Name": "SummativeAssessmentMarkMinFinalAssessmentmarktopassPaperPaperPaperPaper",
+        "Name": "Summative Assessment",
         "Type": "Coursework",
         "Weight": 40
       }
@@ -2470,12 +3477,12 @@
     },
     "Assessments": [
       {
-        "Name": "Summative Assessment",
+        "Name": "Continuous Summative Assessment",
         "Type": "Coursework",
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -2500,23 +3507,25 @@
     },
     "Assessments": [
       {
-        "Name": "SummativeAssessmentMarkSummativeAssessmentMark",
+        "Name": "Continuous Summative Assessment",
         "Type": "Coursework",
         "Weight": 60
       },
       {
-        "Name": "MinFinalAssessmentmarktopassPaperPaperPaperPaper",
-        "Type": "Coursework",
-        "Weight": 50
+        "Name": "Summative Assessment",
+        "Type": "Exam",
+        "Weight": 40
       }
     ],
     "DP": 40,
+    "Credit": 24,
+    "Duration": "Year",
     "Institution": "Sefako Makgatho Health Sciences University"
   },
   {
     "Code": "MPHB000",
     "Name": "Introduction to General Physics 1B",
-    "Description": "Electricity and Magnetism - Electrostatics, charging process, charge distributions, potential difference,  \nOhm\u2019s law, resistors in parallel and series, internal resistance and Electromagnetism.  \nOscillations and Waves : Simple Harmonic Motion, Mechanical Waves, Acoustics, Electromagnetic Waves  \nOptics : Nature and Propagation of Light and Geometrical Optics  \nLearning Outcomes:  After taking this module students should be able to:  \n-Demonstrate  an understanding  of underlying  ideas  and concepts  of electricity  \n-Define  Coulomb\u2019s  law and apply  it for interaction  of stationery  charges  \n-Know  how to calculate  work,  energy  and electric  potential  of a charge  \n-Know  how a capacitor  works  and solve  circuits  with capacitors  connected  in series  and in parallel  \n-Define  correctly  electric  current  and apply  Ohm\u2019s  law to emf and Kirchhoff  circuits  \n-Know  the originality  of magnetism  and calculate  current  in different  types  of conductors  \n-Understand  the Hall Effect  in metals  and semiconductors  \n-Understand  Hooke\u2019s  law and the oscillations  in a simple  pendulum  \n-Differentiate  between  transverse  and longitudinal  waves  \n-Understand  the application  of the Doppler  Effect  to sound  \n-Understand  the nature  of light and know  the difference  between  reflection  and refraction  \n-Understand  how images  are formed  in mirrors,  lenses  and cameras  \nModule Information:  SAQA Credits  ITS Course Level Code  CESM Code (3rd Order)  \n24 03 140701  \nPeriods per Week:  Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n4 x 45 min  1 x 3 hrs  2 x 1 hrs  0 1.25 hrs",
+    "Description": "Electricity and Magnetism - Electrostatics, charging process, charge distributions, potential difference,  \nOhm's law, resistors in parallel and series, internal resistance and Electromagnetism.  \nOscillations and Waves : Simple Harmonic Motion, Mechanical Waves, Acoustics, Electromagnetic Waves  \nOptics : Nature and Propagation of Light and Geometrical Optics  \nLearning Outcomes:  After taking this module students should be able to:  \n-Demonstrate  an understanding  of underlying  ideas  and concepts  of electricity  \n-Define  Coulomb's  law and apply  it for interaction  of stationery  charges  \n-Know  how to calculate  work,  energy  and electric  potential  of a charge  \n-Know  how a capacitor  works  and solve  circuits  with capacitors  connected  in series  and in parallel  \n-Define  correctly  electric  current  and apply  Ohm's  law to emf and Kirchhoff  circuits  \n-Know  the originality  of magnetism  and calculate  current  in different  types  of conductors  \n-Understand  the Hall Effect  in metals  and semiconductors  \n-Understand  Hooke's  law and the oscillations  in a simple  pendulum  \n-Differentiate  between  transverse  and longitudinal  waves  \n-Understand  the application  of the Doppler  Effect  to sound  \n-Understand  the nature  of light and know  the difference  between  reflection  and refraction  \n-Understand  how images  are formed  in mirrors,  lenses  and cameras  \nModule Information:  SAQA Credits  ITS Course Level Code  CESM Code (3rd Order)  \n24 03 140701  \nPeriods per Week:  Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n4 x 45 min  1 x 3 hrs  2 x 1 hrs  0 1.25 hrs",
     "Prerequisite": {
       "Comment": "None"
     },
@@ -2525,17 +3534,19 @@
     },
     "Assessments": [
       {
-        "Name": "Summative Assessment",
+        "Name": "Continuous Summative Assessment",
         "Type": "Coursework",
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
     ],
     "DP": 40,
+    "Credit": 24,
+    "Duration": "Year",
     "Institution": "Sefako Makgatho Health Sciences University"
   },
   {
@@ -2552,10 +3563,22 @@
       {
         "Name": "Summative Assessment",
         "Type": "Coursework",
-        "Weight": 60
+        "Weight": 60,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Tests"
+          },
+          {
+            "Name": "Practicals"
+          },
+          {
+            "Name": "Tutorials and/or Assignments"
+          }
+        ]
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -2571,7 +3594,7 @@
   {
     "Code": "MPHS012",
     "Name": "General Physics 1B",
-    "Description": "Electricity and Magnetism: Electrostatics, Current electricity, Electromagnetism;  \nOscillations and Waves : Simple Harmonic Motion, Mechanical Waves, Acoustics, Electromagnetic Waves  \nOptics : Nature and Propagation of Light and Geometrical Optics  \nLearning Outcomes:  After taking this module student should be able to:  \n-Define  Coulomb\u2019s  law and apply  it for interaction  of stationery  charges  \n-Know  how to calculate  work,  energy  and electric  potential  of a charge  \n-Know  how a capacitor  works  and solve  circuits  with capacitors  connected  in series  and in parallel  \n-Define  correctly  electric  current  and apply  Ohm\u2019s  law to emf and Kirchhoff  circuits  \n-Know  the originality  of magnetism  and calculate  current  in different  types  of conductors  \n-Understand the Hall Effect in metals and  semiconductors  \n-Understand  Hooke\u2019s  law and the oscillations  in a simple  pendulum  \n-Differentiate  between  transverse  and longitudinal  waves  \n-Understand  the application  of the Doppler  Effect  to sound  \n-Understand  the nature  of light and know  the difference  between  reflection  and refraction  \n-Understand  how images  are formed  in mirrors,  lenses  and cameras  \nModule Information:  SAQA Credits  ITS Course Level Code  CESM Code (3rd Order)  \n12 3 140701  \nPeriods per Week:  Classes  Practicals  Tutorial  Seminars  Independent  \nLearning  \n4 x 45 min  1 x 3 hrs  1 x 45 min   2.4 hrs",
+    "Description": "Electricity and Magnetism: Electrostatics, Current electricity, Electromagnetism;  \nOscillations and Waves : Simple Harmonic Motion, Mechanical Waves, Acoustics, Electromagnetic Waves  \nOptics : Nature and Propagation of Light and Geometrical Optics  \nLearning Outcomes:  After taking this module student should be able to:  \n-Define  Coulomb's  law and apply  it for interaction  of stationery  charges  \n-Know  how to calculate  work,  energy  and electric  potential  of a charge  \n-Know  how a capacitor  works  and solve  circuits  with capacitors  connected  in series  and in parallel  \n-Define  correctly  electric  current  and apply  Ohm's  law to emf and Kirchhoff  circuits  \n-Know  the originality  of magnetism  and calculate  current  in different  types  of conductors  \n-Understand the Hall Effect in metals and  semiconductors  \n-Understand  Hooke's  law and the oscillations  in a simple  pendulum  \n-Differentiate  between  transverse  and longitudinal  waves  \n-Understand  the application  of the Doppler  Effect  to sound  \n-Understand  the nature  of light and know  the difference  between  reflection  and refraction  \n-Understand  how images  are formed  in mirrors,  lenses  and cameras  \nModule Information:  SAQA Credits  ITS Course Level Code  CESM Code (3rd Order)  \n12 3 140701  \nPeriods per Week:  Classes  Practicals  Tutorial  Seminars  Independent  \nLearning  \n4 x 45 min  1 x 3 hrs  1 x 45 min   2.4 hrs",
     "Prerequisite": {
       "Comment": "None"
     },
@@ -2582,10 +3605,22 @@
       {
         "Name": "Summative Assessment",
         "Type": "Coursework",
-        "Weight": 60
+        "Weight": 60,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Tests"
+          },
+          {
+            "Name": "Practicals"
+          },
+          {
+            "Name": "Tutorials and/or Assignments"
+          }
+        ]
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -2619,10 +3654,22 @@
       {
         "Name": "Summative Assessment",
         "Type": "Coursework",
-        "Weight": 60
+        "Weight": 60,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Tests"
+          },
+          {
+            "Name": "Practicals"
+          },
+          {
+            "Name": "Tutorials and/or Assignments"
+          }
+        ]
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -2656,10 +3703,22 @@
       {
         "Name": "Summative Assessment",
         "Type": "Coursework",
-        "Weight": 60
+        "Weight": 60,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Tests"
+          },
+          {
+            "Name": "Practicals"
+          },
+          {
+            "Name": "Tutorials and/or Assignments"
+          }
+        ]
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -2693,10 +3752,22 @@
       {
         "Name": "Summative Assessment",
         "Type": "Coursework",
-        "Weight": 60
+        "Weight": 60,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Tests"
+          },
+          {
+            "Name": "Practicals"
+          },
+          {
+            "Name": "Tutorials and/or Assignments"
+          }
+        ]
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -2716,7 +3787,10 @@
     "Prerequisite": {
       "$and": [
         {
-          "Code": "MPHS011;MPHS012"
+          "Code": "MPHS012"
+        },
+        {
+          "Code": "MPHS011"
         }
       ]
     },
@@ -2727,10 +3801,22 @@
       {
         "Name": "Summative Assessment",
         "Type": "Coursework",
-        "Weight": 60
+        "Weight": 60,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Tests"
+          },
+          {
+            "Name": "Practicals"
+          },
+          {
+            "Name": "Tutorials and/or Assignments"
+          }
+        ]
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -2746,11 +3832,11 @@
   {
     "Code": "MPHA031",
     "Name": "Quantum Mechanics",
-    "Description": "Background to quantum mechanics, Schr\u00f6dinger equation, Properties of  Schr\u00f6dinger  equation, \nApplication of quantum mechanics to one -dimensional systems, Quantum theory of the hydrogen atom.  \nLearning Outcomes:  After completion of this course students are expected to:  \n-describe  the wave  nature  and particle  nature  of particles  and radiation.  \n-solve  problems  concerning  particles  in various  potentials.  \n-make  a connection  between  quantum  mechanics  and high energy  physics  experiments.  \nModule Information:  SAQA Credits  ITS Course Level Code  CESM Code (3rd Order)  \n16 04 140799  \nPeriods per Week:  Classes  Practicals  Tutorial  Seminars  Independent  \nLearning  \n5 2 1  10.2 hrs",
+    "Description": "Background to quantum mechanics, Schrodinger equation, Properties of  Schrodinger  equation, \nApplication of quantum mechanics to one -dimensional systems, Quantum theory of the hydrogen atom.  \nLearning Outcomes:  After completion of this course students are expected to:  \n-describe  the wave  nature  and particle  nature  of particles  and radiation.  \n-solve  problems  concerning  particles  in various  potentials.  \n-make  a connection  between  quantum  mechanics  and high energy  physics  experiments.  \nModule Information:  SAQA Credits  ITS Course Level Code  CESM Code (3rd Order)  \n16 04 140799  \nPeriods per Week:  Classes  Practicals  Tutorial  Seminars  Independent  \nLearning  \n5 2 1  10.2 hrs",
     "Prerequisite": {
       "$and": [
         {
-          "Code": "MPHA021;"
+          "Code": "MPHA021"
         },
         {
           "Code": "MPHB021"
@@ -2786,10 +3872,22 @@
       {
         "Name": "Summative Assessment",
         "Type": "Coursework",
-        "Weight": 60
+        "Weight": 60,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Tests"
+          },
+          {
+            "Name": "Practicals"
+          },
+          {
+            "Name": "Tutorials and/or Assignments"
+          }
+        ]
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -2843,14 +3941,26 @@
     },
     "Assessments": [
       {
-        "Name": "MinSummativeAssessmentmarkforexamadmission",
+        "Name": "Summative Assessment",
         "Type": "Coursework",
-        "Weight": 40
+        "Weight": 60,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Tests"
+          },
+          {
+            "Name": "Practicals"
+          },
+          {
+            "Name": "Tutorials and/or Assignments"
+          }
+        ]
       },
       {
         "Name": "Summative Assessment",
-        "Type": "Coursework",
-        "Weight": 60
+        "Type": "Exam",
+        "Weight": 40
       }
     ],
     "Duration": "Term",
@@ -2903,10 +4013,22 @@
       {
         "Name": "Summative Assessment",
         "Type": "Coursework",
-        "Weight": 60
+        "Weight": 60,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Tests"
+          },
+          {
+            "Name": "Practicals"
+          },
+          {
+            "Name": "Tutorials and/or Assignments"
+          }
+        ]
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -2922,7 +4044,7 @@
   {
     "Code": "MPHB032",
     "Name": "Electrodynamics and Electronics",
-    "Description": "Electronics: Diodes, Transistors, Amplifiers and Oscillator circuits.",
+    "Description": "Electronics: Diodes, Transistors, Amplifiers and Oscillator circuits.\nElectrodynamics: Electromotive force, Faraday’s law, Potential formulation of electrodynamics, Energy\nand momentum.",
     "Prerequisite": {
       "$and": [
         {
@@ -2962,10 +4084,22 @@
       {
         "Name": "Summative Assessment",
         "Type": "Coursework",
-        "Weight": 60
+        "Weight": 60,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Tests"
+          },
+          {
+            "Name": "Practicals"
+          },
+          {
+            "Name": "Tutorials and/or Assignments"
+          }
+        ]
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -2995,12 +4129,14 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
     ],
     "DP": 40,
+    "Credit": 12,
+    "Duration": "Year",
     "Institution": "Sefako Makgatho Health Sciences University"
   },
   {
@@ -3020,7 +4156,7 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -3050,7 +4186,7 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -3093,7 +4229,7 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -3136,7 +4272,7 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -3173,7 +4309,7 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -3208,13 +4344,13 @@
     },
     "Assessments": [
       {
-        "Name": "SummativeAssessMark",
-        "Type": "Coursework",
+        "Name": "Summative Assessment",
+        "Type": "Exam",
         "Weight": 60
       },
       {
-        "Name": "SummativeAssessMark",
-        "Type": "Coursework",
+        "Name": "Summative Assessment",
+        "Type": "Exam",
         "Weight": 40
       }
     ],
@@ -3224,11 +4360,6 @@
       2
     ],
     "Credit": 16,
-    "Institution": "Sefako Makgatho Health Sciences University"
-  },
-  {
-    "Description": "Checking: Residual analysis, Detecting unequal variances, Checking the normality assumption, Detecting  CURRICULUM INFORMATION  142   outliers. Variable Selection and Model Building: Subset regression  models, All possible regressions, \nStepwise procedures.  \nLearning Outcomes:  After successful completion of the module, the student should be able to  \n-Fit simple  and multiple  regression  models.  \n-Select appropriate  models.  \n-Test for adequacy of  models.  \nModule  Information:  SAQA Credits  ITS Course Level Code  CESM Code (3rd Order)  \n16 3 150302  \nPeriods per Week:  Classes  Practicals  Tutorial  Seminars  Independent  \nLearning  \n3 0.5 1 0 7",
-    "Assessments": [],
     "Institution": "Sefako Makgatho Health Sciences University"
   },
   {
@@ -3258,7 +4389,7 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -3274,7 +4405,7 @@
   {
     "Code": "MSTB032",
     "Name": "Multivariate Statistical Methods",
-    "Description": "Review of matrix theory. Multivariate distributions: Multivariate normal distribution and its properties; \nInference about multivariate means; Hotelling\u2019s T2. Multivariate analysis of variance and regression. \nIntroduction to data reduction . \nLearning Outcomes:  After successful completion of the module, the student should be able to  \n-Understand  multivariate  methods  and what  they do. \n-Know  when  to apply  the different  multivariate  methods.  \n-Analyze  a multivariate  data set and write  a report.  \nModule Information:  SAQA Credits  ITS Course Level Code  CESM Code (3rd Order)  \n16 3 150302  \nPeriods per Week:  Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n3 0.3 1 0 7",
+    "Description": "Review of matrix theory. Multivariate distributions: Multivariate normal distribution and its properties; \nInference about multivariate means; Hotelling's T2. Multivariate analysis of variance and regression. \nIntroduction to data reduction . \nLearning Outcomes:  After successful completion of the module, the student should be able to  \n-Understand  multivariate  methods  and what  they do. \n-Know  when  to apply  the different  multivariate  methods.  \n-Analyze  a multivariate  data set and write  a report.  \nModule Information:  SAQA Credits  ITS Course Level Code  CESM Code (3rd Order)  \n16 3 150302  \nPeriods per Week:  Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n3 0.3 1 0 7",
     "Prerequisite": {
       "$and": [
         {
@@ -3298,7 +4429,7 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -3330,20 +4461,21 @@
     },
     "Assessments": [
       {
-        "Name": "MinSummativeAssessmentmarkforexamadmission",
-        "Type": "Coursework",
-        "Weight": 40
-      },
-      {
-        "Name": "SummativeAssessMark",
+        "Name": "Summative Assessment",
         "Type": "Coursework",
         "Weight": 60
+      },
+      {
+        "Name": "Summative Assessment",
+        "Type": "Exam",
+        "Weight": 40
       }
     ],
     "Duration": "Term",
     "Period": [
       4
     ],
+    "Dp": 40,
     "Credit": 16,
     "Institution": "Sefako Makgatho Health Sciences University"
   },
@@ -3359,27 +4491,28 @@
     },
     "Assessments": [
       {
-        "Name": "MinSummativeAssessmentmarkforexamadmission",
-        "Type": "Coursework",
-        "Weight": 40
-      },
-      {
         "Name": "Summative Assessment",
         "Type": "Coursework",
         "Weight": 60
+      },
+      {
+        "Name": "Summative Assessment",
+        "Type": "Exam",
+        "Weight": 40
       }
     ],
     "Duration": "Semester",
     "Period": [
       1
     ],
+    "DP": 40,
     "Credit": 20,
     "Institution": "Sefako Makgatho Health Sciences University"
   },
   {
     "Code": "MPLA022",
     "Name": "Systems Physiology II",
-    "Description": "Respiration : Functional characteristics, volumes and capacities, gas exchange,  transport of gasses, \nregulation, and pathophysiology  \nFiltration : Formation of urine, regulation of body fluids, acid -base balance and micturition, clinical \nabnormalities and renal disease  \nDigestive system : Structure and function, alimentary canal, accesso ry organs, movements, digestive juices, \nabsorption  \nNutrition : Digestion and metabolism, fat and water soluble vitamins, minerals  \nExercise : Performance, energy, training and recovery, body systems, in exercise, drugs  \nEndocrine system : Hormones, hypothalamus , pituitary, thyroid, parathyroid, pineal and adrenal glands, \npancreas, endocrine kidney  \nMale reproductive system : Testes, duct system, accessory glands, external genitalia, semen  \nFemale reproductive system : anatomy, menstrual, uterine, vaginal and ovarian  cycle  \nSexual health : STD\u2019s and HIV, methods of contraception, pregnancy, sexual dysfunction  \nLearning Outcomes:  Understand the respiratory system physiology in humans, including respiratory mechanics, gas \nexchange,  gas transport,  the control  of respiration  and its role in homeostasis \uf020Know the urinary system physiology in humans, understand glomerular filtration, tubular reabsorption \nand tubular secretion and discuss urine excretion, plasma clearance and the role of the urinary \nsystem in the maintenance of  homeostasis \uf020Demonstrate an understanding of the maintenance of fluid and acid -base balance in the human body \nand describe  the role of fluid and acid-base  balance  in the maintenance  of homeostasis. \uf020Know the physiology of the digestive system,  energy balance and temperature regulation, describe  \nthe processes of digestion and absorption of different nutrients and understand the control of food \nintake in  humans\uf020Understand endocrine physiology in humans, including the physiology of the pineal gla nd and \ncircadian  rhythms,  and the hypothalamus  and pituitary  gland  and their regulatory  roles  in the body\uf020Discuss reproductive physiology of males and females, know the physiology of sexual intercourse \nbetween males and females, and understand the basics regarding contraception, abortion, certain \naspects  of sexual  health  and the relationship  between  the reproductive  system  and homeostasis \uf020\nModule Information:  SAQA Credits  ITS Course Level Code  CESM Code (3rd Order)  \n20 3 130801  \nPeriods per Week:  Classes  Practicals  Tutorial  Seminars  Independent  \nLearning  \n4 x 45 min  2 x 3 Hours  0 0 5 Hours",
+    "Description": "Respiration : Functional characteristics, volumes and capacities, gas exchange,  transport of gasses, \nregulation, and pathophysiology  \nFiltration : Formation of urine, regulation of body fluids, acid -base balance and micturition, clinical \nabnormalities and renal disease  \nDigestive system : Structure and function, alimentary canal, accesso ry organs, movements, digestive juices, \nabsorption  \nNutrition : Digestion and metabolism, fat and water soluble vitamins, minerals  \nExercise : Performance, energy, training and recovery, body systems, in exercise, drugs  \nEndocrine system : Hormones, hypothalamus , pituitary, thyroid, parathyroid, pineal and adrenal glands, \npancreas, endocrine kidney  \nMale reproductive system : Testes, duct system, accessory glands, external genitalia, semen  \nFemale reproductive system : anatomy, menstrual, uterine, vaginal and ovarian  cycle  \nSexual health : STD's and HIV, methods of contraception, pregnancy, sexual dysfunction  \nLearning Outcomes:  Understand the respiratory system physiology in humans, including respiratory mechanics, gas \nexchange,  gas transport,  the control  of respiration  and its role in homeostasis \uf020Know the urinary system physiology in humans, understand glomerular filtration, tubular reabsorption \nand tubular secretion and discuss urine excretion, plasma clearance and the role of the urinary \nsystem in the maintenance of  homeostasis \uf020Demonstrate an understanding of the maintenance of fluid and acid -base balance in the human body \nand describe  the role of fluid and acid-base  balance  in the maintenance  of homeostasis. \uf020Know the physiology of the digestive system,  energy balance and temperature regulation, describe  \nthe processes of digestion and absorption of different nutrients and understand the control of food \nintake in  humans\uf020Understand endocrine physiology in humans, including the physiology of the pineal gla nd and \ncircadian  rhythms,  and the hypothalamus  and pituitary  gland  and their regulatory  roles  in the body\uf020Discuss reproductive physiology of males and females, know the physiology of sexual intercourse \nbetween males and females, and understand the basics regarding contraception, abortion, certain \naspects  of sexual  health  and the relationship  between  the reproductive  system  and homeostasis \uf020\nModule Information:  SAQA Credits  ITS Course Level Code  CESM Code (3rd Order)  \n20 3 130801  \nPeriods per Week:  Classes  Practicals  Tutorial  Seminars  Independent  \nLearning  \n4 x 45 min  2 x 3 Hours  0 0 5 Hours",
     "Prerequisite": {
       "Comment": "None"
     },
@@ -3393,7 +4526,7 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -3423,7 +4556,7 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -3453,12 +4586,13 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
     ],
     "DP": 40,
+    "Credit": 32,
     "Institution": "Sefako Makgatho Health Sciences University"
   },
   {
@@ -3478,7 +4612,7 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -3508,7 +4642,7 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -3545,7 +4679,7 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
@@ -3559,14 +4693,104 @@
     "Institution": "Sefako Makgatho Health Sciences University"
   },
   {
+    "Code": "MPSA022",
+    "Name": "Personality, Medical and Social Psychology",
+    "Description": "Social Psychology \nPersonality Theories Medical \nPsychology \nLearning outcomes: \nAt the end of the module the student will: \n- Understand and apply the concepts applicable in social psychology. \n- Know and understand the different personality theories \n- Know and comprehend the position of medical psychology in within the discipline of psychology \n- Know and integrate the ethical principles applicable in social psychology, medical psychology and \npersonality theories.",
+    "Prerequisite": {
+      "$and": [
+        {
+          "Code": "MPCL011"
+        },
+        {
+          "Code": "MPCL012"
+        }
+      ]
+    },
+    "Assessments": [
+      {
+        "Name": "Summative Assessment",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "Summative Assessment",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "DP": 40,
+    "Credit": 20,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MPSB022",
+    "Name": "Environmental Psychology and Management skills",
+    "Description": "The origins and nature of environmental Psychology, ecological psychology, personal space, privacy and \nterritoriality, place attachment, crime and the environment. The environmental psychologist as facilitator \nof the design, Poverty and the environment. Mental health and the built environment. \nOccupational health and safety. \n- Explore managementprincipals \n- Planning, setting objectives and the benefits of good organisational skills \n- Organising resources to match the task objectives \n- Maintaining control – monitoring and assessing \n- Developing your leadership style \n- Empowering yourself by perfecting your management skills \n- Improving problem solving and decision making skills \n- Developing people skills – maximising effective communication \n- Leading successful teams – motivation and the importance of trust \n- Implementing skills and strategies to manage and resolve conflict",
+    "Prerequisite": {
+      "$and": [
+        {
+          "Code": "MPCL011"
+        },
+        {
+          "Code": "MPCL012"
+        }
+      ]
+    },
+    "Assessments": [
+      {
+        "Name": "Summative Assessment",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "Summative Assessment",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "DP": 40,
+    "Credit": 20,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
     "Code": "MPSA031",
     "Name": "Psychopathology, Research and Community Psychology",
-    "Description": "Research Methodology 2; Community Psychology; Psychopathology  \nLearning Outcomes  -Students should have knowledge of/and understanding of survey research, sampling, data \ncollection  (scales  of measurement  and techniques  of data collection),  questionnaire  design  and \ncommunity -centred research. They must further understand how to interpret results and write \nreport.  \n-Students must have knowledge and understanding of the following aspects of community",
-    "Assessments": [],
+    "Description": "Research Methodology 2; Community Psychology; Psychopathology  \nLearning Outcomes:\n-Students should have knowledge of/and understanding of survey research, sampling, data \ncollection  (scales  of measurement  and techniques  of data collection),  questionnaire  design  and \ncommunity -centred research. They must further understand how to interpret results and write \nreport.  \n-Students must have knowledge and understanding of the following aspects of community",
+    "Prerequisite": {
+      "$and": [
+        {
+          "Code": "MPSA021"
+        },
+        {
+          "Code": "MPSA022"
+        }
+      ]
+    },
+    "Assessments": [
+      {
+        "Name": "Summative Assessment",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "Summative Assessment",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
     "Duration": "Semester",
     "Period": [
       1
     ],
+    "DP": 40,
     "Credit": 32,
     "Institution": "Sefako Makgatho Health Sciences University"
   },
@@ -3594,7 +4818,7 @@
         "Weight": 60
       },
       {
-        "Name": "Theory Examination",
+        "Name": "Summative Assessment",
         "Type": "Exam",
         "Weight": 40
       }
