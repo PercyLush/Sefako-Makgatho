@@ -1,0 +1,492 @@
+[
+  {
+    "Code": "MBLBO10",
+    "Name": "Applied Biology",
+    "Credit": 20
+  },
+  {
+    "Code": "MBPC010",
+    "Name": "Biophysics 1",
+    "Credit": 20
+  },
+  {
+    "Code": "MCHM010",
+    "Name": "Chemistry 1A",
+    "Credit": 20
+  },
+  {
+    "Code": "MHUC010",
+    "Name": "Human Sciences",
+    "Credit": 16
+  },
+  {
+    "Code": "MEHS010",
+    "Name": "English for Health Sciences",
+    "Credit": 12
+  },
+  {
+    "Code": "MPOM010",
+    "Name": "Practice of Medicine I",
+    "Credit": 32
+  },
+  {
+    "Code": "ANTM208",
+    "Name": "Anatomy",
+    "Credit": 32
+  },
+  {
+    "Code": "PHYL208",
+    "Name": "Physiology",
+    "Credit": 32
+  },
+  {
+    "Code": "POME203",
+    "Name": "Practice of Medicine",
+    "Credit": 40
+  },
+  {
+    "Code": "ANTM022",
+    "Name": "Anatomy",
+    "Credit": 64
+  },
+  {
+    "Code": "MPIB021",
+    "Name": "Human Physiology",
+    "Credit": 32
+  },
+  {
+    "Code": "MPIB022",
+    "Name": "Clinical Human Physiology",
+    "Credit": 32
+  },
+  {
+    "Code": "MPOA020",
+    "Name": "Practice of Medicine II",
+    "Credit": 40
+  },
+  {
+    "Code": "ANPA307",
+    "Name": "Anatomical Pathology",
+    "Credit": 36
+  },
+  {
+    "Code": "MICR307",
+    "Name": "Medical Microbiology",
+    "Credit": 36
+  },
+  {
+    "Code": "MEPS304",
+    "Name": "Medical Psychology",
+    "Credit": 22
+  },
+  {
+    "Code": "PHAR307",
+    "Name": "Pharmacology",
+    "Credit": 30
+  },
+  {
+    "Code": "POME302",
+    "Name": "Practice of Medicine III",
+    "Credit": 44
+  },
+  {
+    "Code": "SELE301",
+    "Name": "Selective I",
+    "Credit": 8
+  },
+  {
+    "Code": "MAPA030",
+    "Name": "Anatomical Pathology Practice",
+    "Credit": 36
+  },
+  {
+    "Code": "MMMA030",
+    "Name": "Medical Microbiology Practice",
+    "Credit": 36
+  },
+  {
+    "Code": "MPSB030",
+    "Name": "Medical Psychology",
+    "Credit": 22
+  },
+  {
+    "Code": "MPYB030",
+    "Name": "Pharmacology",
+    "Credit": 30
+  },
+  {
+    "Code": "MPOA030",
+    "Name": "Practice of Medicine III",
+    "Credit": 44
+  },
+  {
+    "Code": "MSEA030",
+    "Name": "Selective I",
+    "Credit": 8
+  },
+  {
+    "Code": "CEPA403",
+    "Name": "Chemical Pathology",
+    "Credit": 36
+  },
+  {
+    "Code": "CPAR403",
+    "Name": "Clinical Pharmacology",
+    "Credit": 36
+  },
+  {
+    "Code": "COHE403",
+    "Name": "Community Health",
+    "Credit": 22
+  },
+  {
+    "Code": "FORM403",
+    "Name": "Forensic Medicine",
+    "Credit": 30
+  },
+  {
+    "Code": "POME405",
+    "Name": "Practice of Medicine IV",
+    "Credit": 44
+  },
+  {
+    "Code": "SELE402",
+    "Name": "Selective II",
+    "Credit": 8
+  },
+  {
+    "Code": "MCAA040",
+    "Name": "Chemical Pathology Practice",
+    "Credit": 36
+  },
+  {
+    "Code": "MPYA040",
+    "Name": "Clinical Pharmacology",
+    "Credit": 36
+  },
+  {
+    "Code": "MPBA040",
+    "Name": "Community Health",
+    "Credit": 22
+  },
+  {
+    "Code": "MFPA040",
+    "Name": "Forensic Medicine",
+    "Credit": 30
+  },
+  {
+    "Code": "MPOA040",
+    "Name": "Practice of Medicine IV",
+    "Credit": 44
+  },
+  {
+    "Code": "MSEA040",
+    "Name": "Selective II",
+    "Credit": 8
+  },
+  {
+    "Code": "MEDI502",
+    "Name": "Internal Medicine",
+    "Credit": 36
+  },
+  {
+    "Code": "SURG502",
+    "Name": "General Surgery",
+    "Credit": 36
+  },
+  {
+    "Code": "OBGY502",
+    "Name": "Obstetrics & Gynaecology",
+    "Credit": 36
+  },
+  {
+    "Code": "PACH502",
+    "Name": "Paediatrics & Child Health",
+    "Credit": 36
+  },
+  {
+    "Code": "PSIC504",
+    "Name": "Psychiatry",
+    "Credit": 36
+  },
+  {
+    "Code": "POME502",
+    "Name": "Practice of Medicine V",
+    "Credit": 36
+  },
+  {
+    "Code": "MINA050",
+    "Name": "Internal Medicine",
+    "Credit": 36
+  },
+  {
+    "Code": "MSUA050",
+    "Name": "General Surgery",
+    "Credit": 36
+  },
+  {
+    "Code": "MOBA050",
+    "Name": "Obstetrics & Gynaecology",
+    "Credit": 36
+  },
+  {
+    "Code": "MPDB050",
+    "Name": "Paediatrics & Child Health",
+    "Credit": 36
+  },
+  {
+    "Code": "MPSA050",
+    "Name": "Psychiatry",
+    "Credit": 36
+  },
+  {
+    "Code": "MPOA050",
+    "Name": "Practice of Medicine V",
+    "Credit": 36
+  },
+  {
+    "Code": "MEDI601",
+    "Name": "Internal Medicine",
+    "Credit": 40
+  },
+  {
+    "Code": "SURG601",
+    "Name": "General Surgery",
+    "Credit": 40
+  },
+  {
+    "Code": "FAME601",
+    "Name": "Family Medicine",
+    "Credit": 40
+  },
+  {
+    "Code": "OBGY601",
+    "Name": "Obstetrics & Gynaecology",
+    "Credit": 40
+  },
+  {
+    "Code": "PACH601",
+    "Name": "Paediatrics & Child Health",
+    "Credit": 40
+  },
+  {
+    "Code": "PSIC601",
+    "Name": "Psychiatry",
+    "Credit": 24
+  },
+  {
+    "Code": "ORTH601",
+    "Name": "Orthopaedics",
+    "Credit": 20
+  },
+  {
+    "Code": "MINA060",
+    "Name": "Internal Medicine",
+    "Credit": 40
+  },
+  {
+    "Code": "MSUA060",
+    "Name": "General Surgery",
+    "Credit": 40
+  },
+  {
+    "Code": "MFAA060",
+    "Name": "Family Medicine & Primary Health Care",
+    "Credit": 40
+  },
+  {
+    "Code": "MOBA060",
+    "Name": "Obstetrics & Gynaecology",
+    "Credit": 40
+  },
+  {
+    "Code": "MPHA060",
+    "Name": "Paediatrics & Child Health",
+    "Credit": 40
+  },
+  {
+    "Code": "MPSA060",
+    "Name": "Psychiatry",
+    "Credit": 24
+  },
+  {
+    "Code": "MSUB060",
+    "Name": "Orthopaedics",
+    "Credit": 20
+  },
+  {
+    "Code": "MFBC010",
+    "Name": "Foundation Medical Bio-Chemistry",
+    "Credit": 20
+  },
+  {
+    "Code": "MFBP010",
+    "Name": "Foundation Bio-Physics and Numeracy",
+    "Credit": 20
+  },
+  {
+    "Code": "MFEN010",
+    "Name": "Foundation English for Medicine",
+    "Credit": 20
+  },
+  {
+    "Code": "MFHB010",
+    "Name": "Foundation Introduction to the Human Body",
+    "Credit": 16
+  },
+  {
+    "Code": "MFMB010",
+    "Name": "Foundation Medical Biology",
+    "Credit": 12
+  },
+  {
+    "Code": "MFSS010",
+    "Name": "Foundation Study Skills + Computer Literacy",
+    "Credit": 32
+  },
+  {
+    "Code": "MANA021",
+    "Name": "Clinical Human Anatomy 2A",
+    "Credit": 32
+  },
+  {
+    "Code": "MANA022",
+    "Name": "Clinical Human Anatomy 2B",
+    "Credit": 32
+  },
+  {
+    "Code": "MPIB021",
+    "Name": "Human Physiology",
+    "Credit": 32
+  },
+  {
+    "Code": "MPIB022",
+    "Name": "Clinical Human Physiology",
+    "Credit": 32
+  },
+  {
+    "Code": "MPOA020",
+    "Name": "Practice of Medicine II",
+    "Credit": 40
+  },
+  {
+    "Code": "MAPA030",
+    "Name": "Anatomical Pathology Practice",
+    "Credit": 36
+  },
+  {
+    "Code": "MMMA030",
+    "Name": "Medical Microbiology Practice",
+    "Credit": 36
+  },
+  {
+    "Code": "MPSB030",
+    "Name": "Medical Psychology",
+    "Credit": 22
+  },
+  {
+    "Code": "MPYB030",
+    "Name": "Pharmacology",
+    "Credit": 30
+  },
+  {
+    "Code": "MPOA030",
+    "Name": "Practice of Medicine III",
+    "Credit": 44
+  },
+  {
+    "Code": "MSEA030",
+    "Name": "Selective I",
+    "Credit": 16
+  },
+  {
+    "Code": "MCAA040",
+    "Name": "Chemical Pathology Practice",
+    "Credit": 36
+  },
+  {
+    "Code": "MPYA040",
+    "Name": "Clinical Pharmacology",
+    "Credit": 36
+  },
+  {
+    "Code": "MPBA040",
+    "Name": "Community Health",
+    "Credit": 22
+  },
+  {
+    "Code": "MFPA040",
+    "Name": "Forensic Medicine",
+    "Credit": 30
+  },
+  {
+    "Code": "MPOA040",
+    "Name": "Practice of Medicine IV",
+    "Credit": 44
+  },
+  {
+    "Code": "MSEA040",
+    "Name": "Selective II",
+    "Credit": 16
+  },
+  {
+    "Code": "MINA050",
+    "Name": "Internal Medicine",
+    "Credit": 36
+  },
+  {
+    "Code": "MSUA050",
+    "Name": "General Surgery",
+    "Credit": 36
+  },
+  {
+    "Code": "MOBA050",
+    "Name": "Obstetrics & Gynaecology",
+    "Credit": 36
+  },
+  {
+    "Code": "MPDB050",
+    "Name": "Paediatrics & Child Health",
+    "Credit": 36
+  },
+  {
+    "Code": "MPSA050",
+    "Name": "Psychiatry",
+    "Credit": 36
+  },
+  {
+    "Code": "MPOA050",
+    "Name": "Practice of Medicine V",
+    "Credit": 60
+  },
+  {
+    "Code": "MINA060",
+    "Name": "Internal Medicine",
+    "Credit": 40
+  },
+  {
+    "Code": "MSUA060",
+    "Name": "General Surgery",
+    "Credit": 40
+  },
+  {
+    "Code": "MFAA060",
+    "Name": "Family Medicine & Primary Health Care",
+    "Credit": 40
+  },
+  {
+    "Code": "MOBA060",
+    "Name": "Obstetrics & Gynaecology",
+    "Credit": 40
+  },
+  {
+    "Code": "MPHA060",
+    "Name": "Paediatrics & Child Health",
+    "Credit": 40
+  },
+  {
+    "Code": "MPSA060",
+    "Name": "Psychiatry",
+    "Credit": 24
+  }
+]

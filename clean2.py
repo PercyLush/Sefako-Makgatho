@@ -1,7 +1,7 @@
 import json
 import re
 
-path = "C:\\Users\\Bheki Lushaba\\Desktop\\Sefako Makgatho\\ScienceFinal.json"
+path = "C:\\Users\\Bheki Lushaba\\Desktop\\Sefako Makgatho\\MedicineFinal.json"
 
 with open(path, "r", encoding="utf-8") as file1:
     data = json.load(file1)

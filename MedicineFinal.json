@@ -1,0 +1,513 @@
+[
+  {
+    "Code": "MBLBO10",
+    "Name": "Applied Biology",
+    "NQF": 5,
+    "Credit": 20,
+    "Description": "TO BE UPDATED",
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MBPC010",
+    "Name": "Biophysics 1",
+    "NQF": 5,
+    "Credit": 20,
+    "Description": "TO BE UPDATED",
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MCHM010",
+    "Name": "Chemistry 1A",
+    "NQF": 5,
+    "Credit": 20,
+    "Description": "Introduction to general chemistry; atoms, ions, and molecules; chemical laws; bonding; stoichiometry; the three \nstates  of aggregation; solutions and mixtures; structure and reactivity; principles of equilibrium; free energy and \nspontaneity of reactions; electrochemistry; rates of reactions; radioactivity; stereoisomerism; systematic \nnomenclature of organic compounds accor ding to functional groups; reactions of classes of organic compounds; \nchemistry of physiologically important compounds.   \n  \n3 lectures and 1 practical per week",
+    "Assessments": [
+      {
+        "Name": "Written Examination",
+        "Type": "Exam",
+        "Weight": 100
+      }
+    ],
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MHUC010",
+    "Name": "Human Sciences",
+    "NQF": 5,
+    "Credit": 16,
+    "Description": "Foundations of Psychology, Learning Theories, Personality, Emotion, Motivation and Stress, Ps ychophysiology, \nSocial Psychology, Interpersonal Skills",
+    "Assessments": [
+      {
+        "Name": "Written Examination",
+        "Type": "Exam",
+        "Weight": 100
+      }
+    ],
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MEHS010",
+    "Name": "English for Health Sciences",
+    "NQF": 5,
+    "Credit": 12,
+    "Description": "The MEHS010 course for first-year MBChB 1 and B Rad I is comprised of the following components: \n• Life skills orientation \n• Library orientation \n• Computer literacy \n• Reading comprehension \n• Pearson Online (Self Study) – this is a programme designed at developing reading and writing skills \n• Academic language conventions \n• Paragraphing \n• Expository essay writing based on source material (skills developed here are paraphrase, summary, \nintegration of sources, in-text and end-text referencing using a modified Harvard system) \n• Oral presentation using Power Point (based on expository essay work) – done in small groups \n• Medical terminology \n• Setswana for doctor-patient communication \nAll of the above are assessed.",
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MPOM010",
+    "Name": "Practice of Medicine I",
+    "NQF": 5,
+    "Credit": 32,
+    "Description": "This course is offered at MBChB I level. The content includes introductory information about history of medicine, \nresearch principles, HIV/AIDS and counselling, hypertension, primary health and emergency care, bioethics, vital \nsigns, pollution, medical humanities, virology as well as rural community-based service learning and health \npromotion. Hypertension is a core disease which is offered as an integrated module. Students will obtain \nadequate insight into multi-disciplinary teamwork and will be able to explain the role of other health care \nprofessionals in order to provide holistic patient care. Students will obtain basic skills about wound care \nmanagement, vital signs measurement and performance of CPR. ",
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "ANTM022",
+    "Name": "Anatomy",
+    "NQF": 6,
+    "Credit": 64,
+    "Description": "TO BE UPDATED",
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MPIB021",
+    "Name": "Human Physiology",
+    "NQF": 6,
+    "Credit": 32,
+    "Assessments": [
+      {
+        "Name": "Written Examination",
+        "Type": "Exam",
+        "Weight": 100
+      }
+    ],
+    "Description": "General knowledge of all systems in Physiology (including excitable tissue, the cardiovascular system, bold and \nImmunity, the gastrointestinal system, endocrinology, body temperature, reproduction, neurophysiology, special \nsenses, respiration, renal physiology, body fluids, acid base) and physiological chemistry. Physiology practicals \non selected topics to illustrate the theory.",
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MPIB022",
+    "Name": "Clinical Human Physiology",
+    "NQF": 6,
+    "Credit": 32,
+    "Assessments": [
+      {
+        "Name": "Written Examination",
+        "Type": "Exam",
+        "Weight": 100
+      }
+    ],
+    "Description": "Advanced knowledge of all physiological systems (including excitable tissues, the cardiovascular system, bold \nand immunity, the gastrointestinal system, endocrinology, body temperature, reproduction, neurophysiology,\nspecial senses, respiration, renal physiology, body fluids, acid base) and physiological chemistry and application \nof this in clinical scenarios and the mechanisms involved in the development of pathological conditions",
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MPOA020",
+    "Name": "Practice of Medicine II",
+    "NQF": 6,
+    "Credit": 40,
+    "Description": "This course is offered at MBCHB II level and builds on the basis of first year. Students will have the opportunity to \nlearn about Medical History taking, Principles of Bioethics and Integrated Management of Childhood illnesses. It \nwill provide them with the opportunity to assess Environmental Health issues in the community and homes of \npatients and practice their skills in taking vital signs and observe for peripheral signs. They will furthermore \ndevelop skills in evaluating medical research articles, including developing a basic understanding of biostatistics, \nqualitative and quantitative research. They will develop portfolios on patients who have anaemia and jaundice \nwhich are conditions for this year and are offered in an integrated manner. Integration also occurs among two \nother departments namely Anatomy and Physiology during clinical case discussions.",
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MAPA030",
+    "Name": "Anatomical Pathology Practice",
+    "Credit": 36,
+    "Description": "TO BE UPDATED",
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MMMA030",
+    "Name": "Medical Microbiology Practice",
+    "Credit": 36,
+    "Description": "This course includes: Introduction to bacteria, viruses, fungi, parasites and pathogenesis of infections; Microbial \ngenetics; Basic and clinical immunology; laboratory diagnosis;  infection prevention and control; clinical virology; \nantimicrobial agents and the following syndromes: Central nervous system infections; cardiovascular system \ninfections; gastrointestinal tract infections; skin and soft tissue infections; genitourinary t ract infections, neonatal \nand childhood infections and zoonotic & vector borne (multisystem) infections.",
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 100,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Paper 1"
+          },
+          {
+            "Name": "Paper 2"
+          },
+          {
+            "Name": "Oral"
+          }
+        ]
+      }
+    ],
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MPSB030",
+    "Name": "Medical Psychology",
+    "Credit": 22,
+    "Description": "This course is given by the Department of Clinical Psychology and includes psychoneurology, doctor-patient\nrelationship, pain, stress/anxiety/depression, disease of lifestyle, applications of clinical health psychology,\naspects of death and dying.",
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MPYB030",
+    "Name": "Pharmacology",
+    "Credit": 30,
+    "Description": "TO BE UPDATED",
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MPOA030",
+    "Name": "Practice of Medicine III",
+    "Credit": 44,
+    "Description": "This course is offered at third year MBChB III level and will offer the students the opportunity to learn about the \ndiagnostic process. They will get the chance to observe and participate in consultations with patients in primary \nhealthcare clinics and get the opportunity to acquire the skills of clinical examinations; normal pregnant abdominal \nassessment & normal vertex delivery; and keeping medical records. Students will learn basic skills in \ncommunication in the care of a dying patient, as well as, history taking and basic clinical examination skills of \npatients with problems relating to cardiology, respiratory, gastroenterology, haematology, genetics, surgical \nconditions (such as neck mass, abdominal mass, leg swellings, breast lumps and trauma related cases). They will \nalso acquire skills in searching the internet for best evidence and evaluating evidence. They will continue to build \non learning portfolios on patients with diabetes mellitus and oedema.",
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MSEA030",
+    "Name": "Selective I",
+    "Credit": 8,
+    "Description": "TO BE UPDATED",
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MCAA040",
+    "Name": "Chemical Pathology Practice",
+    "Credit": 36,
+    "Description": "Introductory, including methodological and physiological interferences in laboratory tests.  The kidneys; sodium \nand water metabolism; potassium metabolism; hydrogen ion  homeostasis and blood gases; pituitary and gonads; \nhormones of the adrenal cortex; thyroid hormones; carbohydrates; plasma lipids; calcium; phosphorus and \nmagnesium metabolism; intestinal absorption; gastric and pancreatic function; liver diseases and gal lstones; \nplasma proteins and immunoglobulins; proteinuria; plasma enzymes; cardiac biomarkers; inborn errors of \nmetabolism; purine and uric acid metabolism; iron metabolism; porphyrins; vitamins; pregnancy and oral \ncontraceptives; biochemical effects of tu mours; cerebrospinal fluid.",
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 100,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Written Paper",
+            "Type": "Exam"
+          },
+          {
+            "Name": "Oral",
+            "Type": "Presentation"
+          },
+          {
+            "Name": "Practical 1",
+            "Type": "Practical"
+          },
+          {
+            "Name": "Practical 2",
+            "Type": "Practical"
+          }
+        ]
+      }
+    ],
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MPYA040",
+    "Name": "Clinical Pharmacology",
+    "Credit": 36,
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 100,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Written Paper",
+            "Type": "Exam"
+          },
+          {
+            "Name": "Oral",
+            "Type": "Presentation"
+          },
+          {
+            "Name": "Tests",
+            "Type": "Test"
+          }
+        ]
+      }
+    ],
+    "Description": "Disease orientated, clinical pharmacology, based on prevalence of disease in the local and national communities \n(Pharmaco-epidemiology). Alternative and cost-effective medication. Special precautions. Contents: General \naspects, drugs used for: infections, respiratory, cardiovascular, gastro-intestinal, genito-urinary, central nervous \nsystem, haematological, dermatological ophthalmological, otorhinolaryngological, endocrine, metabolic, immune \nsystem and Musculoskeletal disorders. Drugs used for sexually transmitted diseases, parasitic infections and \nacute poisoning. Rational use of medicines. Evidence based Pharmacology. ",
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MPBA040",
+    "Name": "Community Health",
+    "Credit": 22,
+    "Description": "Basic ecology, Basic biostatistics, demography and epid emiologic theory.  The epidemiology and intervention of \nthe important health related conditions of Southern Africa.  Environmental health and occupational health.  The \nstructure and functions of health delivery organisations in South Africa.  Basic health legislation.  Basic health \nmanagement strategies.  Students may be required to perform their own approved study project.",
+    "Assessments": [
+      {
+        "Name": "Written Examination",
+        "Type": "Exam",
+        "Weight": 100
+      }
+    ],
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MFPA040",
+    "Name": "Forensic Medicine",
+    "Credit": 30,
+    "Description": "Signs of death, post morte m changes and time of death; identification of human remains; blood stains and \ngrouping; types of wounds and injuries; fire arm wounds; injury by blunt instruments; effects of injury; asphyxia; \nsuspicious neonatal death; abortion; sexual offences; the medi co legal autopsy; legal considerations.  Toxicology:  \nGeneral facts, Carbon Monoxide, Cyanide, Arsenic, Paraffin, Methyl Alcohol, Agricultural Poisons.",
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 100,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Written Paper",
+            "Type": "Exam"
+          },
+          {
+            "Name": "Oral",
+            "Type": "Presentation"
+          }
+        ]
+      }
+    ],
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MPOA040",
+    "Name": "Practice of Medicine IV",
+    "Credit": 44,
+    "Description": "This course is offered at MBChB IV level and will offer the students the opportunity to rotate for 6 weeks in \nMedicine, Surgery (including Orthopaedics), Obstetrics and Gynaecology, Paediatrics and Psychiatry. There will \nbe weekly lectures in Internal Medicine, Surgery, Obstetrics and Gynaecology, Paediatrics and Child Health, \nPsychiatry and other disciplines including Orthopaedics, Radiology, Nutrition and Family Medicine. The focus will \nbe on the identification of common clinical signs and an understanding of the underlying pathophysiology. \nPortfolio learning will continue.",
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MSEA040",
+    "Name": "Selective II",
+    "Credit": 8,
+    "Description": "TO BE UPDATED",
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MINA050",
+    "Name": "Internal Medicine",
+    "Credit": 36,
+    "Description": "TO BE UPDATED",
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MSUA050",
+    "Name": "General Surgery",
+    "Credit": 36,
+    "Description": "TO BE UPDATED",
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MOBA050",
+    "Name": "Obstetrics & Gynaecology",
+    "Credit": 36,
+    "Description": "TO BE UPDATED",
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MPDB050",
+    "Name": "Paediatrics & Child Health",
+    "Credit": 36,
+    "Description": "TO BE UPDATED",
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MPSA050",
+    "Name": "Psychiatry",
+    "Credit": 36,
+    "Description": "TO BE UPDATED",
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MPOA050",
+    "Name": "Practice of Medicine V",
+    "Credit": 36,
+    "Description": "This course is offered at MBChB V level and will offer the students practical experience and theoretical \nunderstanding in Anaesthesiology, Ophthalmology, Otorhinolaryngology and Orthopaedics.  Pathophysiology and \nPathology within the wider context of integrated medicine will be offered as Case and Task based learning, \nfocussing on the them es of Substance Abuse, Thyroid disease, Heartburn with Epigastric Pain and the Severely \nTraumatised Patient.  The student will be expected to continue with portfolio building.  \n  \n Psychiatry  Courses (MBChB III, IV and VI)  \n \n(i) MBChB III and IV  \n Medical psyc hology, offered in the MBChB III course by the Department of Clinical Psychology, serves \nas an introduction to Psychopathology, offered by the Department of Psychiatry, in the MBChB IV \ncourse.  These two courses include the following topics:  Personality st ress in health and \nillness; Psychosomatic disorders and pain; Clinical Psychology and Medicine ions  \n \n(ii) MBChB V and VI  \n In the MBChB V and VI year courses the students do clinical psychiatry working in the wards and outpatient clinics. They also have te aching sessions in form of tutorials, and participate in case \npresentations. Attendance at all the activities is a prerequisite for the End of Block assessment. \nEvaluation is done in accordance with their case presentations, written examination and clinica l \nexamination.  \n \nPsychology and Mental Health Care  \n \nPhysiological basis of psychology: the human personality; motivation of conduct; frustration and conflict; defence mechanisms; emotion; attitudes; group morale, leadership; communication; human relations;  the child; the \nadolescent; the adult and the aged person as a patient.  Mental health care, psychosomatic and \npsychopathological conditions; broad concept of the management of patients with mental disturbances in \nhospitals and the community.  Theoretical instruction: 60 x 40 -minute periods.  \n \nHuman Science (MBChB)                           (MHUC01)  \n Introduction to Psychology: basic concepts, schools in Psychology and methodology.  The biological basis of \nbehaviour.  Motivation, frustration and conflicts.  Developmental Psychology: infancy to old age.  Personality",
+    "Assessments": [
+      {
+        "Name": "Written Examination",
+        "Type": "Exam",
+        "Weight": 100
+      }
+    ],
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MINA060",
+    "Name": "Internal Medicine",
+    "Credit": 40,
+    "Description": "TO BE UPDATED",
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MSUA060",
+    "Name": "General Surgery",
+    "Credit": 40,
+    "Description": "TO BE UPDATED",
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MFAA060",
+    "Name": "Family Medicine & Primary Health Care",
+    "Credit": 40,
+    "Description": "TO BE UPDATED",
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MOBA060",
+    "Name": "Obstetrics & Gynaecology",
+    "Credit": 40,
+    "Description": "TO BE UPDATED",
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MPHA060",
+    "Name": "Paediatrics & Child Health",
+    "Credit": 40,
+    "Description": "TO BE UPDATED",
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MPSA060",
+    "Name": "Psychiatry",
+    "Credit": 24,
+    "Description": "TO BE UPDATED",
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MSUB060",
+    "Name": "Orthopaedics",
+    "Credit": 20,
+    "Description": "TO BE UPDATED",
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MFBC010",
+    "Name": "Foundation Medical Bio-Chemistry",
+    "NQF": 5,
+    "Credit": 20,
+    "Description": "MFBC 010 is designed to give students a firm grounding in basic chemistry, with an emphasis on understanding \nbodily processes in humans which are of a chemical nature. The module has two secti ons, general chemistry and \norganic chemistry and biochemistry  \n General chemistry  \nIn general chemistry you are expected to understand the use of the SI system of measurement, Distinguish between and to compare elements, compounds and mixtures. Understand the importance and the use of the \nperiodic table. Describe the types of radiation produced during radioactive decay. Explain the formation of ions \nand of ionic bonds. Name ionic compounds covalent bonding and name covalent compounds. Also included in the \ncourse content are chemical reactions, gases, solutions, acids and bases.  \n \nOrganic chemistry and Biochemistry  \nDraw structures for and name various alkanes, alkenes and alkynes.  Indicate sources, properties and uses of \nhydrocarbons, alcohols, ethers, thiols , haloalkanes, aldehydes, ketones, carboxylic acids, esters, amides, amines.  \nClassify carbohydrates, Lipids and proteins. Properties of carbohydrates, Lipids and proteins",
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 100,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Final Examination",
+            "Type": "Exam"
+          },
+          {
+            "Name": "Semester Test 1",
+            "Type": "Test"
+          },
+          {
+            "Name": "Semester Test 2",
+            "Type": "Test"
+          },
+          {
+            "Name": "Semester Test 3",
+            "Type": "Test"
+          },
+          {
+            "Name": "Semester Test 4",
+            "Type": "Test"
+          }
+        ]
+      }
+    ],
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MFBP010",
+    "Name": "Foundation Bio-Physics and Numeracy",
+    "NQF": 5,
+    "Credit": 20,
+    "Description": "TO BE UPDATED",
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MFEN010",
+    "Name": "Foundation English for Medicine",
+    "NQF": 5,
+    "Credit": 20,
+    "Description": "Medical Foundation English for Medicine (MFEN010) is one of six compulsory courses for MBChB ECP I first \nentering students. This course is aimed at equipping students with academic writing skills and tools to help them \ncope with the demands of discipline specific writing genres at tertiary level, for example to write formally, with \nprecision and objectively.\nIn terms of structure, there are 3 contact sessions per week, amounting to approximately three-and-a-half hours \nweekly. In addition, there are 4 formal tests scheduled for the year. Two of these tests are written in the first \nsemester, and two in the second semester. Students are also subjected to writing informal class tests (on an \nongoing basis throughout the year) these are usually peer-marked. Standard examinations commences in \nOctober of every academic year. \nWith regard to prescribed material, The Oxford Advances Learner’s Dictionary is a compulsory prescribed book. \nIn addition, a newly designed English Reader has been compiled in 2018. This Reader leans towards a studentcentred approach to teaching. Furthermore, it focusses on developing academic writing and communicative \ncompetence. The Reader is divided into units which cover topics such as: brainstorming & mind-mapping; topic \nsentences; paragraph writing; academic writing; comprehension skills; language conventions; reading and \ndictionary skills. \nThis is an informative, interesting and enjoyable course.",
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MFHB010",
+    "Name": "Foundation Introduction to the Human Body",
+    "NQF": 5,
+    "Credit": 16,
+    "Description": "TO BE UPDATED",
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MFMB010",
+    "Name": "Foundation Medical Biology",
+    "NQF": 5,
+    "Credit": 12,
+    "Description": "The Foundation Medical Biology (MBChB-ECP 1) syllabus is designed to provide broad competence for careers \nthat involve the biology of animals, plants in relation to their environment including human medicine. \nModule content: The module will introduce the student to the field of Microbiology, Taxonomy, Genetics, Ecology, \nDiabetes, Environmental science and Anatomy. \nBasic Microbiological aspects that will be covered include introduction into the diversity of the microbial world \n(bacteria, archaea, eukaryotic microorganisms and viruses), basic principles of cell structure and function, \nmicrobial nutrition and microbial growth and growth control. Applications in Microbiology will be illustrated by \nspecific examples i.e. bioremediation, animal-microbial symbiosis, plant-microbial symbiosis and the use of \nmicroorganisms in industrial microbiology. Wastewater treatment, microbial diseases and food will be introduced \nusing specific examples. \nWhile Genetics will be covered include chromosomes and cell division. Principles of Mendelian inheritance: locus \nand alleles, dominance interactions and epistasis. Probability studies, sex determination and sex linked traits, \npedigree analysis, extra nuclear inheritance, genetic linkage, chromosome mapping and chromosome variation \nwill also be covered. Basic human reproductive organs aspects will include reproductive health and human \nwelfare, implantation and placental physiology in pregnancy, placental secretions and their regulation. Basic \nunderstanding of diabetes pathophysiology, diabetes biology, diabetes prevention and diabetes therapy will be \ncovered. Discussion about various psychosocial aspects of type 1 and type 2 diabetes will be done. \nMoreover, understanding of relationships between different organisms to one another and to their physical \nsurroundings will be covered under Ecology. Environmental science that will be covered include public awareness \nof environment issues, role of Government, NGO’s, environmental movements, natural resources, effect of human \nactivities, depletion of resources, generation of waste, threats to biodiversity, extinction of species and sustainable \ndevelopment. Understand the scientific study of the physiology, structure, distribution, classification, and \nimportance of plants will also be covered. \nLastly, this module will cover process of science which consists of scientific method where by the collection of \ndata through observation and experimentation, and the formulation and testing of hypotheses will be done. \nThe teaching program comprises of one formal lecture per week (40 minutes) and one tutorial session (80 \nminutes) and 2 hour practical session a week. ",
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 100,
+        "Dynamic": true,
+        "Subitems": [
+          {
+            "Name": "Final Examination",
+            "Type": "Exam"
+          },
+          {
+            "Name": "Practical Assessment",
+            "Type": "Practical"
+          },
+          {
+            "Name": "Semester Test 1",
+            "Type": "Test"
+          },
+          {
+            "Name": "Semester Test 2",
+            "Type": "Test"
+          },
+          {
+            "Name": "Semester Test 3",
+            "Type": "Test"
+          },
+          {
+            "Name": "Semester Test 4",
+            "Type": "Test"
+          }
+        ]
+      }
+    ],
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MFSS010",
+    "Name": "Foundation Study Skills + Computer Literacy",
+    "NQF": 5,
+    "Credit": 32,
+    "DP": 40,
+    "Description": "Foundation Study Skills and Computer Literacy (MFSS010) guides and prepares student in their studies. It does \nthat by equipping students with skills that will help them to succeed in their studies. It will also help them to \nrespond positively to the demands of studies and university life. \nThe core purpose of this module is to produce qualifying learners who will demonstrate ethical and professional \nconduct in their university studies and in their lives in general. They will gain self-knowledge and determine \ntheir own suitability to cope with a career in a new environment; develop appropriate thinking strategies; \ndetermine strategies to adjust to new environments and suitable study strategies. \nMFSS010 allows for an integrated approach to learning, teaching and assessment, in that the issues dealt with in \nthe different Learning Outcomes can be integrated.",
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MANA021",
+    "Name": "Clinical Human Anatomy 2A",
+    "NQF": 6,
+    "Credit": 32,
+    "Description": "Anatomy is offered as two year modules. \nMANA021 will include Gross Morphology: Identify and describe the morphological anatomy as applied to each \nregion in the human body in terms of the macro structure i.e. osteology, general structure (including organs), \nmusculature, blood supply, venous and lymphatic drainage, nerve supply, joints and surface anatomy. \nMANA022 will include Histological Anatomy and Embryology as applied to Gross Morphology.",
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MANA022",
+    "Name": "Clinical Human Anatomy 2B",
+    "NQF": 6,
+    "Credit": 32,
+    "Description": "Anatomy is offered as two year modules. \nMANA021 will include Gross Morphology: Identify and describe the morphological anatomy as applied to each \nregion in the human body in terms of the macro structure i.e. osteology, general structure (including organs), \nmusculature, blood supply, venous and lymphatic drainage, nerve supply, joints and surface anatomy. \nMANA022 will include Histological Anatomy and Embryology as applied to Gross Morphology.",
+    "Institution": "Sefako Makgatho Health Sciences University"
+  }
+]

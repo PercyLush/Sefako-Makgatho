@@ -1,0 +1,99 @@
+MBLBO10 Applied Biology 20 Credits
+MBPC010 Biophysics 1 20 Credits
+MCHM010 Chemistry 1A 20 Credits
+MHUC010 Human Sciences 16 Credits
+MEHS010 English for Health Sciences 12 Credits
+MPOM010 Practice of Medicine I 32 Credits
+ANTM208 Anatomy 32 Credits
+PHYL208 Physiology 32 Credits
+POME203 Practice of Medicine 40 Credits 
+ANTM022 Anatomy 64 Credits
+MPIB021 Human Physiology 32 Credits
+MPIB022 Clinical Human Physiology 32 Credits
+MPOA020 Practice of Medicine II 40 Credits
+ANPA307 Anatomical Pathology 36 Credits
+MICR307 Medical Microbiology 36 Credits
+MEPS304 Medical Psychology 22 Credits
+PHAR307 Pharmacology 30 Credits
+POME302 Practice of Medicine III 44 Credits
+SELE301 Selective I 8 Credits
+MAPA030 Anatomical Pathology Practice 36 Credits
+MMMA030 Medical Microbiology Practice 36 Credits
+MPSB030 Medical Psychology 22 Credits
+MPYB030 Pharmacology 30 Credits
+MPOA030 Practice of Medicine III 44 Credits
+MSEA030 Selective I 8 Credits
+CEPA403 Chemical Pathology 36 Credits
+CPAR403 Clinical Pharmacology 36 Credits
+COHE403 Community Health 22 Credits
+FORM403 Forensic Medicine 30 Credits
+POME405 Practice of Medicine IV 44 Credits
+SELE402 Selective II 8 Credits
+MCAA040 Chemical Pathology Practice 36 Credits
+MPYA040 Clinical Pharmacology 36 Credits
+MPBA040 Community Health 22 Credits
+MFPA040 Forensic Medicine 30 Credits
+MPOA040 Practice of Medicine IV 44 Credits
+MSEA040 Selective II 8 Credits 
+MEDI502 Internal Medicine 36 Credits
+SURG502 General Surgery 36 Credits 
+OBGY502 Obstetrics & Gynaecology 36 Credits
+PACH502 Paediatrics & Child Health 36 Credits
+PSIC504 Psychiatry 36 Credits
+POME502 Practice of Medicine V 36 Credits
+MINA050 Internal Medicine 36 Credits
+MSUA050 General Surgery 36 Credits
+MOBA050 Obstetrics & Gynaecology 36 Credits
+MPDB050 Paediatrics & Child Health 36 Credits
+MPSA050 Psychiatry 36 Credits
+MPOA050 Practice of Medicine V 36 Credits
+MEDI601 Internal Medicine 40 Credits
+SURG601 General Surgery 40 Credits
+FAME601 Family Medicine 40 Credits
+OBGY601 Obstetrics & Gynaecology 40 Credits
+PACH601 Paediatrics & Child Health 40 Credits
+PSIC601 Psychiatry 24 Credits
+ORTH601 Orthopaedics 20 Credits
+MINA060 Internal Medicine 40 Credits
+MSUA060 General Surgery 40 Credits
+MFAA060 Family Medicine & Primary Health Care 40 Credits
+MOBA060 Obstetrics & Gynaecology 40 Credits
+MPHA060 Paediatrics & Child Health 40 Credits
+MPSA060 Psychiatry 24 Credits
+MSUB060 Orthopaedics 20 Credits
+MFBC010 Foundation Medical Bio-Chemistry 20 Credits
+MFBP010 Foundation Bio-Physics and Numeracy 20 Credits
+MFEN010 Foundation English for Medicine 20 Credits
+MFHB010 Foundation Introduction to the Human Body 16 Credits
+MFMB010 Foundation Medical Biology 12 Credits
+MFSS010 Foundation Study Skills + Computer Literacy 32 Credits 
+MANA021 Clinical Human Anatomy 2A 32 Credits
+MANA022 Clinical Human Anatomy 2B 32 Credits
+MPIB021 Human Physiology 32 Credits
+MPIB022 Clinical Human Physiology 32 Credits
+MPOA020 Practice of Medicine II 40 Credits
+MAPA030 Anatomical Pathology Practice 36 Credits
+MMMA030 Medical Microbiology Practice 36 Credits
+MPSB030 Medical Psychology 22 Credits
+MPYB030 Pharmacology 30 Credits
+MPOA030 Practice of Medicine III 44 Credits
+MSEA030 Selective I 16 Credits
+MCAA040 Chemical Pathology Practice 36 Credits
+MPYA040 Clinical Pharmacology 36 Credits
+MPBA040 Community Health 22 Credits
+MFPA040 Forensic Medicine 30 Credits
+MPOA040 Practice of Medicine IV 44 Credits
+MSEA040 Selective II 16 Credits
+MINA050 Internal Medicine 36 Credits
+MSUA050 General Surgery 36 Credits
+MOBA050 Obstetrics & Gynaecology 36 Credits
+MPDB050 Paediatrics & Child Health 36 Credits
+MPSA050 Psychiatry 36 Credits
+MPOA050 Practice of Medicine V 60 Credits
+MINA060 Internal Medicine 40 Credits
+MSUA060 General Surgery 40 Credits
+MFAA060 Family Medicine & Primary Health Care 40 Credits
+MOBA060 Obstetrics & Gynaecology 40 Credits
+MPHA060 Paediatrics & Child Health 40 Credits
+MPSA060 Psychiatry 24 Credits
+MSUB060 Orthopaedics 20 Credits
