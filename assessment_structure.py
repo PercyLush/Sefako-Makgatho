@@ -1,7 +1,7 @@
 import json
 import re
 
-path = "C:\\Users\\Bheki Lushaba\\Desktop\\Sefako Makgatho\\ScienceFinal.json"
+path = "C:\\Users\\Bheki Lushaba\\Desktop\\Sefako Makgatho\\OralHealthFINALs.json"
 
 with open(path, "r", encoding="utf-8") as file1:
     data = json.load(file1)
@@ -22,7 +22,12 @@ with open(path, "r", encoding="utf-8") as file1:
                     for name in match_name:
                         Text += name
                     if match_weight:
-                        new_assessment = {"Name": Text.strip(), "Type": "Coursework", "Weight": int(match_weight.group(0))}
+                        if "Summative" in Text:
+                            new_assessment = {"Name": "Examination", "Type": "Exam", "Weight": int(match_weight.group(0))}
+                        elif "Formative" in Text: 
+                            new_assessment = {"Name": "Continuous Assessments", "Type": "Coursework", "Weight": int(match_weight.group(0))}
+                        else:
+                            new_assessment = {"Name": Text.strip(), "Type": "Coursework", "Weight": int(match_weight.group(0))}
                         Assessments.append(new_assessment)
                     else: 
                         new_assessment = {"Name": Text.strip(), "Type": "Coursework", "Weight": 0}

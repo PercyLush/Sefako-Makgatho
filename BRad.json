@@ -1,0 +1,86 @@
+[
+  {
+    "Code": "MRAT010",
+    "Name": "Radiation Techniques I",
+    "Credit": "32",
+    "NQF": "5"
+  },
+  {
+    "Code": "MANB010",
+    "Name": "Anatomy IA",
+    "Credit": "24",
+    "NQF": "5"
+  },
+  {
+    "Code": "MIMR010",
+    "Name": "Image Recording I",
+    "Credit": "24",
+    "NQF": "5"
+  },
+  {
+    "Code": "MBPA010",
+    "Name": "Biophysics IB",
+    "Credit": "24",
+    "NQF": "5"
+  },
+  {
+    "Code": "MEHS010",
+    "Name": "English for Health Sciences",
+    "Credit": "12",
+    "NQF": "5"
+  },
+  {
+    "Code": "MRAB020",
+    "Name": "Radiation Technique II",
+    "Credit": "32",
+    "NQF": "6"
+  },
+  {
+    "Code": "MPLB020",
+    "Name": "Physiology IB",
+    "Credit": "24",
+    "NQF": "6"
+  },
+  {
+    "Code": "MRAA020",
+    "Name": "Image Recording II",
+    "Credit": "28",
+    "NQF": "6"
+  },
+  {
+    "Code": "MBPA020",
+    "Name": "Biophysics IIB",
+    "Credit": "20",
+    "NQF": "6"
+  },
+  {
+    "Code": "MBPB020",
+    "Name": "Biophysics IIC",
+    "Credit": "20",
+    "NQF": "6"
+  },
+  {
+    "Code": "MRAB030",
+    "Name": "Radiation Techniques III",
+    "Credit": "32",
+    "NQF": "7"
+  },
+  {
+    "Code": "MPAA030",
+    "Name": "Pathology and Anatomy",
+    "Credit": "32",
+    "NQF": "7"
+  },
+  {
+    "Code": "MRAA030",
+    "Name": "Image Recording III",
+    "Credit": "28",
+    "NQF": "7"
+  },
+  {
+    "Code": "MBPA030",
+    "Name": "Biophysics IIIB",
+    "Credit": "28",
+    "NQF": "7"
+  }
+]

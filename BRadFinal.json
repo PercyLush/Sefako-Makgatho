@@ -1,0 +1,137 @@
+[
+  {
+    "Code": "MRAT010",
+    "Name": "Radiation Techniques I",
+    "Credit": 32,
+    "NQF": 5,
+    "Duration": "Year",
+    "Description": "Patient and the radiographer, administration -hospital and department organisation, practical nursing procedures, \nfirst aid, general patient care, hygiene in X -ray department, sterilisation, drugs in the X -ray department.  Radiation \nhazard, fun damentals of diagnostic radiography, radiographic Assessments and techniques: skeletal system, \nabdomen, respiratory system, Introduction to radiation protection",
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MANB010",
+    "Name": "Anatomy IA",
+    "Credit": 24,
+    "NQF": 5,
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "This course is similar to that of Anatomy (Nursing).  It entails the teaching of system atic human anatomy and \nsurface anatomy for all relevant structures with emphasis on those sections of specific radiological importance.   \nThis is done by means of problem \u2013based lectures, traditional lectures, practicals, demonstrations and tutorials \nusing human material as well as radiographic images.  Evaluation is done by means of written theory tests, \npracticals and assignments.   \nThe same exemption rule as for MBChB II is applied.",
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MIMR010",
+    "Name": "Image Recording I",
+    "Credit": 24,
+    "NQF": 5,
+    "Duration": "Year",
+    "Description": "Principles of photography, image receptor systems, chemical processing of photographi c materials, radiographic \nimage quality, identification and presentation, exposure charts",
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MBPA010",
+    "Name": "Biophysics IB",
+    "Credit": 24,
+    "NQF": 5,
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "Mathematics review; vectors; kinematics; dynamics; hydrostatics; fluid flow; general gas law; heat; optics; \nelectrostatics; current electricity; electro magnetism; alternating current; radioact ivity; x- rays.  The teaching \nprogram comprises five formal lectures per week and one 3 -hour practical every alternative week.",
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MRAB020",
+    "Name": "Radiation Technique II",
+    "Credit": 32,
+    "NQF": 6,
+    "Duration": "Year",
+    "Description": "Protection, radiographic Assessment of skeletal system, alimentary system; genito-urinary system;respiratory\nsystem, fluoroscopy;, foreign bodies,; contrast media, ethics and medical law, musculoskeletal radiography plus\nspecialised projections and procedures.",
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MPLB020",
+    "Name": "Physiology IB",
+    "Credit": 24,
+    "NQF": 6,
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "Basic principles of the following body systems: digestion and control of body temperature: nervous system, \nincluding nerve and muscle physiology and special senses; body fluid system, including renal physiology, \nhaematology and acid-base balance; respiratory system; cardiovascular system: endocrinology and reproduction. \nInstruction: Theoretical: 180 x 40 min periods; Practical: 45 periods (minimum 120 hours). If at the end of the year \na student has written ALL the tests and has obtained at least 50% in each test, and an average mark of 60% or \nmore in the tests, s/he may apply to the head of department to be exempted from the final Assessment in \nPhysiology.",
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MRAA020",
+    "Name": "Image Recording II",
+    "Credit": 28,
+    "NQF": 6,
+    "Duration": "Year",
+    "Description": "Sensitometry, intesnsifying screens; computed r adiography; conventional fluoroscopy, daylight systems, \nspecialised photographic procedures; radiographic image quality; exposure factors, silver recovery and \nconservation.",
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MBPA020",
+    "Name": "Biophysics IIB",
+    "Credit": 20,
+    "NQF": 6,
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "Review of electricity: current, voltage, resistance, DC, AC transformers, capacitor, mains voltage, three phase \nsupply, power.  Basic electronics: diodes, transistors, SCR, operational amplifier, digital systems, and computer.  \nX-ray equipment; mains s upply; x -ray tubes; x -ray tables and tubestands; high tension control circuits and \nstabilising equipment; transformers; exposure switching and exposure timers; circuit protection; meters; circuit \ndiagrams; mobile portable and conventional dental units; con trol of scattered radiation; care and maintenance of \nequipment.",
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MBPB020",
+    "Name": "Biophysics IIC",
+    "Credit": 20,
+    "NQF": 6,
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "Matter and energy; atomic structure; nuclear structure; radiation and spectra ; electromagnetic radiation; \nradioactivity; production of x -rays; interaction of x -rays with matter; effects of x -rays; measurement of x -ray \nquantity; dosimetry; filters and filtration; radiation quality; properties of x -ray film; radiographic image; radia tion \nprotection.",
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MRAB030",
+    "Name": "Radiation Techniques III",
+    "Credit": 32,
+    "NQF": 7,
+    "Duration": "Year",
+    "Description": "Computed Tomography Clinical applications, Biliary system; Genito -urinary system; Reproductive system, Cardio -\nvascular system; lymphatic system; respir atory system; central nervous system; Athrography; Myelography; \nguided biopsies; Risk management, Ethics and Professionalism, Special contrast media in radiology; operating \ntheatre procedures; ward radiography; paediatric radiography; soft tissue different iation; Ultrasound; Computed  \n Tomography; Magnetic Resonance Imaging; Bone Densitometry, Introduction to Mammography, Dental \nradiography",
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MPAA030",
+    "Name": "Pathology and Anatomy",
+    "Credit": 32,
+    "NQF": 7,
+    "Duration": "Year",
+    "Description": "Module I  - General Pathology  \nCell damage; inflammation; healing and hypertrop hy; the immune response; immunopathology, disturbances of \ncirculation.  Miscellaneous degeneration and deposits; tumours, origin, nature and causation; epithelial and other \ntumours.  Instruction: 32 x 40 -min periods.  \n \nModule II  - Systemic Pathology  \nCardiov ascular system; respiratory system; nervous system; reproductive system, male and female; gastro -\nintestinal system; liver biliary tract and exocrine pancreas; urinary system; musculo -skeletal system; endocrine \nsystem; blood and bone marrow; lymphoreticular  system.",
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MRAA030",
+    "Name": "Image Recording III",
+    "Credit": 28,
+    "NQF": 7,
+    "Duration": "Year",
+    "Description": "Computerized tomography, Magnetic Resonance Imaging, Direct Digital Radiography, Quality Assurance &\nManagement in Radiography, Introduction to Ultrasound, Mammography & Bone Densitometry, Digital\nFluoroscopy.",
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MBPA030",
+    "Name": "Biophysics IIIB",
+    "Credit": 28,
+    "NQF": 7,
+    "Duration": "Semester",
+    "Period": [
+      2
+    ],
+    "Description": "Special x-ray tubes; mammography units; mass miniature radiographic units; video tape recording apparatus;\nphoto and ionization timers; rapid sequence film changers and roll film apparatus; digital vascular imaging;\ntomographic equipment; computerisation of data; computer assisted tomography; magnetic resonance equipment;\nultrasound; xerography; thermography; fluoroscopic equipment; cine photofluorographic attachments",
+    "Institution": "Sefako Makgatho Health Sciences University"
+  }
+]

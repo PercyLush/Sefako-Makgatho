@@ -1,0 +1,1450 @@
+[
+  {
+    "Code": "MEHS010",
+    "Name": "English for Health Sciences",
+    "Duration": "Year",
+    "Credit": 12,
+    "Prerequisite": {
+      "Comment": "None"
+    },
+    "Corequisite": {
+      "Comment": "None"
+    },
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "DP": 40,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MBEH010",
+    "Name": "Behavioural Sciences",
+    "Duration": "Year",
+    "Credit": 16,
+    "Description": "Pharmacokinetics, Pharmacodynamics, Solutions and concentrations  \nMedicines and the Peripheral and Central Nervous System  \nAnaesthetics, analgesics and anti -inflammatory medicines  \nChemo therapeutic drugs; Minerals and Vitamins, Cardiovascular, Respiratory, \nGastrointestinal and Endocrine systems\u2019 medicines as well as Legislation and \nPrescription writing  \nLearning Outcomes  The student will be able to :  \n\uf0b7 Demonstrate critical thinking and unde rstanding regarding solutions and \nconcentrations, Pharmacokinetics, Pharmacodynamics, Medicines and the \nPeripheral Nervous system, Anaesthetics, analgesics and anti -inflammatory \nmedicines, Chemotherapeutic drugs, Minerals and Vitamins, \nCardiovascular, Resp iratory, Gastrointestinal and Endocrine systems\u2019 \nmedicines as well as Legislation and Prescription writing , Predict and \nmonitor the side -effects of common drugs and identify adverse effects of \ndrug reactions  \n\uf0b7 Integrate the principles and practice of rationa l drug use and appreciate the \nimportance of life -long learning regarding drug development and treatment \nguidelines  \nModule Information:  SAQA Credits  ITS Course Level  CESM Code (3rd Order)  \n(Six Numbers)   \n 59 12 2 130901  \nDelivery Information:  Campus  Full/Part  Time  Period  \n(Year/1st/2ndSem)  \nSMU  Contact \u2013 Fulltime  Y \nPeriods per week: 36  Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n2x40 min  0 1x40 min  0 1",
+    "Prerequisite": {
+      "Comment": "None"
+    },
+    "Corequisite": {
+      "Comment": "None"
+    },
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "DP": 40,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MBLC010",
+    "Name": "Biology I",
+    "Duration": "Year",
+    "Credit": 16,
+    "Description": "Description: An introduction to biology with the emphasis on the fundamental \nconcepts of Biology; ecological concepts and the impact of pollution on the \nbiosphere; the chemistry of life, the structure and functions of the prokaryotic and \neukary otic cell and cell division (mitoses & meiosis); Mendelian principles; the \nbiosphere and the origin of life, movement of tectonic plates and the mechanisms \nof evolution; the taxonomic hierarchy, the general characteristics of the seven \nkingdoms, classes of  the Kingdoms Plantae, Protista and Animalia, and orders of \nthe Classes Insecta and Mammalia; the male & female reproductive system, \ngematogenesis and the developmental biology of different organisms with \nemphasis on early human development; the recognitio n and description of animal \nepithelial -, connective -, adipose - cartilaginous -, bone -, nervous -, muscle -, \nblood - and lymphatic tissues types.  \nModule 1. Environmental Health:   Introduction to ecological concepts, biomes \nof the world, mineral and ener gy cycles, pollution,  destruction of the \nenvironment, measurements of ecosystem health, alien plants and animal \ninvasion, traditional healer and the ecology, arthropod pests and insecticide \npoisoning,  impact of rodent and arthropod pests on man, man -made  disasters, \nozone depletion and the greenhouse effect.  \nModule 2.  Cell Biology:   Chemistry of life, cell structure and function, cell \ndivision mitosis, meiosis  \nModule 3.  Genetics :  Principles of Genetics, Mendelian patterns of inheritance, \nforms of domina nce,traits, multiple alleles,genes that add up, mutations, the \nhuman genome, applied genetics  \nModule 4.  Evolution:   Historical background, origin of earth and life, evidence \nfor macroevolution   \nModule 5.  Taxonomy and Systematics:   Binomial nome nclature system; the \nseven kingdoms; Plants; Protista; Porifera, Cnidaria, Platyhelminthes, Nematoda, \nMollusca, Annelida, Arthropoda, Echinodermata and Chordata.   \nModule 6. Embryology:   Reproductive system (male and female), \ngametogenesis, ultrastructure of the gametes; fertilization; cleavage, gastrulation, \nthe development of Branchiostoma , the early development of the avian embryo \nand the extra -embryonic membranes, the early development of the human \nembryo to the formation of the tri -laminar disc.  \nModul e 7. Tissues:   Epithelial tissue; Connective tissue; Muscle tissue; Nervous \nTissue.   \nDetailed information on modules, units and assessment criteria and set out in the \nTeaching Programme  \nLearning Outcomes  \uf0b7 The student would have obtained adequate knowledge  at a pre -clinical level \nwith regard to evolution, cytology, genetics, environmental health, taxonomy, \nembryology, tissues.  \n\uf0b7 The stude must be able to demonstrate skills in the use of the light \nmicroscope to identify microorganisms, make drawings and do dis sections   \n 62 \uf0b7 The student should demonstrate appreciation of man\u2019s responsibility to \npreserve life and the environment and to obtain high levels of work ethics & \nscientific thinking.  \nModule Information:  SAQA Credits   ITS Course Level Code  CESM Code (3rd Order)  \n16 3 130101  \nDelivery Information:  Campus  Full/Part Time  Period (Year/1st/2ndSem)  \nSMU  FT Y \nPeriods per week:  = 33  weeks  Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n2.5x40 \nmin 1x2hrs  None  None  None  \nPre-requisite modules for this \nmodu le: 0",
+    "Corequisite": {
+      "Comment": "None"
+    },
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "DP": 40,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MBPC010",
+    "Name": "Biophysics I",
+    "Duration": "Year",
+    "Credit": 20,
+    "Description": "Module 1:  Mechanics:  Vectors; Newton\u2019s first law.  Newton\u2019s second law; Newton\u2019s \nthird law;  significance  of Newton\u2019s laws, Torques; Lever and Mechanical advantage; \nLevers in the body;  Center of gravity;  Linear and angular momentum; Work, energy \nand power; Elastic and inelastic collision;  Simple harmonic motion; Circular motions.  \nModule 2:   Heat, properti es of matter and fluid :  Temperature and pressure; Ideal \ngas laws and gas mixtures; First law of Thermodynamics; Mechanics of non -viscous \nfluids, Bernoulli\u2019s equation and its application; Viscous fluid flow; Surface tension and \ncapillarity;  Laplace\u2019s law;   The role of surfactants in the lungs; Heat transfer \nmechanisms; Elastic and Thermal properties of matter.  \nModule 3:  Electricity and Magnetism:  Electric forces; Electric field; The electrical \npotential; Capacitance, electric current ant resistance;  Ele ctrical safety;  The \nstructure of nerve cells;  The resistance and capacitance of an axon;  Ionic \nconcentrations and resting potential; Magnetic fields; Faraday\u2019s law.  \nModule 4:  Waves and Optics:  The representation of waves; The Doppler effect;  \nThe natu re and speed of sound; Auditory response, Ultrasound, Refraction of light; \nTotal internal reflection; Lenses and mirrors; Image formation; The power of a \nlens/mirror; Human eye; Optical defects of the eye.  \nModule 5:  Radiation Physics:  Properties of a pho ton; X -rays; The photoelectric \neffect and the Compton effect; Radioactivity; Half -life; Nuclear masses and binding \nenergies; Nuclear forces, Radioactive decays; Interaction of Radiation with matter; \nRadiation units; Harmful effects of radiation; Chronic ra diation exposure; Radiation in \nMedicine; Other uses of radiation.  \nModule 6: Introduction to Health Information:  Computer fundamentals; History \ncomputing; Types of computers; Level of a computer; Medical applications; \nDefinitions of statistics; Presentatio n of data; Correlation and regression.  \nLearning Outcomes  To demonstrate improved analytical and numerical skills through problem solving \nusing models analogous to real life situations.   \n 65 To apply the fundamentals laws of physics to anatomical and physiologi cal functions \nof the human body.  \nTo explain the principles of functioning of equipment used in physical quantity \nmeasurement and display, including the use of computer technology.  \nModule Information:  SAQA Credits   ITS Course Level Code  CESM Code (3rd Orde r) \n16 3 140701  \nDelivery Information:  Campus  Full/Part Time  Period (Year/1st/2ndSem)  \nSMU  FT Y \nPeriods per week:  = 3 3 weeks  Classes  Practicals  Tutorial  Seminars  Independent Learning  \n3X40 MIN  1X2hr  1",
+    "Prerequisite": {
+      "Comment": "None"
+    },
+    "Corequisite": {
+      "Comment": "None"
+    },
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "DP": 40,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MCHM010",
+    "Name": "Chemistry IA",
+    "Duration": "Year",
+    "Credit": 20,
+    "Prerequisite": {
+      "Comment": "None"
+    },
+    "Corequisite": {
+      "Comment": "None"
+    },
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "DP": 40,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MINM010",
+    "Name": "Introduction to Microbiology",
+    "Duration": "Year",
+    "Credit": 8,
+    "Description": "Overview of infectious diseases of importance to Dentistr y; bacteria, viruses and \nfungi; determinants of pathogenicity; host defense mechanisms against infection; \ninfections of relevance to Dentistry; normal oral flora; oral Ecology; Microbiology \nand Immunology of caries and periodontal disease; dentoalveolar in fections, \nbacterial, viral and fungal infections of oral soft tissue; infection control in \nDentistry.  The course will be presented as discussion classes with the \nopportunity for active learning, case presentations and small group discussions  \nLearning Out comes  Upon completion of the course students must be able to associate micro -\norganisms with the aetiology, pathogenesis and complications of common \ninfective diseases encountered in general dental practice. They must also know \nand be able to implement infe ction control measures.  \nModule Information:  SAQA Credits   ITS Course Level Code  CESM Code (3rd Order)  \n8 3 090304  \nDelivery Information:  Campus  Full/Part Time  Period (Year/1st/2ndSem)  \nSMU  FT Y \nPeriods per week:  33 Weeks  Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n1x80 min  None  None  None  None",
+    "Prerequisite": {
+      "Comment": "None"
+    },
+    "Corequisite": {
+      "Comment": "None"
+    },
+    "Assessments": [
+      {
+        "Name": "YearMark",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "ExamMark",
+        "Type": "Coursework",
+        "Weight": 40
+      }
+    ],
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MICL010",
+    "Name": "Integrated Clinical Dentistry I",
+    "Duration": "Year",
+    "Credit": 32,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MCDB020",
+    "Name": "Integrated Clinical Dentistry II",
+    "Duration": "Year",
+    "Credit": 24,
+    "Description": "The module is divided into six units.  \nUnit 1:   Dental assisting II:  The unit will include assisting in Maxillo -Facial and \nOral Surgery, Orthodontics, Endodontics and Integrated Clinical Dentistry.  \nUnit 2:   Patien t Centred Interviewing:   \nUnit 3:   An introduction to the pathogenesis of dental caries:  \nUnit 4: Integrated problem based learning: This module is presented as two \nProblem Based Learning exercises.  \nUnit 5:   Preclinical Periodontics: This unit will be prese nted as a series of \npractical exercises in the scaling and polishing of teeth on teaching manikins.   \nUnit 6:   Preventive Dentistry: This unit deals with the basic principles of \nprevention as well as specific preventive measures employed in dentistry   \n \nLearning Outcomes  At the end of this module the students will know and  be able to:  \n1. Function as a chair -side assistant to senior students.  \n2. Conduct patient centred interviews while considering the ethics involved \nwith each case.  \n3. Describe the plaque induced or al diseases  \n4. Explain the principles of prevention of disease.  \nModule Information: 36 Weeks  SAQA Credits   ITS Course Level Code  CESM Code (3rd Order)  \n24 3 090302  \nDelivery Information:  Campus  Full/Part Time  Period (Year/1st/2ndSem)  \nSMU  FT Y \nPeriods per  week:  = 38 weeks  Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n6 4 0 0 1",
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "DP": 40,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MODA020",
+    "Name": "Operative Dentistry I",
+    "Duration": "Year",
+    "Credit": 16,
+    "Description": "Pre-Clinical Direct Restorative Dentistry on the Phantom head  \nLearning Outcomes:  The students will be able to prepare teeth for direct restorative techniques  \nModule Information:  SAQA Credits   ITS Course Level Code  CESM Code (3rd Order)  \n8 3 090301   \n 113 Delivery Information:  Campus  Full/Part Time  Period (1st/2ndSem)  \nSMU  Full time  Y \nPeriods per Week: 36 weeks  Classes  Clinical  Tutorial  Seminars  Independent \nLearning  \n 1x2hr",
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 100
+      }
+    ],
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MPRA020",
+    "Name": "Prosthodontics I",
+    "Duration": "Year",
+    "Credit": 20,
+    "Description": "Introduction:  The module is stratified into units which cover the theoretical and \npractical aspects of complete denture prostho dontics. Practical exercises \ninvolving the laboratory fabrication of various prostheses are a requirement and \nstudents will be required to complete these to a satisfactory level.  \nCourse Purpose Statement:  At the end of this course students will have gaine d \nthe necessary psychomotor and cognitive skills to fabricate complete dentures \nincluding  knowledge of the oral anatomy of the edentulous mouth, associated \ndental materials used in the laboratory procedures and techniques required to \nfabricate complete de ntures.  \nLearning Outcomes  By the end of this module, students will have the cognitive and psychomotor \nskills to be able to:   \n 166 1. Demonstrate knowledge of the anatomy of the edentulous mouth and how it \nrelates to complete denture prosthodontics  \n2. Carry out techni cal exercises to construct various complete denture \nlaboratory procedures viz a viz with Class I; Class 2 and Class 3 skeletal \nand dental relationships  \n3. Describe the factors to be taken into account to create a balanced \narticulation for Angle Class I, II an d III jaw relationships  \n4. Use an average movement articulator during the various technical exercises \nand understand the rationale for its use  \nModule Information:  SAQA Credits   ITS Course Level Code  CESM Code (3rd Order)  \n20 3 090312  \nDelivery Information:  Campus  Full/Part Time  Period \n(Year/1st/2ndSem)  \nSMU  FT Y \nPeriods per week:  36 Weeks  Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n2x40 min  1x3hr 1st sem \n1x4hr 2nd sem",
+    "Prerequisite": {
+      "Comment": "None"
+    },
+    "Corequisite": {
+      "Comment": "None"
+    },
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "DP": 40,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MANA020",
+    "Name": "Applied Anatomy",
+    "Duration": "Year",
+    "Credit": 32,
+    "Description": "Introduction to Anatomy (gross, histology and embryology).  \nThe Thorax  \nThe Axilla, arm and forearm  \nThe Brain  \nThe Neck  \nThe Head  \nThe Abdomen  \nDevelopment of head and neck region, GIT and the heart  \nCytology and microstructure of the mo dule content including basic tissues (epithelial, \nmuscle, connective and nervous)   \nLearning Outcomes  Introduction to Anatomy  \nStudents must be  able to describe the anatomical terminology, explain the anatomical  \n 56 basis of human function and functional morpho logy of body structures.  \nHead and neck  \nStudent must be able to identify and describe in details the gross and histological \nstructures of the oral and peri -oral region, as well as the anatomical basis of any \ndevelopmental deformity.  \nStudents must be able t o explain the functional localisation of brain and Identify/ \ndescribe the origin / formation, composition, course and distribution of the cranial \nnerves.  \nThe axilla and thorax  \nStudent must be able to relate the cervical fascia with the structure of the tho rax and \nroles played in spread of infections.  \nStudent must be able to identify gross and histological structures in the thorax, their \nrelationships and associated developmental anomalies.  \nThe abdomen  \nStudent must be able to have an overview of the anatomy of the abdomen and its \nstructures.  \nEmbryological development of GIT the structures and related anomalies.  \nModule Information:  SAQA Credits   ITS Course Level Code  CESM Code (3rd Order)  \n32 3 130402  \nDelivery Information:  Campus  Full/Part Time  Period (Year /1st/2ndSem)  \nSMU  FT Y \nPeriods per week:  36 weeks  Lectures/ \npracticals  Practicals  Tutorial  Seminars  Independent Learning  \n12x40 min   1 None  2",
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "DP": 40,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MPLA020",
+    "Name": "Physiology for Dentistry",
+    "Duration": "Year",
+    "Credit": 32,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MMXA020",
+    "Name": "Oral Biology I",
+    "Duration": "Year",
+    "Credit": 16,
+    "Description": "Development, structure, function and age related changes of the various \ncomponents of the oral cavity, namely, prenatal development and the \ndevelopment of the face and ne ck the development of the oro -facial structures \nand teeth, macroscopic and microscopic characteristic features of the dental \ntissues, oral mucosa and specialized oral mucosa, salivary glands, \ntemporomandibular joint, bone, nasal and paranasal sinuses, mole cular biology \nand dental anatomy  \nLearning Outcomes  To give students a sound knowledge and understanding of the following:   \n1. General characteristic features of the oral cavity, regions of the face and \nneck and divisions of the oral cavity, dental and speci alized supporting \napparatus of the tooth, i nnervation, blood supply and lymphatic drainage of \nthe oral cavity  \n2. Prenatal development, development of the face and neck  \n3. Stages of odontogenesis, amelogenesis , dentinogenesis and the \ndevelopment of the dentin -pulp complex and periodontium, tooth eruption  \n4. Composition, characteristic histological features of enamel, dentin and \nperiodontium and age changes in enamel, dentin and periodontium  \n5. Development, classification, structure and function of oral mucosa and oral  \nconnective tissue  \n6. Development, structure and function of various bone cells involved in bone \nremodelling, effectors of bone remodelling  \n7. Development, classification, structure and function of salivary glands and \nsaliva  \n8. Development, structure, components of  nasal and paranasal sinuses  \n9. Development, structure, components, classification of the TMJ joint  \n10. Overview of molecular biology and bioengineering  \n11. Dental anatomy  \nModule Information:  SAQA Credits   ITS Course Level Code  CESM Code (3rd Order)  \n8 3 090304  \nDelivery Information:  Campus  Full/Part Time  Period (Year/1st/2ndSem)   \n 123 SMU  FT Y \nPeriods per week:   Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n3x40 min     Y",
+    "Prerequisite": {
+      "Comment": "N.A"
+    },
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MMXB020",
+    "Name": "Maxillofacial & Oral Radiology",
+    "Duration": "Year",
+    "Credit": 16,
+    "Description": "The following  four modules will be presented:  \nModule 1:  Radiation Physics  \nModule 2:  Radiation B iology  \nModule 3:  Radiation Safety and Protection  \nModule 4:  Radiographic Anatomy  \nLearning Outcomes  Radiation Physics :  To give students an understanding of electromagnetic \nradiation with emphasis on the production of x -rays, the equipment used in the \nproduction of x -rays, basic interactions of x -rays with matter, the attenuation of x -\nrays, beam characteristics such as quality and quantity, methods used to \nmanipulate the x -ray beam, and the physical photographic characteristics of the \nx-ray film.  \nRadiation  Biology: To give students an understanding of the formation of the \nradiographic image and the dangers of ionizing radiation.  \nRadiation Safety and Protection:  To give students an understanding of the safe \nuse of radiographic equipment in order to minimize the risk of potential radiation \ndanger to patients, staff and public.  \nRadiographic Anatomy:  To give students an understanding of the  \ninterpretation of anatomic radiographic landmarks, the identification of abnormal \nstructures and the correct mounting of f ilms.  \nModule Information:  SAQA Credits   ITS Course Level Code  CESM Code (3rd Order)  \n8 3 090301  \nDelivery Information:  Campus  Full/Part Time  Period (Year/1st/2ndSem)  \nSMU  FT Y \nPeriods per week:  36  Classes  Practicals  Tutorial  Seminars  Independent \nLear ning   \n 105 2x40 min  None  None  None  None",
+    "Prerequisite": {
+      "Comment": "None"
+    },
+    "Corequisite": {
+      "Comment": "None"
+    },
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "DP": 40,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MMXA030",
+    "Name": "Maxillofacial & Oral Surgery I",
+    "Duration": "Year",
+    "Credit": 12,
+    "Description": "Oral Surgery include;  \n\uf0b7 Cardiopulmonary resuscitation  \n\uf0b7 Principles of Surgery  \n\uf0b7 Common Medical Emergencies in the dental practice  \n\uf0b7 Exodontia,  \n\uf0b7 Orofacial Infections and Surgical Endodontics  \n\uf0b7 Peri-radicular surgery and  \n\uf0b7 Oral Surgery in the Medically Compro mised Patients  \nLearning Outcomes  By the end of this module students are able to;  \n\uf0b7 Manage medical emergencies that may arise in the dental clinic  \n\uf0b7 Perform extraction of teeth and removal of roots  \n\uf0b7 Manage complications of exodontia  \n\uf0b7 Understand odontogenic infe ctions and spread thereof  \n\uf0b7  Manage complex orofacial infections  \n\uf0b7  Understand the principles of endodontic surgery  \n\uf0b7  Diagnose Unconsciousness and Altered consciousness ; recognize \nrespiratory distress;  \n\uf0b7  Identify Neurological Medical Emergencies  \n\uf0b7  Know causes  of acute chest pain  \n\uf0b7  Recognize  d rug related medical emergencies  \n\uf0b7  Manage dental patients with blood disorders and cardiovascular diseases   \n\uf0b7  Manage dental patients with endocrine disorders  \n\uf0b7 Recognize medical conditions related to other systems of the body  in a dental \npatient   \nModule Information:  SAQA Credits   ITS Course Level Code  CESM Code (3rd Order)  \n12 3 090308   \n 109 Delivery Information:  Campus  Full/Part Time  Period (Year/1st/2ndSem)  \nSMU  FT  Y \nPeriods per week:  36 weeks  Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n1x40 min  2 hrs  None  None  None",
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 100
+      }
+    ],
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MODA030",
+    "Name": "Operative Dentistry II",
+    "Duration": "Year",
+    "Credit": 32,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MORC030",
+    "Name": "Oral Medicine I",
+    "Duration": "Year",
+    "Credit": 8,
+    "Description": "\uf0b7 Principles of Oral Medicine  \n\uf0b7 Infections of the Oral Mucosa  \n\uf0b7 White lesions; premalignant disorders; pigmented lesions and oral cancer  \n\uf0b7 Immune -mediated lesions and conditions   \n 140 \uf0b7 Developmental defects; physical and chemical injuries  \nOral connective tissue lesions; vascular lesions; soft tissue tumours. Neural \nlesions hematologic disease; geriatric changes  \nLearning Outcomes  The course in Oral Medicine will equip the student to perform accurate clinical \nexamination and, in certain cases, the diagnoses of patients with oral soft -tissue \nlesions and conditions. The student will be abIe to identify abnormalities of oral \nsoft tissues and prescribe ap propriate treatment or refer to a specialist in oral \nmedicine. The course also aims to develop an understanding of the surgical, \nmanagerial, referral and interdisciplinary aspects of Oral Medicine.  \nThis course is offered during the third and fourth years o f the degree. The depth \nand weighting of the course is specific to the degree course. Despite the \nobjectives and outcomes as listed in the study guide, there will be some overlap \nin the teaching programme and the programme may be changed at the discretion \nof the Department of Periodontology and Oral Medicine.  \nModule Information:  SAQA Credits   ITS Course Level Code  CESM Code (3rd Order)  \n8 3 090301  \nDelivery Information:  Campus  Full/Part Time  Period (Year/1st/2ndSem)  \nSMU  FT  Y \nPeriods per week:   Classe s Practicals  Tutorial  Seminars  Independent \nLearning  \n \n1 \n 3 0 None  None",
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 100
+      }
+    ],
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MMXB030",
+    "Name": "Orthodontics I",
+    "Duration": "Year",
+    "Credit": 12,
+    "Description": "- Stainless steel: composition, properties, uses, advantages & disad vantages  \n- Removable appliances:  classification and uses  \n- Extra -oral appliances:  classification and uses  \n- Development of occlusion  \n- Development of malocclusion  \n- Facial growth:  development of the face, basic principles and therapeutic \nmeasures of facial proble ms and methods of evaluating facial growth  \n- Practical:  removable appliances used in Orthodontics  \nLearning Outcomes  By the end of this module, students will have knowledge and skills of the",
+    "Prerequisite": {
+      "Comment": "None"
+    },
+    "Corequisite": {
+      "Comment": "None"
+    },
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 100
+      }
+    ],
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MMXC030",
+    "Name": "Pathology & Radiology of DentoOsseous Anom I (Radiography)",
+    "Duration": "Year",
+    "Credit": 20,
+    "Description": "The course consists of 6 modules which will cover the following topics:",
+    "Prerequisite": {
+      "Code": "MMXB020"
+    },
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "DP": 40,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MPEB030",
+    "Name": "Periodontology I",
+    "Duration": "Year",
+    "Credit": 8,
+    "Description": "\uf0b7 Introduction to the course  \n\uf0b7 Periodontal macro - and micro -anatomy  \n\uf0b7 Non-surgical phase of periodontal therapy  \n\uf0b7 Classification of periodontal disease  \n\uf0b7 Pathogenesis of periodontal disease  \n\uf0b7 Periodontal surgery  \n\uf0b7 Dental implants and peri -implan tology  \nLearning Outcomes  The course in Periodontology will enable the student to perform accurate clinical \nexamination and diagnoses of patients with periodontal disease. Students are also \nequipped to draw up relevant treatment plans and to prescribe and perform \nnecessary treatment procedures of non -surgical management of patients with \nperiodontal disease. The course also leads to An understanding of different \nperiodontal surgical treatment modalities, referral of patients to the periodontist, and \nserves t o familiarize the student with the biologic rationale, technical component and \noutcomes of the different types of periodontal surgery.  \nThis course is offered during the third and fourth years of the degree. The depth and \nweighting of the course is specific  to the degree course. Despite the objectives and \noutcomes as listed in the study guide, the teaching programme may be changed at \nthe discretion of the Department of Periodontology and Oral Medicine to ensure \nsuccessful delivery of this course  \nModule Info rmation:  SAQA Credits   ITS Course Level Code  CESM Code (3rd Order)  \n8 3 090311  \nDelivery Information:  Campus  Full/Part Time  Period (Year/1st/2ndSem)  \nSMU  FT (Contact)  Y \nPeriods per week:   Classes  Practical  Tutorial  Seminars  Independent \nLearning  \n1 3 0 None  None",
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 100
+      }
+    ],
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MPRA030",
+    "Name": "Prosthodontics II",
+    "Duration": "Year",
+    "Credit": 20,
+    "Description": "Introduction:  The module is stratified into units which cov er the theoretical and \npractical aspects of complete and partial denture prosthodontics. The module is \nprincipally clinical. Students will be required to complete a minimum number of \nclinical/technical procedures in removable prosthodontics.  \nCourse Purpose  Statement:  At the end of this module students will have gained the \nnecessary psychomotor, cognitive and affective skills to undertake clinical practice \nin the field of removable prosthodontics; including knowledge of the associated \ndental materials used in both laboratory and clinical procedures required in \nremovable prosthodontics.  \nLearning Outcomes  By the end of this module students will have the cognitive, affective and \npsychomotor skills to be able to:  \n1.  Demonstrate an increased knowledge of the  \ni) biolo gical basis of the principles of complete denture prosthodontics viz a \nviz denture support and retention  \nii) biological considerations in jaw relations, jaw movements and mastication \nand describe the essentials of the various occlusal schemes and methods \nused in complete dentures  \n2.  Have an understanding of the science, properties and application of the various \ndental materials used in removable prosthodontics and how and why they are used \nunder different clinical situations  \n3.  Demonstrate an understanding of  the principles underpinning partial denture \nprosthodontics  \n4.  Have developed the necessary skills required to demonstrate empathy in \nmanaging and advising patients suffering partial or complete edentulism  \nModule Information:  SAQA Credits   ITS Course Lev el Code  CESM Code (3rd Order)  \n24 3 090312  \nDelivery Information:  Campus  Full/Part Time  Period \n(Year/1st/2ndSem)  \nSMU  FT Y \nPeriods per week:  36 Weeks  Classes  Clinicals  Tutorial  Seminars  Independent \nLearning  \n2x40 min  2x2hr    \nPre-requisite modules fo r this",
+    "Corequisite": {
+      "Comment": "None"
+    },
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "DP": 40,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MDEB030",
+    "Name": "Dental Public Health I",
+    "Duration": "Year",
+    "Credit": 4,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MCDA030",
+    "Name": "Integrated Clinical Dentistry III",
+    "Duration": "Year",
+    "Credit": 4,
+    "Description": "Bio-ethics  \nLearning Outcomes  At the end of this module the students will know :  \n1. The principles of ethical practice management  \n2. The various laws controlling the practice of dentistry.  \n3. The HPCSA rules regarding training in and practice of dentistry.  \nModule Informatio n: SAQA Credits  ITS Course Level Code  CESM Code (3rd Order)  \n4 3 091901  \nDelivery Information:  Campus  Full/Part Time  Period \n(Year/1st/2ndSem)  \nSMU  FT (Contact)  Y \nPeriods per week:  38 Weeks  Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n1 0 0 0 1",
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 100
+      }
+    ],
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MAPB031",
+    "Name": "Anatomical & Chemical Pathology",
+    "Duration": "Year",
+    "Credit": 12,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MPSA030",
+    "Name": "Psychology for Dentistry",
+    "Duration": "Year",
+    "Credit": 8,
+    "Description": "The application of psychological principles to dental practice including the dentist/ in \nthe dental office, interviewing and communication skills, patient anxiety, fear and pain \npatient relationship, behavioural interventions related to practice, stres s and conflict \nmanagement, patient compliance  \nLearning Outcomes:  Dental students and dentists in practice are faced with the challenge of interacting \nwith patients and staff members on a daily basis when carrying out their functions. \nThe purpose of this m odule is to provide students with an understanding of mental \nprocesses and behaviour which form the basis for application of concepts, principles \nand theories of psychology applicable to dental practice.  \nModule Information:  SAQA Credits   ITS Course Level Code  CESM Code (3rd Order)  \n16 3 180101  \nDelivery Information:  Campus  Full/Part Time  Period (Year/1st/2ndSem)  \nSMU  FT Y \nPeriods per week:   36 Weeks  Classes  Practicals  Tutorial  Seminars  Independent Learning  \n1x40 min   4x40 min    \nPre-requisite modules f or this module:",
+    "Corequisite": {
+      "Comment": "None"
+    },
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "DP": 40,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MMMA031",
+    "Name": "General Microbiology and Immunology S1",
+    "Credit": 16,
+    "Description": "Module 1 : Introduction to microorganisms  \n(bacteria, viruses, parasites, fungi) and molecular Biology  \nModule 2 : Antimicrobial agents  \nModule 3 : Infection control  \nModule 4 : Clinical immunology  \nModule 5 : Infections of relevance to dentistry  \n  5.1 Cardiovascular infections  \n  5.2 Respiratory tract and Oral infections  \n  5.3 Central nervous system infections  \n  5.4 Skin, soft tissue and joint infections   \n 95   5.5 Gastrointestinal, genitourinary and multisystem infections  \nLearning Outcomes  - Able to underst and, describe and identify the fundamentals and the key \nprinciples of medical microbiology,  \n- Understanding the role of microorganisms (including bacteria, viruses, fungi)  \n In pathogenic mechanisms.  \n-  Understanding the use of antimicrobial treatment.  \n-  Role of the immune system in combating infections and diseases, and also in  \n developing hypersensitivity and autoimmune diseases.  \n-  Maintenance of infection control and safe working environment.  \n- Apply theoretical knowledge using specific techniques in t he diagnostic \nlaboratory  \nModule Information:  SAQA Credits   ITS Course Level Code  CESM Code (3rd Order)  \n8 3 090304  \nDelivery Information:  Campus  Full/Part Time  Period \n(Year/1st/2ndSem)  \nSMU  FT S1 \nPeriods per week:   18 Weeks  Classes  Slide show  Tutorial  Seminars  Independent \nLearning  \n5x40  5x40 \nMin/sem  6x1.5hr / \nsem 1x40 \nmin/sem  None",
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "DP": 40,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MPYC031",
+    "Name": "General Pharmacology",
+    "Duration": "Year",
+    "Credit": 12,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MAAA032",
+    "Name": "Internal Medicine, General Surgery and Anaesthesiology",
+    "Duration": "Semester",
+    "Credit": 20,
+    "Period": [
+      2
+    ],
+    "Description": "An integrated course covering the following disciplines:  \nInternal Medicine  \nThe course consists of systematic and clinical tuition and is presented by the School \nof Medicine.  Students are int roduced to internal medicine and its effects on dental \npractice, by means of lectures and demonstrations  \n \nGeneral Surgery  \nThe course consists of systematic and clinical tuition by the Department of Surgery, \nSchool of Medicine on diagnostics in General Surg ery and General Principles of \nSurgery.  Topics: History taking; Basic physical signs, swelling and ulcers; Skin and \nsoft tissue examination; Head & Salivary glands; Neck swellings excl. thyroid; Hernia \nand abdominal examination; Cardiovascular system; Veno us system conditions;",
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "DP": 40,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MMXA040",
+    "Name": "Maxillofacial & Oral Surgery II",
+    "Duration": "Year",
+    "Credit": 16,
+    "Description": "This is an advanced course in Maxillofacial and Oral Surgery and will comprise  \nmodules covering the following topics; Maxillofacial Trauma, Surgical Pathology, \nThe Temporomandibular Joint and Oro -facial Pain, Preprosthetic Surgery and \nDental Implantology, and Diverse Topics (Oral Cancer, Orofacial Clefts and \ndeformities, Orthodontic s and Oral Surgery, Orthognathic Surgery, Cryo - and  \n 110 Laser Surgery).  \nLearning Outcome  By the end of the module the student will be able to;  \n\uf0b7 Evaluate and initiate primary care for a trauma patient  \n\uf0b7 Diagnose Maxillofacial fractures (Mandible, Mid facial and  Upper third \nof the face)  \n\uf0b7 Make appropriate referral for the trauma patient  \nModule Information:  SAQA Credits   ITS Course Level Code  CESM Code (3rd Order)  \n12 3 090308  \nDelivery Information:  Campus  Full/Part Time  Period (Year/1st/2ndSem)  \nSMU  FT Y \nPeriod s per week:  33 weeks  Classes  Practicals/  \nClinicals  Tutorial  Seminars  Independent \nLearning  \n1x40 min  1 x 2 hrs   None  None",
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "summativeAssessmentMark",
+        "Type": "Coursework",
+        "Weight": 40
+      }
+    ],
+    "DP": 40,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MODA040",
+    "Name": "Operative Dentistry III",
+    "Duration": "Year",
+    "Credit": 32,
+    "Description": "Paediatric Dentistry and Endodontics  \nLearning Outcomes:  To provide the full scope of direct restorative procedures, knowledge of dental \nmaterials, manage paediatric patients and be able to perform endodontic \nprocedures on single and multi -rooted t eeth.  \nModule Information:  SAQA Credits   ITS Course Level Code  CESM Code (3rd \nOrder)  \n32 3 090307/0310  \nDelivery Information:  Campus  Full/Part Time  Period (1st/2ndSem)  \nSMU  Full time  Y \nPeriods per Week:  Classes  Clinicals  Tutorial  Seminars  Independent \nLearning  \n2x40min  3 x 2hr",
+    "Assessments": [
+      {
+        "Name": "YearAssessMark",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "DP": 40,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MORA040",
+    "Name": "Oral Medicine II",
+    "Duration": "Year",
+    "Credit": 8,
+    "Description": "\uf0b7 Introduction to the course  \n\uf0b7 Principles of oral medicine  \n\uf0b7 Infections of the oral mucosa  \n\uf0b7 White lesions, premalignant disorders; pigmented lesions and oral cancer  \n\uf0b7 Immune mediated lesions and cond itions  \n\uf0b7 Developmental defects  \n\uf0b7 Physical and chemical injuries  \n\uf0b7 Oral connective tissue lesions, vascular lesions, soft tissue tumours  \n\uf0b7 Neura l lesions and geriatric changes.  \nLearning Outcomes  The course in Oral Medicine will equip the student to perform accu rate clinical \nexamination and, in certain cases, the diagnoses of patients with oral soft -tissue \nlesions and conditions. The student will be able to identify abnormalities of oral soft \ntissues and prescribe appropriate treatment or refer to a specialist in  oral medicine. \nThe course also aims to develop an understanding of the surgical, managerial, \nreferral and interdisciplinary aspects of Oral Medicine.  \n \nThis course is offered during the third and fourth years of the degree. The depth \nand weighting of the c ourse is specific to the degree course. Despite the objectives \nand outcomes as listed in the study guide, there will be some overlap in the \nteaching programme and the programme may be changed at the discretion of the \nDepartment of Periodontology and Oral M edicine.  \nModule Information:  SAQA Credits   ITS Course Level  Code  CESM Code (3rd Order)  \n8 3 090301  \nDelivery Information:  Campus  Full/Part Time  Period (Year/1st/2ndSem)  \nSMU  FT  Y \nPeriods per week:   Classes  Practical  Tutorial  Seminars  Independent \nLearning  \n1 3 0 1 None",
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "DP": 45,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MMXB040",
+    "Name": "Orthodontics II",
+    "Duration": "Year",
+    "Credit": 16,
+    "Description": "- Aetiology and classification of malocclusion  \n- Physiology of Orthodontic tooth movement  \n- Biomechanics of tooth movement  \n- Preventive and interceptive treatment in Orthodontics  \n- Cephalometric analysis and interpretation  \n- Diagnosis, classification and management of cleft lip and palate  \n- Orthodontic case evaluation and treatment planning  \n- Clinical management of Orthodontic cases for the general de ntist  \n 148 Learning Outcomes  At the end of this module, the student will know:  \n- Aetiology and classification of malocclusion  \n- Physiology of Orthodontic tooth movement  \n- Biomechanics of tooth movement  \n- Preventive and interceptive treatment in Orthodontics  \n- Analysis a nd interpretation of cephalometric results  \n- Diagnosis, classification and management of cleft lip and palate  \n- Orthodontic case evaluation and treatment planning  \n- Clinical experience in management of Orthodontic cases for the general \ndentist  \nModule Informatio n: SAQA Credits   ITS Course Level Code  CESM Code (3rd Order)  \n16 3 090309  \nDelivery Information:  Campus  Full/Part Time  Period (Year/1st/2ndSem)  \nSMU  FT Y \nPeriods per week:   Classes  Practicals  Tutorial  Seminars  Independent Learning  \n1x40 min  3x40 min  None None  None",
+    "Prerequisite": {
+      "Code": "OTDN301"
+    },
+    "Corequisite": {
+      "Comment": "None"
+    },
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "DP": 40,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MMXC040",
+    "Name": "Pathology & Radiology of Dento Osseous Anomalies II (Pathology)",
+    "Duration": "Year",
+    "Credit": 20,
+    "Description": "The course is an examination course presented  over one year.  The theory will \nbe presented by the Unit of Oral Pathology with clinical discussions and sessions \nin support of the bony pathology done in unit of Radiology.  The clinical \napplications of radiography completed during BDS 2 and BDS 3 remain  \nexaminable in BDS 4:  \n\uf0b7 Pathology and Radiology of Abnormalities of the Dentition  \n\uf0b7 Pathology and Radiology of Odontogenic Tumours and Cysts  \n\uf0b7 Diseases of Bone  \n\uf0b7 Forensic Odontology   \n 153 Learning Outcomes  The course is aimed to provide both theoretical aspects of hard  tissue pathology \nof the head and neck supported by practical interpretation thereof in the clinical \nsetting.  The content teaches students to interpret and differentiate normal and \npathologic structures on radiographs of the head and neck as performed in \nclinical dental practice.  The course in hard tissue pathology serves as the basis \nfor clinical surgical subjects who will manage/treat the diseases.  \nThe course will also provide the student with a sound basis in Forensic \nOdontology to enable the qualified  dentist to support police investigations when \nrequested to do so.  \nModule Information:  SAQA Credits   ITS Course Level Code  CESM Code (3rd Order)  \n20 3 090309  \nDelivery Information:  Campus  Full/Part Time  Period (Year/1st/2ndSem)  \nSMU  FT y \nPeriods per we ek: Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n2x40 min  2x40 min  None  None  None",
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "DP": 40,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MPEC040",
+    "Name": "Periodontology II",
+    "Duration": "Year",
+    "Credit": 8,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MPRA040",
+    "Name": "Prosthodontics III",
+    "Duration": "Year",
+    "Credit": 40,
+    "Description": "Introduction:  The module is stratified into units which cover the theoretical and \npractical/clinical aspects of complete and partial denture prosthodontics, as well as a \ntechnical course in fixed p rosthodontics. The module is principally clinical. Students \nwill be required to complete a minimum number of clinical and technical procedures \nin removable and fixed prosthodontics respectively.  \nCourse Purpose Statement:  At the end of this module students  will have gained the  \n 169 necessary psychomotor, cognitive and affective skills to undertake clinical practice \nin the field of removable prosthodontics and the techniques associated with the \npractice of fixed prosthodontics, including  knowledge of the associa ted dental \nmaterials used in both laboratory and clinical procedures required in prosthodontics.  \nLearning Outcomes  By the end of this module, students will have the cognitive, affective  and \npsychomotor skills to be able to:  \n\uf0b7 Critically evaluate the influe nce of complete and partial dentures on the \nremaining soft tissues and the underlying bony support  \n\uf0b7 Understand the scope and limitations of complete and partial dentures together \nwith the biocompatibility and physical properties of the materials used their \nconstruction  \n\uf0b7 Understand the socio -economic consequences of tooth loss and replacement, \nthe role of a complete and partial denture service for communities served and in \nrelation to a national oral health policy within a national health service  \n\uf0b7 Develop a bio logic rationale for the restoration of occlusal function and harmony \nin dentate patients and how various types of articulators assist in this process  \n\uf0b7 Perform the technical/practical procedures involved in production of various cast \nrestorations  \nModule Inf ormation:  SAQA Credits   ITS Course Level Code  CESM Code (3rd Order)  \n36 3 090312  \nDelivery Information:  Campus  Full/Part Time  Period \n(Year/1st/2ndSem)  \nSMU  FT Y \nPeriods per week:  36  Weeks  Classes  Clinicals  Tutorial  Seminars  Independent \nLearning  \n2X40 MIN 7 X 1 HR",
+    "Prerequisite": {
+      "Comment": "None"
+    },
+    "Corequisite": {
+      "Comment": "None"
+    },
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "DP": 40,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MDED040",
+    "Name": "Dental Public Health II",
+    "Duration": "Year",
+    "Credit": 12,
+    "Description": "Unit 3:   Public health aspects of dental caries:  Completed in BDS III (Dental \nPublic Health I). Indices to measure dental caries; Epidemiology of dental caries; \nHigh risk and population strategies in managing dental  caries; A food policy in \nrelation to etiology of dental caries, role of sucrose, substitutes, dietary analysis \nand counseling; Fissure sealant programs; Tooth brushing, oral mouth rinse and \nfluoride tablet/drops programs; Water fluoridation; Alternative f luoridation \nmeasures to water fluoridation; Principles and effectiveness of ART and ART as \na public health measure.  \n Unit 4: Programme Development : Introduction to programme Development, \nPlanning and evaluation of oral health care services  \nUnit 5:  Public health aspects of periodontal diseases:  Indices to measure \noral cleanliness and periodontal diseases; Epidemiology of periodontal diseases; \nCommunity -based prevention of periodontal diseases.  \nUnit 6: Public health aspects of dental fluorosis: Indices to me asure dental \nfluorosis; Epidemiology of dental fluorosis; Risk factors for the development of \ndental fluorosis.  \nUnit 7:  Public health aspects of malocclusion: Indices to measure malocclusion; \nEpidemiology of malocclusion; Preventive and interceptive orth odontics on a \ncommunity level.   \nUnit 8:  Public health aspects of other diseases and conditions:  \nEpidemiology of edentulism; Public health aspects of HIV/AIDS; Public health \naspects of premalignant and malignant oral lesions; Public health aspects of oro -\nfacial trauma.  \nUnit 9:  Health care systems: International and the South African health care \nsystems; Factors which influence the planning and evaluation of oral health care \nservices.  \nUnit 10: Health policy: The need for a health policy; South African heal th and \noral health policy; Primary health care.  \nLearning Outcomes  \uf0b7 To understand public health and health promotion  \n\uf0b7 To understand the epidemiology and prevention of oral diseases and \nconditions.  \n\uf0b7 To understand the international health care systems and thei r implications \nfor South African Health Care Systems for the planning of Oral Health \nServices.  \n\uf0b7 To understand Health Promotion and its need for South Africa.  \nModule Information:  SAQA Credits   ITS Course Level Code  CESM Code (3rd Order)  \n12 3 090305  \nDelivery Information:  Campus  Full/Part Time  Period (Year/1st/2ndSem)  \nSMU  FT Y \nPeriods per week:   Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n2 None  None  None  None",
+    "Prerequisite": {
+      "Code": "DEPH302"
+    },
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MCDA040",
+    "Name": "Integrated Clinical Dentistry IV",
+    "Duration": "Year",
+    "Credit": 8,
+    "Description": "Unit I:  Practicing Management in Dentistry  \nUnit II: Research Methodology  \nUnit III: Bio -ethics, human rights and medical law  \nLearning Outcomes  At the end of this module the students will be able to:  \n1. Prepare a business plan for a dental practice  \n2. Explain the principles of research.  \n3. Write a research protocol  \n4. To function in groups  \n5. Apply ethical rules in all cases.  \nModule Information:  SAQA Credits   ITS Course Level Code  CESM Code (3rd Order)  \n8 3 090302  \nDelivery Information:  Campus  Full/Part Time  Period (Year/1st/2ndSem)  \nSMU  FT  Y \nPeriods per week:  38 Weeks  Classes  Practicals  Tutorial  Seminars  Independent \nLearning   \n 99 3 0 0 0 1",
+    "Prerequisite": {
+      "Code": "ICLD301"
+    },
+    "Corequisite": {
+      "Comment": "None"
+    },
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "DP": 40,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MCDA050",
+    "Name": "Comprehensive Clinical Cases",
+    "Duration": "Year",
+    "Credit": 140,
+    "Description": "The student will be required to provide comprehensive dental treatment and care \nfor patients.  \nThe student will recognize and correctly refer patients who need specialist care.  \nThe student will be able to discuss and analyse the ethical implications of the \ntreatment of each patient.  \nThe student will engage in generic processes such as leadership, teamwork, \ncommunity responsibility, etc.  \nLearning Outcome s At the end of this module the students will:  \n1. Be able to provide comprehensive dental treatment and care for patients \naccording to the rules and regulations of the Health Professions Council of \nSouth Africa.  \n2. Be Able to recognize and refer patients who nee d specialist care.  \n3. Be able to discuss and analyse the ethical implications of each treatment \nplan.  \n4. Be able to perform the generic outcomes of tertiary education as specified \nby SAQA  \nModule Information:  SAQA Credits   ITS Course Level Code  CESM Code (3rd Order) \n140 4 090302  \nDelivery Information:  Campus  Full/Part Time  Period (Year/1st/2ndSem)  \nSMU  FT Y \nPeriods per week:  Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n5 26 0 0 y",
+    "Prerequisite": {
+      "Comment": "4TH YEAR MODULES"
+    },
+    "Corequisite": {
+      "Comment": "5TH YEAR MODULES"
+    },
+    "Assessments": [
+      {
+        "Name": "YearMark",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "Examination",
+        "Type": "Coursework",
+        "Weight": 40
+      }
+    ],
+    "DP": 50,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MRDA050",
+    "Name": "Problem Based Learning",
+    "Duration": "Year",
+    "Credit": 12,
+    "Description": "Minimum number of 7 (seven) PBL cases must be included in the po rtfolio  \nLearning Outcomes  At the end of this module the students will  \n1. Know how and where to find knowledge in the literature  \n2. Be able to assess the value of the literature  \n3. Be able to prove that he/she will be a competent life -long learner  \n4. Be able to full f ill a leadership role in a community.  \nModule Information:  SAQA Credits   ITS Course Level Code  CESM Code (3rd Order)  \n12 4 090302  \nDelivery Information:  Campus  Full/Part Time  Period (Year/1st/2ndSem)  \nSMU  FT Y \nPeriods per week:   Classes  Practicals  Tuto rial Seminars  Independent \nLearning  \n0 0.5 4  y",
+    "Prerequisite": {
+      "$and": [
+        {
+          "Code": "MFOS401"
+        },
+        {
+          "Code": "OPDE401"
+        },
+        {
+          "Code": "ORME401"
+        },
+        {
+          "Code": "OTDN401"
+        },
+        {
+          "Code": "PRDA401"
+        },
+        {
+          "Code": "PERI401"
+        },
+        {
+          "Code": "PROS401"
+        },
+        {
+          "Code": "DEPH401"
+        },
+        {
+          "Code": "ICDL401"
+        }
+      ]
+    },
+    "Corequisite": {
+      "$and": [
+        {
+          "Code": "CCLC501"
+        },
+        {
+          "Code": "SELE501"
+        },
+        {
+          "Code": "ELEC501"
+        }
+      ]
+    },
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 100
+      }
+    ],
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MSVA050",
+    "Name": "Service Learning",
+    "Duration": "Year",
+    "Credit": 16,
+    "Description": "1. Service Learning theory: practice and benefits  \n2. Community engagement:  \n3. Clinical practice  \nLearning Outcomes  At the end of this module the student will: be able to conduct situation analysis of \ntarget community; Deliver customer oriented cli nical services; Develop socially \nacceptable skills and values through persistent reflection, lifelong learning, \ntolerance, compromise and sensitivity; Enhance and develop a sense of civic \nresponsibility and altruism  \nModule Information:  SAQA Credits   ITS C ourse Level Code  CESM Code (3rd Order)   \n 183 16 4 090305  \nDelivery Information:  Campus  Full/Part Time  Period (Year/1st/2ndSem)  \nSMU  FT Y \nPeriods per week:   Reflection \nreports  Outreach / \nPhelophepa  Tutorial  Seminars  Independent \nLearning  \n1 x 5/week  1 x 2 wee ks/ \nyear  4 of 2hrs  Y",
+    "Prerequisite": {
+      "Comment": "None"
+    },
+    "Corequisite": {
+      "$and": [
+        {
+          "Code": "CCLC501"
+        },
+        {
+          "Code": "PBLC501"
+        },
+        {
+          "Code": "ELEC501"
+        }
+      ]
+    },
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "DP": 40,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MELA050",
+    "Name": "Electives",
+    "Duration": "Year",
+    "Credit": 8,
+    "Description": "Students must each do an elective project. A report on the project must be \nincluded in the portfolio of work.  \n \nLearning Outcomes  At the end of this module the students will able to:  \n1. Identify a dentally related topic that is not covered in the set curriculum  \n2. Prepare a protocol studying/researching the topic . \n3. Write a full report on the study/research in a publication format.  \nModule Information:  SAQA Credits   ITS Course Level Code  CESM Code (3rd Order)  \n8 4 090302  \nDelivery Information:  Campus  Full/Part Time  Period (Year/1st/2ndSem)  \nSMU  FT Y \nPeriods per w eek:   Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n0 0 0 0 y",
+    "Prerequisite": {
+      "Comment": "None"
+    },
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "DP": 40,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MORH010",
+    "Name": "Oral Health I",
+    "Duration": "Year",
+    "Credit": 16,
+    "Description": "1. Introduction to the dental environment  \n1.1.  Dental orientation  \n1.2.  Role of oral hygiene in dentistry  \n1.3.  Preparation for oral hygiene practice  \n1.4.  Pre-clinical oral hygiene practice  \n2.  Assessment instruments  \n2.1.    Dental terminology  \n2.2.    Dental charting  \n2.3.    Patient assessment forms  \n2.4.    Dental photography  \n2.5.    Patient records  \n3. Oral hygiene process of care  \n3.1.    Dental biofilm and other soft deposits  \n3.2.    Dental  calculus  \n3.3.    Dental stains and discoloration  \n3.4.    The teeth and occlusion  \n3.5.    The periodontium  \n3.6.    Patient examination  \n3.7.    Principles of instrumentation  \n4. Dental hygiene Diagnosis and Care Planning  \n4.1.    Oral Hygiene diagnosis and pr ognosis  \n4.2.    Dental hygiene care plan  \n4.3.    Oral hygiene treatment plan  \n5. Oral hygiene preventative procedures  \n5.1.     Patient instruction, education and motivation  \n5.2.     Diet and dietary analysis  \n5.3.     Mechanical and chemical plaque control  \n5.4.     Occlusal guard and care of dental appliances  \n5.7.     Fluorides  \n5.8.    Sealants  \n6. Oral hygiene treatment procedures  \n6.1.     Instrument care and sharpening  \n6.2.     Non-surgical periodontal therapy and adjunctive therapy  \n6.3.     Application of d esensitising agents  \n6.4.     Polishing  \n6.5.      Application of sealants and fluoride  \nLearning Outcomes  At the end of the module, the student will be able to:  \n\uf0b7 Know the different types of instruments  \n\uf0b7 Receive and position the patient in the dental chair  \n\uf0b7 Collect, record and analyse data on general, oral and psycho -social \nhealth  \n\uf0b7 Identify and know the difference between the soft deposits  \n\uf0b7 Identify types and characteristics of tooth stains, and know the removal \nprocedures   \n 129 \uf0b7 Identify the types of disclosing agents a nd know the application \ntechniques  \n\uf0b7 Know the characteristics and components of a toothbrush  \n\uf0b7 Know the different tooth brushing methods  \n\uf0b7 Know about the col area, interdental plaque control devices, and auxiliary \nplaque control methods  \n\uf0b7 Know what is a prophylact ic and a non -therapeutic dentifrice  \n\uf0b7 Explain the principles of patient motivation  \n\uf0b7 Know the classification and clinical procedure for fissure sealants  \n\uf0b7 Know the role of nutrition in oral health  \n\uf0b7 Know the types and uses of audio -visual materials  \n\uf0b7 Demonstrate kno wledge of various dental therapeutic treatments that are \ndelivered in accordance to the oral hygiene treatment plan.  \nModule Information:  SAQA Credits  ITS Course Level \nCode  CESM Code (3rd \nOrder)  \n16 3 090402  \nDelivery Information: 33 weeks  Campus  Full/Par t Time  Period \n(Year/1st/2ndSem)  \nSMU  FT Y \nPeriods per week:    Classes  Practical  Tutorial  Seminars  Independent \nLearning  \n \n2x40 min  \n 2x2 hrs   None  None",
+    "Prerequisite": {
+      "Comment": "None"
+    },
+    "Corequisite": {
+      "Comment": "None"
+    },
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 100
+      }
+    ],
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MRAB010",
+    "Name": "Radiography I",
+    "Duration": "Year",
+    "Credit": 12,
+    "Description": "UNIT 1:  RADIATION PHYSICS  \nComposition of matter, Nature of radiation, the x -ray machine, Production of x-\nrays, Factors influencing the x -ray beam, interactions of x -rays with matter, \ndosimetry - \nRadiographic contrast -Film contrast, Subject contrast, Film speed, Film fog  \nImage receptors -Dental direct exposure film, Dental indirect exposure film, Film \ncomposit ion, Intra -oral film packet,  Cassettes and screens  \nThe darkroom; Automatic processing procedure, Manual processing procedure,  \nUNIT 2:  RADIATION BIOLOGY  \nIntroduction, Radiation chemistry, Radiation effects at the tissue and organ \nlevel, Effects of whole body irradiation  \nUNIT 3:  RADIATION SAFETY AND PROTECTION  \nPrinciples of exposure and dose reduction, principle of ALARA,protection of \npersonnel, guidelines for the prescription of radiographs  \nLearning Outcomes:  At the end of this module the student will  \n\uf0b7 Be able to understand and apply the principles of radiation physics to the \nformation of x -rays, the workings of the x -ray machines and the different \nimage receptors available to the dental team.  \n\uf0b7 Know and be able to explain the effects of radiation on the b iological \nsystems.  \n\uf0b7 Be able to apply safety and protection measures in dental radiography  \n\uf0b7 Know the guidelines for the prescription of radiographs  \n \nModule Information:  SAQA Credits  \n(4; 8; 12; 16; 20; 24; \n28;32)   ITS Course Level  CESM Code (3rd \nOrder)  \n(Six Numbers)  \n12 3 090399  \nDelivery Information:  Campus  Full/Part Time  Period  \n(Year/1st/2ndSem)  \nSMU  FT Y \nPeriods per week:  Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n  1  0 None  None  None",
+    "Prerequisite": {
+      "Comment": "None"
+    },
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 100
+      }
+    ],
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MEHS010",
+    "Name": "English for Health Sciences",
+    "Duration": "Year",
+    "Credit": 12,
+    "Prerequisite": {
+      "Comment": "None"
+    },
+    "Corequisite": {
+      "Comment": "None"
+    },
+    "Assessments": [
+      {
+        "Name": "FormAssessMark",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "DP": 40,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MBEH010",
+    "Name": "Behavioural Science",
+    "Duration": "Year",
+    "Credit": 16,
+    "Description": "Pharmacokinetics, Pharmacodynamics, Solutions and concentrations  \nMedicines and the Peripheral and Central Nervous System  \nAnaesthetics, analgesics and anti -inflammatory medicines  \nChemo therapeutic drugs; Minerals and Vitamins, Cardiovascular, Respiratory, \nGastrointestinal and Endocrine systems\u2019 medicines as well as Legislation and \nPrescription writing  \nLearning Outcomes  The student will be able to :  \n\uf0b7 Demonstrate critical thinking and unde rstanding regarding solutions and \nconcentrations, Pharmacokinetics, Pharmacodynamics, Medicines and the \nPeripheral Nervous system, Anaesthetics, analgesics and anti -inflammatory \nmedicines, Chemotherapeutic drugs, Minerals and Vitamins, \nCardiovascular, Resp iratory, Gastrointestinal and Endocrine systems\u2019 \nmedicines as well as Legislation and Prescription writing , Predict and \nmonitor the side -effects of common drugs and identify adverse effects of \ndrug reactions  \n\uf0b7 Integrate the principles and practice of rationa l drug use and appreciate the \nimportance of life -long learning regarding drug development and treatment \nguidelines  \nModule Information:  SAQA Credits  ITS Course Level  CESM Code (3rd Order)  \n(Six Numbers)   \n 59 12 2 130901  \nDelivery Information:  Campus  Full/Part  Time  Period  \n(Year/1st/2ndSem)  \nSMU  Contact \u2013 Fulltime  Y \nPeriods per week: 36  Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n2x40 min  0 1x40 min  0 1",
+    "Prerequisite": {
+      "Comment": "None"
+    },
+    "Corequisite": {
+      "Comment": "None"
+    },
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "DP": 40,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MDEA010",
+    "Name": "Dental Public Health I",
+    "Duration": "Year",
+    "Credit": 8,
+    "Description": "Unit 1:  Introduction to Dental Public Health : To understand Philosophy, \nterminology, definitions and principles of dental public health; Philosophy , terminology, \ndefinitions and principles of epidemiology and epidemiological indices; Concepts of \nhealth and disease. Natural history of diseases/Levels and Phases of prevention  \nUnit  2: Oral health promotion: Philosophy, terminology, definitions and prin ciples of \nhealth promotion; Approaches to health promotion; Health promotion charters; Health \npromotion initiatives in South Africa; A planning cycle for oral health education; The \nrole of communication in oral health education.  \nUnit 3:   Public health asp ects of dental caries:  Indices to measure dental caries; \nEpidemiology of dental caries; High risk and population strategies in managing dental \ncaries; A food policy in relation to etiology of dental caries, role of sucrose, \nsubstitutes, dietary analysis an d counselling; Fissure sealant programs; Tooth \nbrushing, oral mouth rinse and  fluoride tablet/drops programs; Water fluoridation; \nAlternative fluoridation measures to water fluoridation; Principles and effectiveness of \nART and ART as a public health measu re. \nUnit 4:  Public health aspects of periodontal diseases:  Indices to measure oral \ncleanliness and periodontal diseases; Epidemiology of periodontal diseases; \nCommunity -based prevention of periodontal diseases.  \nUnit 5: Public health aspects of dental fluo rosis: Indices to measure dental \nfluorosis; Epidemiology of dental fluorosis; Risk factors for the development of dental  \n 72 fluorosis.  \nLearning Outcomes:  \uf0b7 Introduction to Dental Public Health  \n\uf0b7 To e xplain the philosophy, terminology, definitions and principles of Dental \nPublic Health and how this differs from the private sector  \n\uf0b7 Explain the role of epidemiology and epidemiological indices in Dental \nPublic Health  Understand multiple causation of diseases.  \n\uf0b7 Explain the concepts of health and disease, determinants of  health as well \nas the principles of prevention and how these are applied to dentistry. To \nunderstand Concepts of health and disease. Natural history of \ndiseases/Levels and Phases of prevention.  Understand the phases of \nprevention of disease.  \n\uf0b7 Define epidemi ology  \n\uf0b7 Understand the principles of epidemiology and the purpose for which \nepidemiological investigations are carried out.  \n\uf0b7 Understand  multiple causation of disease  \n\uf0b7 Health promotion  \n\uf0b7 Recall the terminology used in health promotion, Understand the principles \nand philosophy of health promotion.  \n\uf0b7 Understand the range , strengths and limitations  of different approaches to \nhealth promotion.  \n\uf0b7 Differentiate between a mix of approaches that may be appropriate to health \npromotion  \n\uf0b7 Differentiate between a mixes of approach es that may be appropriate to \nhealth promotion.  \n\uf0b7  Understand the purpose and content of the health promotion charters.  \n\uf0b7  Use the content of the charters as guidelines for health promotion  \n\uf0b7  Understand the rich history of health promotion and the development o f   \nprogressive health organisations in South Africa.  \n\uf0b7       Analyse what is happening in the era of change in South Africa \nregarding health promotion.  \n\uf0b7 Illustrate your understanding of epidemiological terms and indices  \n\uf0b7 Understand the indices used to measure  dental caries  \n\uf0b7 Understand factors that contribute to the incidence and prevalence of dental \ncaries.  \n\uf0b7 Illustrate how these factors (individually and or jointly) contribute to the \nincidence and prevalence of dental caries.  \n\uf0b7 Understand the objectives set for ca ries prevalence by the WHO and South \nAfrica  \n\uf0b7 Judge an epidemiological article on dental caries  \n\uf0b7 Understand the implication of prevalence of dental caries on high risk and \npopulation strategies  \n\uf0b7 Understand the implications of caries prevalence for professional s. \n\uf0b7 Understand the high risk and population approaches in the management of \ndental caries.  \n\uf0b7 Understand the implications of both strategies for the prevention of dental \ncaries  \n\uf0b7 A food/sugar policy in relation to aetiology of dental caries  \n\uf0b7 Explain the elements and contents of a food/sugar policy  \n\uf0b7 Understand the relation of a food/sugar policy to dental caries  \n\uf0b7 Public health aspects of periodontal disease  \n\uf0b7 Understand factors that contribute to the incidence and prevalence of oral \ncleanliness and periodontal diseases . \n\uf0b7 Illustrate how these factors (individually and or jointly) contribute to the \nincidence and prevalence of oral cleanliness and periodontal diseases.  \n\uf0b7 Judge an epidemiological article on periodontal diseases.  \n\uf0b7 Understand periodontal disease as a public healt h problem.  \n\uf0b7 Understand strategies for improving community periodontal health   \n 73 \uf0b7 Public health aspects of dental fluorosis,  \n\uf0b7 Understand factors that contribute to the incidence and prevalence of dental \nfluorosis.  \n\uf0b7 Illustrate how these factors (individually and or  jointly) contribute to the \nincidence and prevalence of dental fluorosis.  \n\uf0b7 Critique an epidemiological article on dental fluorosis  \n\uf0b7 Understand dental fluorosis as a public health problem  \n\uf0b7 Understand the risk factors for developing dental fluorosis  \n \nModule In formation:  SAQA Credits  \n(4; 8; 12; 16; 20; 24; \n28;32)   ITS Course Level  CESM Code (3rd Order)  \n(Six Numbers)  \n8 3 090305  \nDelivery Information:  Campus  Full/Part Time  Period  \n(Year/1st/2ndSem)  \nSMU  FT Y \nPeriods per week:  Classes  Practicals  Tutorial  Semina rs Independent Learning  \n1 None  None  None  None",
+    "Prerequisite": {
+      "Comment": "None"
+    },
+    "Corequisite": {
+      "Comment": "None"
+    },
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 100
+      }
+    ],
+    "DP": 40,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MPHL010",
+    "Name": "Physiology",
+    "Duration": "Year",
+    "Credit": 8,
+    "Description": "GENERAL PHYSIOLOGY  \nSystems of the body as a broad overview of the chemical and mechanical \nprocesses that occur in the human body as a whole, with emphasis on the \nprocesses and mechanisms that play a major role in the oral cavity including \nfunctional organization of human body and homeostasis, the cell and its \nfunctions, neuronal physiology, special senses, blood vessels, blood pressure \nand blood, cardiac, muscular, respiratory and digestive physiology, body  \ndefenses and endocrinology.  \nLearning Outcomes  The student will be able to, in the context of an oral hygienist - \n\uf0b7 demonstrate an understanding of:  \n\uf0b7 the contribution of the different body systems to the maintenance of \nhomeostasis, as well as the mechanisms which give rise to associated \npathophysiology.  \n\uf0b7 the levels of structural complexity within the body   \n 163 \uf0b7 the functional organization of the human body and homeostasis  \n\uf0b7 major systems, their major components and functions  \n\uf0b7 components of the cell, cytoskeleton, the f unctions of the cell and the \nprocess of cell division  \n\uf0b7 process of osmosis and diffusion, active versus passive transport which \nexplains how molecules move within and between body compartments  \n\uf0b7 the functions of the nervous system, which includes the nerve ce lls and the \nmuscle cells and the response of nervous tissue injury.  \n\uf0b7 the structure, components and functions of the central nervous system and \nthe effects of autonomic nervous system on various organs.  \n\uf0b7 the structure and functions of the central and peripher al nervous system.  \n\uf0b7 the structure and functions of the respiratory system  \n\uf0b7 the structure and functions of the urinary system  \n\uf0b7 the structure and functions of the digestive system  \n\uf0b7 structure and function of the heart and determinants of cardiac output.  \n\uf0b7 the speci alized group of sensory receptors found outside the brain in the \nears, eyes, nose and oral cavity.  \n\uf0b7 the structure, function of blood vessels and various blood cells and the \nstages involved in haemostasis  \n\uf0b7 the structure and function of the endocrine system an d the actions of \nvarious hormones on the body.  \nModule Information:  SAQA Credits   ITS Course Level Code  CESM Code (3rd Order)  \n8 3 130801  \nDelivery Information:  Campus  Full/Part Time  Period (Year/1st/2ndSem)  \nSMU  FT Y \nPeriods per week:   Classes  Practic als Tutorial  Seminars  Independent \nLearning  \n2 0 0 0 Y",
+    "Prerequisite": {
+      "Comment": "None"
+    },
+    "Corequisite": {
+      "$and": [
+        {
+          "Code": "CHM130M"
+        },
+        {
+          "Code": "ANTM120"
+        }
+      ]
+    },
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "DP": 40,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MCHY010",
+    "Name": "Chemistry IB",
+    "Duration": "Year",
+    "Credit": 16,
+    "Description": "Properties of matter, changes of  state, energy and the composition of matter. \nStructure of matter: The atom, fundamental particles, structure of the atom and the \nperiodic chart. Chemical bonding: Molecules, electrovalent bonds and covalent \nbonds; Chemical equations: Symbols and formulae,  types of chemical reactions \nand reaction rates. Oxidation/reduction. Water: Properties, purification and \nhardness. Liquid mixtures: Solutions, suspensions, colloids and emulsions. Acids, \nbases and salts, ionization and pH. Oxygen oxides, hydrogen, halogen s, nitrogen, \ncarbon and metals. Hydrocarbons, alcohols, phenols, aldehydes, ketones, acids \n(fatty acids, salicylic acid and lactic acid) and antibiotics. Esters, ethers and \namines. Carbohydrates: Monosaccharide\u2019s, disaccharides and polysaccharides. \nLipids and proteins.  \nLearning Outcomes:  \uf0b7 Recognize the variable composition of matter and energy and its ability to \nchange  \n\uf0b7 Associate the sub -microscopic structure of matter with its physical and \nchemical behavior  \n\uf0b7 Understand the forces of cohesion in compounds  \n\uf0b7 Apply chemical shorthand to represent reactions an identify reaction types  \n\uf0b7 Understand the extraordinary properties of water and the diversity of aqueous \nmixtures  \n\uf0b7 Identify acidic properties of aqueous solutions and the use of the pH scale  \n\uf0b7 Recognize important g roups of inorganic compounds  \n\uf0b7 Identify the major organic compound groups with emphasis on the more \nbiological entities   \n 68 \uf0b7 Associate natural molecules such as monosaccharide\u2019s, disaccharides,             \npolysaccharides proteins and lipids to fundamental life f unctions  \nModule Information: 18 weeks  SAQA Credits   ITS Course Level \nCode  CESM Code (3rd Order)  \n16 03 140401  \nDelivery Information:  Campus  Full/Part Time  Period  \nSMU  Full Time  S 1 \nPeriods per Week:  Classes  Practical  Tutorial  Seminars  Independent \nLear ning  \n7x40 min  1x1hr",
+    "Prerequisite": {
+      "Comment": "None"
+    },
+    "Corequisite": {
+      "Comment": "None"
+    },
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "DP": 40,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MIOM010",
+    "Name": "Oral Microbiology",
+    "Duration": "Year",
+    "Credit": 8,
+    "Description": "Overview of in fectious diseases of importance to Dentistry; bacteria, viruses \nand fungi; determinants of pathogenicity; host defense mechanisms against \ninfection; infections of relevance to Dentistry; normal oral flora; oral Ecology; \nMicrobiology and Immunology of carie s and periodontal disease; dentoalveolar \ninfections, bacterial, viral and fungal infections of oral soft tissue; infection \ncontrol in Dentistry.  The module will be presented as formal lectures, case \npresentations and tutorials . \nLearning Outcomes:  After co mpletion of the course students should be able to explain, in simple \nterms, the association between oral disease and infective agents.  \nModule Information:  SAQA Credits  \n(4; 8; 12; 16; 20; 24; \n28;32)   ITS Course Level  CESM Code (3rd \nOrder)  \n(Six Numbers)  \n4 3 090304  \nDelivery Information:  Campus  Full/Part Time  Period  \n(Year/1st/2ndSem)  \nSMU  Full Time  Year  \nPeriods per week:  Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n1 None  None  None  None",
+    "Prerequisite": {
+      "Comment": "None"
+    },
+    "Corequisite": {
+      "Comment": "None"
+    },
+    "Assessments": [
+      {
+        "Name": "YearMark",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "ExamMark",
+        "Type": "Coursework",
+        "Weight": 40
+      }
+    ],
+    "DP": 40,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MANB111",
+    "Name": "Anatomy",
+    "Credit": 8,
+    "Duration": "Semester",
+    "Period": [
+      1
+    ],
+    "Description": "Introduction to anatomy and anatomical terminology, introduction to bones and \njoints, osteology of the skull, facial muscles, muscles of mastication, temporo -\nmandibular joint, oral cavity, the tongue, the palate, gingivae, nasal cavity and \nparanasal sinuses, blood supply of the head, lymphatic drainage of the head, \nbrain and cranial  nerves, the thorax organs and blood supply  \nLearning Outcomes  Students will:  \n\uf0b7 Know and classify different bones and joints of the skull and thorax  \n\uf0b7 Understand various groups of muscles in and around oral region  \n\uf0b7 Understand the blood supply of the head, neck and thorax  \n\uf0b7 Understand the nerve supply of the head, neck and thorax  \n\uf0b7 Understand the lymphatic drainage of the head and neck  \n\uf0b7 Understand the basic anatomy of the brain  \n\uf0b7 Understand the cranial nerves and those supplying the oral region  \n\uf0b7 Understand the basic stru cture and arrangement of the contents of the \nthoracic cavity  \nModule Information:  SAQA Credits   ITS Course Level Code  CESM Code (3rd Order)  \n8 3 130402  \nDelivery Information:  Campus  Full/Part Time  Period (Year/1st/2ndSem)  \nSMU  FT S1 \nPeriods per week: (F irst semester)   Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n4 x 40  mins  1 x 2 hrs  None  None  None   \n 55 Prerequisite: None",
+    "Corequisite": {
+      "Comment": "None"
+    },
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "DP": 40,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MORB010",
+    "Name": "Oral Biology",
+    "Duration": "Year",
+    "Credit": 12,
+    "Description": "Development, structure, function and age related c hanges of the various \ncompo nents of the oral cavity, prenatal development and the development of \nthe face and neck the development of the oro -facial structures and teeth, \nmacroscopic and microscopic characteristic features of the dental tissues, oral \nmucos a and specialized oral mucosa, salivary glands, temporomandibular joint  \nand dental anatomy  \nLearning Outcomes:  1. General characteristic features of the oral cavity, regions of the face and \nneck and divisions of the oral cavity, dental and specialized support ing \napparatus of the tooth, innervation, blood supply and lymphatic drainage \nof the oral cavity  \n2. Prenatal development, development of the face and neck  \n3. Stages of odontogenesis, amelogenesis , dentinogenesis and the \ndevelopment of the dentin -pulp complex an d periodontium, tooth eruption  \n4. Composition, characteristic histological features of enamel, dentin and \nperiodontium and age changes in enamel, dentin and periodontium  \n5. Development, classification, structure and function of oral mucosa and \noral connective ti ssue  \n6. Development, classification, structure and function of salivary glands and \nsaliva  \n7. Development, structure, components, classification of the TMJ joint  \n8. Dental anatomy  \nModule Information:  SAQA Credits  \n  ITS Course Level  CESM Code (3rd \nOrder)  (Six Numbe rs) \n8 3 090304  \nDelivery Information:  Campus  Full/Part Time  Period  \n(Year/1st/2ndSem)  \nSMU  Full Time  Year  \nPeriods per week:  Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n1 None  None  None  None",
+    "Prerequisite": {
+      "Comment": "None"
+    },
+    "Corequisite": {
+      "Code": "MANB011"
+    },
+    "Assessments": [
+      {
+        "Name": "YearMark",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "ExamMark",
+        "Type": "Coursework",
+        "Weight": 40
+      }
+    ],
+    "DP": 40,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MICL010",
+    "Name": "Integrated Clinical Dentistry I",
+    "Duration": "Year",
+    "Credit": 16,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MSPC020",
+    "Name": "Special Patient Care I",
+    "Duration": "Year",
+    "Credit": 28,
+    "Description": "Oral health for the pregnant patient and family, O ral care for the cleft lip/palate \npatient, the cancer patient, and the patient of all ages.  The management of the \npatient with a disability, homebound, bedridden or helpless.  The oral findings,  \n 184 management and treatment of the patient with epilepsy, diabe tes, a \ncardiovascular disease or blood disorder.  The characteristics, management and \ntreatment of the mentally retarded patient or a patient with a mental disorder, and \nthe substance abuse patient.  Oral manifestation of HIV/AIDS, management of \ncommon ora l HIV/AIDS lesions, Voluntary counselling and testing.  \nLearning Outcomes  At the end of the module, the student will be able to: Know the oral hygiene \nmanagement of medically compromised patients. Describe how to provide oral \nhygiene care to patients with physical disabilities. Manage the oral hygiene of the \nmentally retarded and mental disorders, and the substance abuse patient  \nModule Information:  SAQA Credits   ITS Course Level Code  CESM Code (3rd Order)  \n28 3 090402  \nDelivery Information:  Campus  Full/Pa rt Time  Period (Year/1st/2ndSem)  \nSMU  FT Y \nPeriods per week:   Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n2 1 1 None  None",
+    "Prerequisite": {
+      "Code": "SPPC201"
+    },
+    "Corequisite": {
+      "Comment": "None"
+    },
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "DP": 40,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MSPA020",
+    "Name": "Specialized Clinical Dentistry",
+    "Duration": "Year",
+    "Credit": 28,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MPEA020",
+    "Name": "Periodontology & Oral Medicine",
+    "Duration": "Year",
+    "Credit": 20,
+    "Description": "(i) Periodontology : Embryology, Anatomy and history of the periodontium, \nAetiology and periodontal diseases, The prevention of periodontal \ndiseases, Histopathogenesis and immunopathogenesis of periodontal \ndisease, Gingivitis, Periodontitis, Classification of periodo ntal diseases, \nPeriodontal po cketing, Radio logy of periodontal disease, Furcations, \nRecession, The initial phase of therapy, The maintenance phase of \ntherapy, The role of the oral hygienist in specialist practice.  Placement and  \n 160 removal of periodontal sutures and packs.  \n (ii) Oral Pathology  \n Acute a nd Chronic Inflammation:  The acute inflammatory reaction in the \noral cavity; Complications of acute inflammation in the oral cavity; the \nchronic inflammatory reaction in the oral cavity; Complications of chronic \ninflammation in the oral cavity.  \n Assessmen t criteria:  You will be able to:  Explain the signs and symptoms \nof acute inflammation in the oral cavity; predict the complications of \nuntreated acute inflammation in the oral cavity; explain the signs and \nsymptoms of chronic inflammation in the oral cav ity; predict the \ncomplications of untreated chronic inf lammation in the oral cavity.  \nLearning Outcomes  At the end of the module, the student will be able to:  \n\uf0b7 Understand the non -surgical phase of periodontal therapy  \n\uf0b7 Understand the pathogenesis of periodon tal disease  \n\uf0b7 Know  the classification of periodontal diseases  \nModule Information:  SAQA Credits   ITS Course Level Code  CESM Code (3rd Order)  \n20 3 090311  \nDelivery Information:  Campus  Full/Part Time  Period \n(Year/ 1st/2ndSem)  \nSMU  FT Y \nPeriods per week:    Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n1 1 None  None  None",
+    "Prerequisite": {
+      "$and": [
+        {
+          "Code": "ANTM120"
+        },
+        {
+          "Code": "ORBI130"
+        }
+      ]
+    },
+    "Corequisite": {
+      "Comment": "None"
+    },
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 100
+      }
+    ],
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MMXC020",
+    "Name": "Radiography II",
+    "Duration": "Year",
+    "Credit": 8,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MACA020",
+    "Name": "Academic Skills II",
+    "Duration": "Year",
+    "Credit": 16,
+    "Description": "Advanced Reading and Writing competencies including:  \n\uf0b7 Literature search and review  \n\uf0b7 Writing the review  \n\uf0b7 Oral presentation of the review  \n\uf0b7 Computer skills: PowerPoint presentation  \nLearning Outcomes   \nModule Information:  SAQA Credits   ITS Course Level Code  CESM Code (3rd Order)  \n16 2 110205  \nDelivery Information:  Campus  Full/Part Time  Period ( Year/ 1st/2ndSem)  \nSMU  FT Y \nPeriods per week:   Classes  Practicals  Tutorial  Seminars  Indep endent \nLearning  \n5 None  None  None  None",
+    "Prerequisite": {
+      "Comment": "None"
+    },
+    "Corequisite": {
+      "Comment": "None"
+    },
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 100
+      }
+    ],
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MDEA020",
+    "Name": "Dental Public Health II",
+    "Duration": "Year",
+    "Credit": 4,
+    "Description": "Unit 6 :  Public health aspects of malocclusion: Indices to measure \nmalocclusion; Epidemiology of malocclusion; Preventive and interceptive \northodontics on a community level.  \nUnit 7:   Public health aspects of other diseases and conditions:  Epidemiology \nof edentulism; Public health aspects of HIV/AIDS; Public health aspects of \npremalignant and malignant oral lesions; Public h ealth aspects of oro -facial \ntrauma.  \nUnit 8:  Health care systems: International and the South African health care \nsystems; Factors which influence the planning and evaluation of oral health \ncare services.  \nUnit 9: Health policy: The need for a health policy ; South African health and \noral heal th policy; Primary health care.  \nUnit 10: Service Learning and Community Engagements: Definition of service \nlearning (SL) and CE. The importance of SL and CE in student learning and \ncommunity service. Structured reflectio ns and SR Framework.   \nLearning Outcomes:  Public health aspects of malocclusion   \nTo know and understand the indices used to measure malocclusion  \nTo know, understand and be able to define the epidemiology of and discuss the \netiologic and contributory fact ors of malocclusion  \nEtiological factors involved in malocclusion  \nTo be able to discuss Host factors, genetic factors, Race Gender, Age and \nhabits and environmental Factors such as diet, malnutrition, and agent factors \nas contributing towards malocclusion.  Agent Factors like dental caries  \nPeriodontal disease, Trauma, Poliomyelitis and allergies \u2013 as leading causes of \nabnormal breathing, muscle tone and eventually malocclusion  \nElucidate factors affecting treatment of malocclusion and those that can \nimproveme nts in personal appearance,  \nSelf-perception and self -esteem. Understand that peer pressure and social \nclass can also influence uptake of orthodontic treatment and varies according  \n 75 to culture and societal norms, which may vary from one place to another.  \n To appraise the levels of malocclusion in South Africa  \nPublic health aspects of other diseases and conditions",
+    "Prerequisite": {
+      "Code": "MDEA010"
+    },
+    "Corequisite": {
+      "Comment": "None"
+    },
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "DP": 40,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "METB020",
+    "Name": "Ethical Practice Management I",
+    "Duration": "Year",
+    "Credit": 4,
+    "Description": "Unit 1 : Bio -ethics, Human Rights and Health Law - Informed consent, medical \nmalpractice, vulnerable populations.  \nUnit 2 : Professional Ethics \u2013 Background of dental profession, Structures and \nfunctions of HPCSA, Professionalisat ion of oral health care workers, professional \nattitudes, principles of ethical conduct, core values of ethics, Patient\u2019s rights \ncharter. Patients\u2019 responsibilities.  \nUnit 3: Practice management in dentistry - Principles and values for successful \nmanagement o f a practice, functional areas of management, the oral  \n 85 hygienist/dental therapist as a practice manager, management of health care \nwaste in dental practice, entrepreneurship and basic marketing strategies, forms \nof business contracts.  \nLearning Outcomes  At the end of this unit the student will:  \n\uf0b7 Understand the principle of bio -ethics, especially ethical issues in mental \nhealth, vulnerable populations and issues of informed consent.  \n\uf0b7 Understand the HPCSA structures and functions, including the guidelines \nfor the scope and activities of the Oral Hygienist and the Dental Therapist.  \n\uf0b7 Explain the relevance of ethics in health field, apply the patients\u2019 rights \ncharter in clinical setting.  \n\uf0b7 Understand HPCSA guidelines pertaining to medical certificates, issues \nrelated  to HIV/AIDS and disclosure of information  \n\uf0b7 Describe the basic principles of management, functions of management.  \n\uf0b7 Explain the importance of health care waste management,  Understand \nthe meaning of entrepreneurship and apply basic marketing strategies,  \n\uf0b7 Understand the different forms of business contracts.  \nModule Information:  SAQA Credits   ITS Course Level Code  CESM Code (3rd Order)  \n4 3 091901  \nDelivery Information:  Campus  Full/Part Time  Period (Year/1st/2ndSem)  \nSMU  FT Y \nPeriods per week:  3 6 weeks  Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n1X40 MIN  None  None  None  None",
+    "Prerequisite": {
+      "Comment": "All first year modules"
+    },
+    "Corequisite": {
+      "Comment": "None"
+    },
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 1
+      },
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 2
+      }
+    ],
+    "DP": 50,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MAOR012",
+    "Name": "Applied Oral Pathology",
+    "Duration": "Year",
+    "Credit": 4,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MPYA021",
+    "Name": "Applied Pharmacology S1",
+    "Credit": 8,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MORB030",
+    "Name": "Oral Medicine",
+    "Duration": "Year",
+    "Credit": 12,
+    "Description": "The language of oral medicine, history taking  and examination of the soft \ntissues, diagnostic procedures for lesions in and surrounding the oral cavity, \nbacterial infections of the oral cavity, viral infections of the oral cavity and fungal \ninfections of the oral cavity, primary and recurrent oral ul cerative lesions, white \nlesions of the oral cavity, systemic and dermatologic conditions of clinical \nrelevance, lesions of the tongue, taste disturbance, medically compromised \npatients and primary resuscitation, treatment of oral conditions within the scop e \nof the Oral Hygienist  \n \nLearning Outcomes:  \uf0b7 Definition of oral medicine and the terminology used in oral medicine \nUnderstanding of patient evaluation including history taking.  \n\uf0b7 Recognizing and managing viral, bacterial and fungal infections in the oral \ncavity. \n\uf0b7 Identifying HIV related oral disease, be able to identify these infections, \nand either manage the lesions that fall within the scope of an oral hygienist \nor refer to a specialist  \n\uf0b7 Taking cytological smears  \n\uf0b7 Removal of sutures  \n \nModule Information:  SAQA Credits  \n(4; 8; 12; 16; 20; 24; \n28;32)   ITS Course Level  CESM Code (3rd \nOrder)  \n(Six Numbers)  \n12 3 090399  \nDelivery Information:  Campus  Full/Part Time  Period  \n(Year/1st/2ndSem)  \nSMU  Full Time  Year = 3rd  \nPeriods per week:  Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n1 none  none  none  none",
+    "Prerequisite": {
+      "Code": "MPEA020"
+    },
+    "Corequisite": {
+      "Comment": "none"
+    },
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "DP": 40,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MSPB030",
+    "Name": "Specialized Clinical Dentistry: Clinical Practice",
+    "Duration": "Year",
+    "Credit": 32,
+    "Prerequisite": {
+      "Code": "MPCD020"
+    },
+    "Corequisite": {
+      "Comment": "None"
+    },
+    "Assessments": [
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 60
+      }
+    ],
+    "DP": 40,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MSPD030",
+    "Name": "Special Patient Care II",
+    "Duration": "Year",
+    "Credit": 32,
+    "Description": "Management of a patient with implants -types of dental implants, implant \ninterfaces, peri -implant hygiene, maintenance  \nCarpal tunnel syndrome  \nBleaching agents  \nClinical case writing and presentation  \nElective research topic \u2013special patients  \nLearning Outcomes  At the end of the module, the student will be able to:  \n\uf0b7 Know how to manage a patient with implants  \n\uf0b7 Know how to apply cosmetic agents  \n\uf0b7 Demonstr ate how to compile a case study  \n\uf0b7 Demonstrate knowledge of how research findings and conclusions are \nprepared and presented according to the required research format.  \nModule Information:  SAQA Credits   ITS Course Level Code  CESM Code (3rd Order)  \n32 3 09040 2 \nDelivery Information:  Campus  Full/Part Time  Period (Year/1st/2ndSem)  \nSMU  FT Y \nPeriods per week:   Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n2 1 1 None  None",
+    "Prerequisite": {
+      "Code": "SPPC201"
+    },
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "DP": 40,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MMXD030",
+    "Name": "Radiography III",
+    "Duration": "Year",
+    "Credit": 12,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MDEA030",
+    "Name": "Dental Public Health III",
+    "Duration": "Year",
+    "Credit": 8,
+    "Description": "Content  \nProgramme planning  \nService Learning :  \n\uf0b7 Service Learning Theory:  \n\uf0b7 Practice and benefits:  \n\uf0b7 Community engagement,  \n\uf0b7 Clinical practice  \n \nLearning Outcomes:   \nProgramme planning  \nRecall the sequence of events when planning health education programmes in \ncommunities  \nUnderstand the need for planning, managing and implementing programmes  \nUnderstand the need to conduct a comprehensive situation analysis when \nplanning health education programmes  \nUse the logic  model to plan, monitor & evaluate a programme  \n \nService learning  \nAt the end of this module the student will: be able to conduct situation analysis \nof target community; Deliver customer  oriented clinical services; Develop \nsocially acceptable skills and val ues through persistent reflection, lifelong \nlearning, tolerance, compromise and sensitivity; Enhance and develop a sense \nof civic responsibility and altruism.  \nModule Information:  SAQA Credits  \n(4; 8; 12; 16; 20; 24; \n28;32)   ITS Course Level  CESM Code (3rd \nOrder)  \n(Six Numbers)  \n8 3 090305  \nDelivery Information:  Campus  Full/Part Time  Period  \n(Year/1st/2ndSem)   \n 77 SMU  FT Y \nPeriods per week:  Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n1 None",
+    "Prerequisite": {
+      "Code": "MDEA020"
+    },
+    "Corequisite": {
+      "Comment": "None"
+    },
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "DP": 40,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "META030",
+    "Name": "Ethical Practice Management II",
+    "Duration": "Year",
+    "Credit": 8,
+    "Description": "Unit 1: Bio -ethics, Human Rights and hea lth law  \no Subunit 1. Human rights and Health law  \no Subunit 2. Research Ethics  \no Subunit 3. Use of human tissue  \no Subunit 3. Health and the environment  \no Subunit 4. Resource allocation  \no Subunit 5. Business Ethics  \nUnit 2: Professional ethics  \no Subunit 1. Medical perspec tive - confidentiality  \no Subunit 2. Batho - pele Principles  \no Subunit 3. Supersession  \no Subunit 4. Hippocratic Oath  \no Subunit 5. Scope of Practice  \nUnit 3: Dental Practice Management  \no Subunit 1. Management of quality in a dental practice  \no Subunit  2. The newly qualifi ed dental therapist/oral hygienist - commencing \npractice  \no Subunit 3. Marketing my practice  \no Subunit 4. Managing processes, procedures and leading people  \no Subunit 5. Managing the daily business in a dental practice  \no Subunit 6. Financial management  \n \nLearning Ou tcomes  At the end of this module, the student will:  \n\uf0b7 Explain the impact of human rights violations on health.  \n\uf0b7 Understand the historical background of the rules and regulations that \ngovern research and apply these rules to research projects in different fiel ds. \n\uf0b7 Classify the different types of health care waste and the impact that such \nwaste has on the environment.  \n\uf0b7 Design a scarce resources allocation plan, using the principles of business  \n 87 ethics in your plan.  \n\uf0b7 Use the Batho -Pele Principles to solve ethical dil emmas of confidentiality \nand supersession during patient care.  \n\uf0b7 Explain how the Hippocratic oath can be used to support the scope of \npractice of a dental therapist/ oral hygienist and how it can add value to the \nquality of care and the daily management of a  dental practice.  \n\uf0b7 Explain the Human resources policies and procedures that you need to be \naware of an employer.  \n\uf0b7 Highlight the business skills, financial and marketing management \nstrategies you can use when you start a dental practice, buy an existing \npract ice or grow your own existing practice.  \n \nModule Information:  SAQA Credits   ITS Course Level Code  CESM Code (3rd Order)  \n8 3 091901  \nDelivery Information:  Campus  Full/Part Time  Period (Year/1st/2ndSem)  \nSMU  FT Y \nPeriods per week:   Lectures  Practicals  Tutorial  Assignments  Independent \nLearning  \n2 None  None  3 None",
+    "Prerequisite": {
+      "Comment": "All 2nd year modules"
+    },
+    "Corequisite": {
+      "Comment": "None"
+    },
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "DP": 40,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  },
+  {
+    "Code": "MREA030",
+    "Name": "Research Methodology",
+    "Duration": "Year",
+    "Credit": 16,
+    "Description": "Oral Health Research, Science, the Scientific Method; Literature \nSearch; Types of Research and approaches to it; Control of Confounding \nEffects; Research Design; Sampling; Data Collection and Measurement; \nAnalysis of Research Findings ; Interpretation of Data; Presentation of Findings; \nCritical Analysis of the Literature; Application of Research to profession and \nPractice. A small research project will be conducted and presented in a \nscientific format.  \nLearning Outcomes:  At the end of the module, the student will be able to:  \n\uf0b7 Demonstrate knowledge of the scientific research process and how it \napplies to oral health investigations  \n\uf0b7 Propose scientifically sound research approaches to address oral health \nresearch questions  \n\uf0b7 Understand the imp ortance of and maintain ethical and legal behavior \nthroughout the research process  \n\uf0b7 Share research findings through oral and poster presentations, report \nwriting and articles.  \nModule Information:  SAQA Credits  \n(4; 8; 12; 16; 20; 24; \n28;32)   ITS Course Level   CESM Code (3rd \nOrder)  \n(Six Numbers)  \n16 3 090301  \nDelivery Information:  Campus  Full/Part Time  Period  \n(Year/1st/2ndSem)  \nSMU             Full-Time  YEAR  \nPeriods per week:  Classes  Practicals  Tutorial  Seminars  Independent \nLearning  \n1     \nPre-requisite mo dules for this module:  None",
+    "Corequisite": {
+      "Comment": "None "
+    },
+    "Assessments": [
+      {
+        "Name": "Continuous Assessments",
+        "Type": "Coursework",
+        "Weight": 60
+      },
+      {
+        "Name": "Examination",
+        "Type": "Exam",
+        "Weight": 40
+      }
+    ],
+    "DP": 40,
+    "Institution": "Sefako Makgatho Health Sciences University"
+  }
+]

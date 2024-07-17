@@ -1,0 +1,16 @@
+MRAT010 Radiation Techniques I 32 Credits 5 NQF
+MANB010 Anatomy IA 24 Credits 5 NQF
+MIMR010 Image Recording I 24 Credits 5 NQF
+MBPA010 Biophysics IB 24 Credits 5 NQF
+MEHS010 English for Health Sciences 12 Credits 5 NQF
+
+MRAB020 Radiation Technique II 32 Credits 6 NQF
+MPLB020 Physiology IB 24 Credits 6 NQF
+MRAA020 Image Recording II 28 Credits 6 NQF
+MBPA020 Biophysics IIB 20 Credits 6 NQF
+MBPB020 Biophysics IIC 20 Credits 6 NQF
+
+MRAB030 Radiation Techniques III 32 Credits 7 NQF
+MPAA030 Pathology and Anatomy 32 Credits 7 NQF
+MRAA030 Image Recording III 28 Credits 7 NQF
+MBPA030 Biophysics IIIB 28 Credits 7 NQF

@@ -1,0 +1,75 @@
+MEHS010 English for Health Sciences Y  12 Credits
+MBEH010 Behavioural Sciences Y 16 Credits
+MBLC010 Biology I Y 16 Credits
+MBPC010 Biophysics I Y 20 Credits
+MCHM010 Chemistry IA Y 20 Credits
+MINM010 Introduction to Microbiology Y 8 Credits
+MICL010 Integrated Clinical Dentistry I Y 32 Credits
+
+MCDB020 Integrated Clinical Dentistry II Y 24 Credits
+MODA020 Operative Dentistry I Y 16 Credits
+MPRA020 Prosthodontics I Y 20 Credits
+MANA020 Applied Anatomy Y 32 Credits
+MPLA020 Physiology for Dentistry Y 32 Credits
+MMXA020 Oral Biology I Y 16 Credits
+MMXB020 Maxillofacial & Oral Radiology Y 16 Credits
+
+MMXA030 Maxillofacial & Oral Surgery I Y 12 Credits
+MODA030 Operative Dentistry II Y 32 Credits
+MORC030 Oral Medicine I Y 8 Credits
+MMXB030 Orthodontics I Y 12 Credits
+MMXC030 Pathology & Radiology of DentoOsseous Anom I (Radiography)  Y 20 Credits
+MPEB030 Periodontology I Y 8 Credits
+MPRA030 Prosthodontics II Y 20 Credits
+MDEB030 Dental Public Health I Y 4 Credits
+MCDA030 Integrated Clinical Dentistry III Y 4 Credits
+MAPB031 Anatomical & Chemical Pathology Y 12 Credits
+MPSA030 Psychology for Dentistry Y 8 Credits
+MMMA031 General Microbiology and Immunology S1 16 Credits
+MPYC031 General Pharmacology Y 12 Credits
+MAAA032 Internal Medicine, General Surgery and Anaesthesiology S2 20 Credits
+
+MMXA040 Maxillofacial & Oral Surgery II Y 16 Credits
+MODA040 Operative Dentistry III Y 32 Credits
+MORA040 Oral Medicine II Y 8 Credits
+MMXB040 Orthodontics II Y 16 Credits
+MMXC040 Pathology & Radiology of Dento Osseous Anomalies II (Pathology) Y 20 Credits
+MPEC040 Periodontology II Y 8 Credits
+MPRA040 Prosthodontics III Y 40 Credits
+MDED040 Dental Public Health II Y 12 Credits
+MCDA040 Integrated Clinical Dentistry IV Y 8 Credits
+
+MCDA050 Comprehensive Clinical Cases Y 140 Credits
+MRDA050 Problem Based Learning Y 12 Credits
+MSVA050 Service Learning Y 16 Credits
+MELA050 Electives Y 8 Credits
+
+MORH010 Oral Health I Y 16 Credits
+MRAB010 Radiography I Y 12 Credits
+MEHS010 English for Health Sciences Y 12 Credits
+MBEH010 Behavioural Science Y 16 Credits
+MDEA010 Dental Public Health I Y 8 Credits
+MPHL010 Physiology Y 8 Credits
+MCHY010 Chemistry IB Y 16 Credits
+MIOM010 Oral Microbiology Y 8 Credits
+MANB111 Anatomy (1ST semester) S1 8 Credits
+MORB010 Oral Biology Y 12 Credits
+MICL010 Integrated Clinical Dentistry I Y 16 Credits
+
+MSPC020 Special Patient Care I Y 28 Credits
+MSPA020 Specialized Clinical Dentistry Y 28 Credits
+MPEA020 Periodontology & Oral Medicine Y 20 Credits
+MMXC020 Radiography II Y 8 Credits
+MACA020 Academic Skills II Y 16 Credits
+MDEA020 Dental Public Health II Y 4 Credits
+METB020 Ethical Practice Management I Y 4 Credits
+MAOR012 Applied Oral Pathology Y 4 Credits
+MPYA021 Applied Pharmacology S1 8 Credits
+
+MORB030 Oral Medicine Y 12 Credits
+MSPB030 Specialized Clinical Dentistry: Clinical Practice Y 32 Credits
+MSPD030 Special Patient Care II Y 32 Credits
+MMXD030 Radiography III Y 12 Credits
+MDEA030 Dental Public Health III Y 8 Credits
+META030 Ethical Practice Management II Y 8 Credits
+MREA030 Research Methodology Y 16 Credits

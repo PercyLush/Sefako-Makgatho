@@ -1,28 +1,54 @@
 import re
 
 def code():
-    path = "C:\\Users\\Bheki Lushaba\\Desktop\\Sefako Makgatho\\MedicineDescriptions.txt"
+    path = "C:\\Users\\Bheki Lushaba\\Desktop\\Sefako Makgatho\\BDSandBOH.txt"
 
     with open(path, "r", encoding="utf-8") as file1:
         data = file1.read()
 
-        pattern = r"(.+)\s*\(\s*([A-Z]+\s*\d{3})\s*\)"
-        new_file = re.sub(pattern, r"\nName: \1\nCode: \2", data)
+        pattern = r"([A-Z]+\s*\d{3})\s*(.+)\s*"
+        new_file = re.sub(pattern, r"\nCode: \1\nName: \2", data)
 
-    with open("C:\\Users\\Bheki Lushaba\\Desktop\\Sefako Makgatho\\MedicineDescriptionsFinal.txt", "w", encoding="utf-8") as file2:
+    with open("C:\\Users\\Bheki Lushaba\\Desktop\\Sefako Makgatho\\BDSandBOHFinal.txt", "w", encoding="utf-8") as file2:
         file2.write(new_file)
 
-def description():
-    path = "C:\\Users\\Bheki Lushaba\\Desktop\\Sefako Makgatho\\MedicineDescriptionsFinal.txt"
+def duration():
+    path = "C:\\Users\\Bheki Lushaba\\Desktop\\Sefako Makgatho\\BDSandBOHFinal.txt"
 
     with open(path, "r", encoding="utf-8") as file1:
         data = file1.read()
 
-        pattern = r"Code:(.+)\n(.+)"
-        new_file = re.sub(pattern, r"Code: \1\nDescription: \2", data)
+        pattern = r"(\sY\s(.+)|\sS2\s(.+)|\sS2\s(.+))"
+        new_file = re.sub(pattern, r"\nDuration: \1", data)
 
-    with open("C:\\Users\\Bheki Lushaba\\Desktop\\Sefako Makgatho\\MedicineDescriptionsFinal.txt", "w", encoding="utf-8") as file2:
+    with open("C:\\Users\\Bheki Lushaba\\Desktop\\Sefako Makgatho\\BDSandBOHFinal.txt", "w", encoding="utf-8") as file2:
+        file2.write(new_file)
+
+def credit():
+    path = "C:\\Users\\Bheki Lushaba\\Desktop\\Sefako Makgatho\\BDSandBOHFinal.txt"
+
+    with open(path, "r", encoding="utf-8") as file1:
+        data = file1.read()
+
+        pattern = r"(\d+\s*Credits)"
+        new_file = re.sub(pattern, r"\nCredit: \1\n", data)
+
+    with open("C:\\Users\\Bheki Lushaba\\Desktop\\Sefako Makgatho\\BDSandBOHFinal.txt", "w", encoding="utf-8") as file2:
+        file2.write(new_file)
+
+def nqf():
+    path = "C:\\Users\\Bheki Lushaba\\Desktop\\Sefako Makgatho\\BDSandBOHFinal.txt"
+
+    with open(path, "r", encoding="utf-8") as file1:
+        data = file1.read()
+
+        pattern = r"(\d{1}\s*NQF)"
+        new_file = re.sub(pattern, r"\nNQF: \1\n\n", data)
+
+    with open("C:\\Users\\Bheki Lushaba\\Desktop\\Sefako Makgatho\\BDSandBOHFinal.txt", "w", encoding="utf-8") as file2:
         file2.write(new_file)
 
 code()
-description()
+duration()
+credit()
+#nqf()

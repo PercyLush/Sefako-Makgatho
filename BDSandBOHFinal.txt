@@ -1,0 +1,337 @@
+
+Code: MEHS010
+Name: English for Health Sciences
+Duration:  Y  
+Credit: 12
+
+Code: MBEH010
+Name: Behavioural Sciences
+Duration:  Y 
+Credit: 16
+
+Code: MBLC010
+Name: Biology I
+Duration:  Y 
+Credit: 16
+
+Code: MBPC010
+Name: Biophysics I
+Duration:  Y 
+Credit: 20
+
+Code: MCHM010
+Name: Chemistry IA
+Duration:  Y 
+Credit: 20
+
+Code: MINM010
+Name: Introduction to Microbiology
+Duration:  Y 
+Credit: 8
+
+Code: MICL010
+Name: Integrated Clinical Dentistry I
+Duration:  Y 
+Credit: 32
+
+Code: MCDB020
+Name: Integrated Clinical Dentistry II
+Duration:  Y 
+Credit: 24
+
+Code: MODA020
+Name: Operative Dentistry I
+Duration:  Y 
+Credit: 16
+
+Code: MPRA020
+Name: Prosthodontics I
+Duration:  Y 
+Credit: 20
+
+Code: MANA020
+Name: Applied Anatomy
+Duration:  Y 
+Credit: 32
+
+Code: MPLA020
+Name: Physiology for Dentistry
+Duration:  Y 
+Credit: 32
+
+Code: MMXA020
+Name: Oral Biology I
+Duration:  Y 
+Credit: 16
+
+Code: MMXB020
+Name: Maxillofacial & Oral Radiology
+Duration:  Y 
+Credit: 16
+
+Code: MMXA030
+Name: Maxillofacial & Oral Surgery I
+Duration:  Y 
+Credit: 12
+
+Code: MODA030
+Name: Operative Dentistry II
+Duration:  Y 
+Credit: 32
+
+Code: MORC030
+Name: Oral Medicine I
+Duration:  Y 
+Credit: 8
+
+Code: MMXB030
+Name: Orthodontics I
+Duration:  Y 
+Credit: 12
+
+Code: MMXC030
+Name: Pathology & Radiology of DentoOsseous Anom I (Radiography) 
+Duration:  Y 
+Credit: 20
+
+Code: MPEB030
+Name: Periodontology I
+Duration:  Y 
+Credit: 8
+
+Code: MPRA030
+Name: Prosthodontics II
+Duration:  Y 
+Credit: 20
+
+Code: MDEB030
+Name: Dental Public Health I
+Duration:  Y 
+Credit: 4
+
+Code: MCDA030
+Name: Integrated Clinical Dentistry III
+Duration:  Y 
+Credit: 4
+
+Code: MAPB031
+Name: Anatomical & Chemical Pathology
+Duration:  Y 
+Credit: 12
+
+Code: MPSA030
+Name: Psychology for Dentistry
+Duration:  Y 
+Credit: 8
+
+Code: MMMA031
+Name: General Microbiology and Immunology S1 
+Credit: 16
+
+Code: MPYC031
+Name: General Pharmacology
+Duration:  Y 
+Credit: 12
+
+Code: MAAA032
+Name: Internal Medicine, General Surgery and Anaesthesiology
+Duration:  S2 
+Credit: 20
+
+Code: MMXA040
+Name: Maxillofacial & Oral Surgery II
+Duration:  Y 
+Credit: 16
+
+Code: MODA040
+Name: Operative Dentistry III
+Duration:  Y 
+Credit: 32
+
+Code: MORA040
+Name: Oral Medicine II
+Duration:  Y 
+Credit: 8
+
+Code: MMXB040
+Name: Orthodontics II
+Duration:  Y 
+Credit: 16
+
+Code: MMXC040
+Name: Pathology & Radiology of Dento Osseous Anomalies II (Pathology)
+Duration:  Y 
+Credit: 20
+
+Code: MPEC040
+Name: Periodontology II
+Duration:  Y 
+Credit: 8
+
+Code: MPRA040
+Name: Prosthodontics III
+Duration:  Y 
+Credit: 40
+
+Code: MDED040
+Name: Dental Public Health II
+Duration:  Y 
+Credit: 12
+
+Code: MCDA040
+Name: Integrated Clinical Dentistry IV
+Duration:  Y 
+Credit: 8
+
+Code: MCDA050
+Name: Comprehensive Clinical Cases
+Duration:  Y 
+Credit: 140
+
+Code: MRDA050
+Name: Problem Based Learning
+Duration:  Y 
+Credit: 12
+
+Code: MSVA050
+Name: Service Learning
+Duration:  Y 
+Credit: 16
+
+Code: MELA050
+Name: Electives
+Duration:  Y 
+Credit: 8
+
+Code: MORH010
+Name: Oral Health I
+Duration:  Y 
+Credit: 16
+
+Code: MRAB010
+Name: Radiography I
+Duration:  Y 
+Credit: 12
+
+Code: MEHS010
+Name: English for Health Sciences
+Duration:  Y 
+Credit: 12
+
+Code: MBEH010
+Name: Behavioural Science
+Duration:  Y 
+Credit: 16
+
+Code: MDEA010
+Name: Dental Public Health I
+Duration:  Y 
+Credit: 8
+
+Code: MPHL010
+Name: Physiology
+Duration:  Y 
+Credit: 8
+
+Code: MCHY010
+Name: Chemistry IB
+Duration:  Y 
+Credit: 16
+
+Code: MIOM010
+Name: Oral Microbiology
+Duration:  Y 
+Credit: 8
+
+Code: MANB111
+Name: Anatomy (1ST semester) S1 
+Credit: 8
+
+Code: MORB010
+Name: Oral Biology
+Duration:  Y 
+Credit: 12
+
+Code: MICL010
+Name: Integrated Clinical Dentistry I
+Duration:  Y 
+Credit: 16
+
+Code: MSPC020
+Name: Special Patient Care I
+Duration:  Y 
+Credit: 28
+
+Code: MSPA020
+Name: Specialized Clinical Dentistry
+Duration:  Y 
+Credit: 28
+
+Code: MPEA020
+Name: Periodontology & Oral Medicine
+Duration:  Y 
+Credit: 20
+
+Code: MMXC020
+Name: Radiography II
+Duration:  Y 
+Credit: 8
+
+Code: MACA020
+Name: Academic Skills II
+Duration:  Y 
+Credit: 16
+
+Code: MDEA020
+Name: Dental Public Health II
+Duration:  Y 
+Credit: 4
+
+Code: METB020
+Name: Ethical Practice Management I
+Duration:  Y 
+Credit: 4
+
+Code: MAOR012
+Name: Applied Oral Pathology
+Duration:  Y 
+Credit: 4
+
+Code: MPYA021
+Name: Applied Pharmacology S1 
+Credit: 8
+
+Code: MORB030
+Name: Oral Medicine
+Duration:  Y 
+Credit: 12
+
+Code: MSPB030
+Name: Specialized Clinical Dentistry: Clinical Practice
+Duration:  Y 
+Credit: 32
+
+Code: MSPD030
+Name: Special Patient Care II
+Duration:  Y 
+Credit: 32
+
+Code: MMXD030
+Name: Radiography III
+Duration:  Y 
+Credit: 12
+
+Code: MDEA030
+Name: Dental Public Health III
+Duration:  Y 
+Credit: 8
+
+Code: META030
+Name: Ethical Practice Management II
+Duration:  Y 
+Credit: 8
+
+Code: MREA030
+Name: Research Methodology
+Duration:  Y 
+Credit: 16

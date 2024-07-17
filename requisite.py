@@ -2,7 +2,7 @@ import json
 import re
 
 def prerequisite():
-    path = "C:\\Users\\Bheki Lushaba\\Desktop\\Sefako Makgatho\\ScienceFinal.json"
+    path = "C:\\Users\\Bheki Lushaba\\Desktop\\Sefako Makgatho\\OralHealthFinal.json"
 
     with open(path, "r", encoding="utf-8") as file1:
         data = json.load(file1)
@@ -41,11 +41,11 @@ def prerequisite():
                     else:
                         prerequisite = {"Comment": prerequisite_text}
             item["Prerequisite"] = prerequisite
-    with open("C:\\Users\\Bheki Lushaba\\Desktop\\Sefako Makgatho\\ScienceFINAL.json", "w", encoding="utf-8") as file2:
+    with open("C:\\Users\\Bheki Lushaba\\Desktop\\Sefako Makgatho\\OralHealthFINALs.json", "w", encoding="utf-8") as file2:
         json.dump(data, file2, indent=2)
 
 def corequisite():
-    path = "C:\\Users\\Bheki Lushaba\\Desktop\\Sefako Makgatho\\ScienceFINAL.json"
+    path = "C:\\Users\\Bheki Lushaba\\Desktop\\Sefako Makgatho\\OralHealthFINALs.json"
 
     with open(path, "r", encoding="utf-8") as file1:
         data = json.load(file1)
@@ -84,7 +84,7 @@ def corequisite():
                     else:
                         corequisite = {"Comment": corequisite_text}
             item["Corequisite"] = corequisite
-    with open("C:\\Users\\Bheki Lushaba\\Desktop\\Sefako Makgatho\\ScienceFINAL.json", "w", encoding="utf-8") as file2:
+    with open("C:\\Users\\Bheki Lushaba\\Desktop\\Sefako Makgatho\\OralHealthFINALs.json", "w", encoding="utf-8") as file2:
         json.dump(data, file2, indent=2)
 
 prerequisite()
